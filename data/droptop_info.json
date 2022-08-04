@@ -1,0 +1,145 @@
+{
+    "messages": [
+        {
+            "name": "info",
+            "content": [
+                {
+                    "name": "Generic",
+                    "fields": [
+                        {
+                            "name": "What is it?",
+                            "content": "Droptop Four is a popular dropdown app launcher for Windows & Rainmeter.\nIt is available in two version, a `Basic` one, free, and a `Supporter` one, with a \\'pay what you want\\' donation.\nBoth versions have 14 system tray apps, the Always Show option to make it accessible everywhere on top of your desktop and a lot more.",
+                            "inline": "False"
+                        },
+                        {
+                            "name": "Basic Version",
+                            "content": "The `Basic` version has:\n - 7 home bottons icons\n - 6 fully-customizable toolbars\n - 4 themes to choose from",
+                            "inline": "True"
+                        },
+                        {
+                            "name": "Supporter Version",
+                            "content": "The `Supporter` version has:\n - 300 home buttons icons\n - 12 fully-customizable toolbars\n - 22 themes to choose from",
+                            "inline": "True"
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic",
+                    "fields": [
+                        {
+                            "name": "What is it?",
+                            "content": "This is the Basic and free version of droptop.",
+                            "inline": "False"
+                        },
+                        {
+                            "name": "Perks",
+                            "content": "The `Basic` version has:\n - 7 home bottons icons\n - 6 fully-customizable toolbars\n - 4 themes to choose from",
+                            "inline": "True"
+                        },
+                        {
+                            "name": "Download",
+                            "content": "To install it you have to download it on the DeviantArt page of Droptop Four:\nhttps://www.deviantart.com/cariboudjan/art/droptop-four-762812007\nTo see further explanations on download methods type `/download Base`",
+                            "inline": "True"
+                        }
+                    ]
+                },
+                {
+                    "name": "Supporter",
+                    "fields": [
+                        {
+                            "name": "What is it?",
+                            "content": "This is the Supporter version of droptop.\nTo download it you can pay what you want through Gumroad.",
+                            "inline": "False"
+                        },
+                        {
+                            "name": "Perks",
+                            "content": "The `Supporter` version has:\n - 300 home buttons icons\n - 12 fully-customizable toolbars\n - 22 themes to choose from",
+                            "inline": "True"
+                        },
+                        {
+                            "name": "Download",
+                            "content": "To install it you have to:\n1) download the Basic version on the [DeviantArt page of Droptop Four](https://www.deviantart.com/cariboudjan/art/droptop-four-762812007)\n2) download the Supporter update through [Gumroad](https://gumroad.com/l/droptop) choosing how much you want to pay for it (from 0$).\nTo see further explanations on download methods type `/download Supporter`",
+                            "inline": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "download",
+            "content": [
+                {
+                    "name": "Generic",
+                    "fields": [
+                        {
+                            "name": "Where to download?",
+                            "content": "\u200b",
+                            "inline": "False"
+                        },
+                        {
+                            "name": "Base version",
+                            "content": "The Droptop **Base** version can be downloaded on [GitHub](https://github.com/Droptop-Four/Basic-Version/releases/). To see further informations about the Base version type `/info Base`.",
+                            "inline": "True"
+                        },
+                        {
+                            "name": "Supporter version",
+                            "content": "The Droptop **Supporter** version can be downloaded after paying what you want on [Gumroad](https://gumroad.com/l/droptop). To see further informations about the Supporter version type `/info Supporter`.",
+                            "inline": "True"
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic",
+                    "fields": [
+                        {
+                            "name": "Where to download?",
+                            "content": "\u200b",
+                            "inline": "False"
+                        },
+                        {
+                            "name": "Base version",
+                            "content": "The Droptop **Base** version can be downloaded on [GitHub](https://github.com/Droptop-Four/Basic-Version/releases/). To see further informations about the Base version type `/info Base`.",
+                            "inline": "True"
+                        }
+                    ]
+                },
+                {
+                    "name": "Supporter",
+                    "fields": [
+                        {
+                            "name": "Where to download?",
+                            "content": "\u200b",
+                            "inline": "False"
+                        },
+                        {
+                            "name": "Supporter version",
+                            "content": "The Droptop **Supporter** version can be downloaded after paying what you want on [Gumroad](https://gumroad.com/l/droptop). To see further informations about the Supporter version type `/info Supporter`.",
+                            "inline": "True"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "update",
+            "content": [
+                {
+                    "name": "Generic",
+                    "fields": [
+                        {
+                            "name": "Where to update?",
+                            "content": "Droptop should automatically detect new updates in the last row of the Droptop home menu. You can also find the Update for Droptop on [Github](https://github.com/Droptop-Four/Update/releases/latest).",
+                            "inline": "False"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "faq",
+            "content": [
+                
+            ]
+        }
+    ]
+}
