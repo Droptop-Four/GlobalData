@@ -145,7 +145,16 @@
         {
             "name": "faq",
             "content": [
-                
+                {
+                    "name": "Generic",
+                    "fields": [
+                        {
+                            "name": "Where do I find the FAQs?",
+                            "content": "You can find the FAQ at https://blacksquare88.wixsite.com/droptop4/faq.",
+                            "inline": "False"
+                        }
+                    ]
+                }
             ]
         }
     ]
