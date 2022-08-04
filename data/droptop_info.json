@@ -21,7 +21,8 @@
                             "content": "The `Supporter` version has:\n - 300 home buttons icons\n - 12 fully-customizable toolbars\n - 22 themes to choose from",
                             "inline": "True"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter` or click the buttons below"
                 },
                 {
                     "name": "Basic",
@@ -41,7 +42,8 @@
                             "content": "To install it you have to download it on the DeviantArt page of Droptop Four:\nhttps://www.deviantart.com/cariboudjan/art/droptop-four-762812007\nTo see further explanations on download methods type `/download Base`",
                             "inline": "True"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter` or click the buttons below"
                 },
                 {
                     "name": "Supporter",
@@ -61,7 +63,8 @@
                             "content": "To install it you have to:\n1) download the Basic version on the [DeviantArt page of Droptop Four](https://www.deviantart.com/cariboudjan/art/droptop-four-762812007)\n2) download the Supporter update through [Gumroad](https://gumroad.com/l/droptop) choosing how much you want to pay for it (from 0$).\nTo see further explanations on download methods type `/download Supporter`",
                             "inline": "True"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter` or click the buttons below"
                 }
             ]
         },
@@ -86,7 +89,8 @@
                             "content": "The Droptop **Supporter** version can be downloaded after paying what you want on [Gumroad](https://gumroad.com/l/droptop). To see further informations about the Supporter version type `/info Supporter`.",
                             "inline": "True"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter` or click the buttons below"
                 },
                 {
                     "name": "Basic",
@@ -101,7 +105,8 @@
                             "content": "The Droptop **Base** version can be downloaded on [GitHub](https://github.com/Droptop-Four/Basic-Version/releases/). To see further informations about the Base version type `/info Base`.",
                             "inline": "True"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter` or click the buttons below"
                 },
                 {
                     "name": "Supporter",
@@ -116,7 +121,8 @@
                             "content": "The Droptop **Supporter** version can be downloaded after paying what you want on [Gumroad](https://gumroad.com/l/droptop). To see further informations about the Supporter version type `/info Supporter`.",
                             "inline": "True"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter` or click the buttons below"
                 }
             ]
         },
@@ -131,7 +137,8 @@
                             "content": "Droptop should automatically detect new updates in the last row of the Droptop home menu. You can also find the Update for Droptop on [Github](https://github.com/Droptop-Four/Update/releases/latest).",
                             "inline": "False"
                         }
-                    ]
+                    ],
+                    "footer": "To see further infos on one of the two versions type `/info Basic` or `/info Supporter`"
                 }
             ]
         },
