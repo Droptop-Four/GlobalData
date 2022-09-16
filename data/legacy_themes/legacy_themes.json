@@ -1,0 +1,114 @@
+{
+    "themes": [
+        {
+            "id": 1,
+            "name": "Default",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/1.png"
+        },
+        {
+            "id": 2,
+            "name": "Color Match",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/2.png"
+        },
+        {
+            "id": 3,
+            "name": "Big Sur",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/3.png"
+        },
+        {
+            "id": 5,
+            "name": "Transparent",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/4.png"
+        },
+        {
+            "id": 5,
+            "name": "Flat & Solid",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/5.png"
+        },
+        {
+            "id": 6,
+            "name": "Cathode",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/6.png"
+        },
+        {
+            "id": 7,
+            "name": "Dapil",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/7.png"
+        },
+        {
+            "id": 8,
+            "name": "Ubuntu",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/8.png"
+        },
+        {
+            "id": 9,
+            "name": "Windows 95",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/9.png"
+        },
+        {
+            "id": 10,
+            "name": "Catalina",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/10.png"
+        },
+        {
+            "id": 11,
+            "name": "Retro",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/11.png"
+        },
+        {
+            "id": 12,
+            "name": "Chrome OS",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/12.png"
+        },
+        {
+            "id": 13,
+            "name": "Minimalist",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/13.png"
+        },
+        {
+            "id": 14,
+            "name": "Aperture Science",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/14.png"
+        },
+        {
+            "id": 15,
+            "name": "Windows 11",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/15.png"
+        },
+        {
+            "id": 16,
+            "name": "Elementary OS",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/16.png"
+        },
+        {
+            "id": 17,
+            "name": "Tranquil",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/17.png"
+        },
+        {
+            "id": 18,
+            "name": "Macintosh",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/18.png"
+        },
+        {
+            "id": 19,
+            "name": "Gameboy",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/19.png"
+        },
+        {
+            "id": 20,
+            "name": "Terminal",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/20.png"
+        },
+        {
+            "id": 21,
+            "name": "Senja",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/21.png"
+        },
+        {
+            "id": 22,
+            "name": "Discord",
+            "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/legacy_themes/img/22.png"
+        }
+    ]
+}
