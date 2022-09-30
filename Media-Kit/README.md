@@ -29,7 +29,7 @@
     <a href="https://github.com/Droptop-Four/Basic-Version/releases/tag/Current-Stable"><img src="https://img.shields.io/static/v1?label=Download&message=Droptop+Four&color=50AE5C&style=for-the-badge" alt="Download Droptop Four"></a>
 </p><br>
 
-<table>
+<table align="center">
     <tbody>
         <tr>
           <th colspan="3" style="text-align:center">Droptop Four Logos</th>
@@ -47,7 +47,7 @@
         </tr>
 </table><br>
 
-<table>
+<table align="center">
     <tbody>
         <tr>
           <th colspan="3" style="text-align:center">Droptop Four Banners</th>
