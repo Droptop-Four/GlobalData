@@ -2,6 +2,97 @@
     "apps": [
         {
             "app": {
+                "id": 16,
+                "name": "Feeder",
+                "author": "Cariboudjan",
+                "author_link": "https://github.com/Cariboudjan",
+                "desc": "RSS Feeder for Lifehacker, Yahoo! News, Wall Street Journal, CBC News, The New Yorker, New York Times, and The Lincoln Project.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Feeder-Cariboudjan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Feeder-Cariboudjan/Feeder%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Feeder-Phan.png"
+            }
+        },
+        {
+            "app": {
+                "id": 15,
+                "name": "Random Theme Changer",
+                "author": "Mike Boynton",
+                "author_link": "https://github.com/papa-boynton",
+                "desc": "Selects a random theme with a click.",
+                "official_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton",
+                "direct_download_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton/releases/download/latest/Random.Theme.Changer.-.Mike.Boynton.Droptop.App.rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Random_Theme_Changer-Mike_Boynton.png"
+            }
+        },
+        {
+            "app": {
+                "id": 14,
+                "name": "Game Hub",
+                "author": "Phan",
+                "author_link": "#",
+                "desc": "This is a community app to keep your favorite games organized.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Game_Hub-Phan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game_Hub-Phan/Game%20Hub%20-%Phan%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game_Hub-Phan.png"
+            }
+        },
+        {
+            "app": {
+                "id": 13,
+                "name": "Shortcut",
+                "author": "Phan",
+                "author_link": "#",
+                "desc": "This is a community app that allwos you to add a shortcut of any program or file in your Droptop bar.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Shortcut-Phan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Shortcut-Phan/Shortcut%20-%Phan%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Shortcut-Phan.png"
+            }
+        },
+        {
+            "app": {
+                "id": 12,
+                "name": "Search Bar",
+                "author": "Mike Boynton",
+                "author_link": "https://github.com/papa-boynton",
+                "desc": "Search the Internet with your choice of five search sites. Based on original code by JSMorley.",
+                "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
+                "direct_download_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton/releases/download/Latest/SearchBar.-.Mike.Boynton.Droptop.App.rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Search_Bar-Mike_Boynton.png"
+            }
+        },
+        {
+            "app": {
+                "id": 11,
+                "name": "Gradient Bar",
+                "author": "Phan",
+                "author_link": "#",
+                "desc": "This is a community app that allows you to customize the colors of the top bar.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Gradient_Bar-Phan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Gradient_Bar-Phan/Gradient%20Bar%20-%Phan%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Gradient_Bar-Phan.png"
+            }
+        },
+        {
+            "app": {
+                "id": 10,
+                "name": "Color Mode Toggle",
+                "author": "Cariboudjan",
+                "author_link": "https://github.com/Cariboudjan",
+                "desc": "On compatible themes, one-click toggle switching between dark mode and light mode.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Color_Mode_Toggle-Cariboudjan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color_Mode_Toggle-Cariboudjan/Color%20Mode%20Toggle%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Color_Mode_Toggle-Cariboudjan.png"
+            }
+        },
+        {
+            "app": {
                 "id": 9,
                 "name": "Media Control",
                 "author": "Yaron",
@@ -10,25 +101,12 @@
                 "official_link": "https://github.com/Yaron2334/Media-Control",
                 "direct_download_link": "https://github.com/Yaron2334/Media-Control/raw/main/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/MediaControl-Yaron.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Media_Control-Jax.png"
             }
         },
         {
             "app": {
                 "id": 8,
-                "name": "Color Mode Toggle",
-                "author": "Cariboudjan",
-                "author_link": "https://github.com/Cariboudjan",
-                "desc": "On compatible themes, one-click toggle switching between dark mode and light mode.",
-                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Color_Mode_Toggle-Cariboudjan",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color_Mode_Toggle-Cariboudjan/Color%20Mode%20Toggle%20-%20Cariboudjan%20(Droptop%20App).rmskin",
-                "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/ColorModeToggle-Cariboudjan.png"
-            }
-        },
-        {
-            "app": {
-                "id": 7,
                 "name": "JaxCore",
                 "author": "Jax",
                 "author_link": "https://github.com/EnhancedJax",
@@ -41,6 +119,19 @@
         },
         {
             "app": {
+                "id": 7,
+                "name": "Fluent Control Center",
+                "author": "LoadingName",
+                "author_link": "https://github.com/LoadingName1386",
+                "desc": "A Windows 11 inspired control center.",
+                "official_link": "https://github.com/LoadingName1386/Fluent-ControlCenter",
+                "direct_download_link": "https://github.com/LoadingName1386/Fluent-ControlCenter/releases/download/Droptop/FluentControl.Center_1.0.rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Fluent_Control_Center-LoadingName.png"
+            }
+        },
+        {
+            "app": {
                 "id": 6,
                 "name": "System Monitor",
                 "author": "Yaron",
@@ -49,7 +140,7 @@
                 "official_link": "https://github.com/Yaron2334/SystemMonitor",
                 "direct_download_link": "https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/SystemMonitor-Yaron.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/System_Monitor-Yaron.png"
             }
         },
         {
@@ -62,7 +153,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Quick_Settings-Cariboudjan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Quick_Settings-Cariboudjan/Quick%20Settings%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/QuickSettings-Cariboudjan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Quick_Settings-Cariboudjan.png"
             }
         },
         {
@@ -81,19 +172,6 @@
         {
             "app": {
                 "id": 3,
-                "name": "DailyQuotes",
-                "author": "Bunz",
-                "author_link": "https://github.com/66Bunz",
-                "desc": "Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.",
-                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Daily_Quotes-Bunz",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily_Quotes-Bunz/Daily%20Quotes%20-%20Bunz%20(Droptop%20App).rmskin",
-                "secondary_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/DailyQuotes-Bunz.png"
-            }
-        },
-        {
-            "app": {
-                "id": 2,
                 "name": "Recycle Bin",
                 "author": "Phanlock",
                 "author_link": "#",
@@ -101,12 +179,12 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phanlock",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle_Bin-Phanlock/Recycle%20Bin%20-%20Phanlock%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/RecycleBin-Phanlock.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Recycle_Bin-Phanlock.png"
             }
         },
         {
             "app": {
-                "id": 1,
+                "id": 2,
                 "name": "Location",
                 "author": "notAperson",
                 "author_link": "#",
@@ -115,6 +193,19 @@
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Location-notAperson/Location%20-%20notAperson%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Location-notAperson.png"
+            }
+        },
+        {
+            "app": {
+                "id": 1,
+                "name": "DailyQuotes",
+                "author": "Bunz",
+                "author_link": "https://github.com/66Bunz",
+                "desc": "Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Daily_Quotes-Bunz",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily_Quotes-Bunz/Daily%20Quotes%20-%20Bunz%20(Droptop%20App).rmskin",
+                "secondary_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daily_Quotes-Bunz.png"
             }
         }
     ]
