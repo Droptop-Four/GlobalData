@@ -160,26 +160,26 @@
             "app": {
                 "id": 4,
                 "name": "Disks",
-                "author": "Phanklock",
+                "author": "Phan",
                 "author_link": "#",
                 "desc": "Shortcuts of up to 5 disk drives and displays remaining gigabytes.",
-                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Disks-Phanlock",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Disks-Phanlock/Disks%20-%20Phanlock%20(Droptop%20App).rmskin",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Disks-Phan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Disks-Phan/Disks%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Disks-Phanlock.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Disks-Phan.png"
             }
         },
         {
             "app": {
                 "id": 3,
                 "name": "Recycle Bin",
-                "author": "Phanlock",
+                "author": "Phan",
                 "author_link": "#",
                 "desc": "Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.",
-                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phanlock",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle_Bin-Phanlock/Recycle%20Bin%20-%20Phanlock%20(Droptop%20App).rmskin",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle_Bin-Phan/Recycle%20Bin%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Recycle_Bin-Phanlock.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Recycle_Bin-Phan.png"
             }
         },
         {
