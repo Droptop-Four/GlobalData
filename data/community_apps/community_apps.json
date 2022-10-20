@@ -185,7 +185,7 @@
         {
             "app": {
                 "id": 1,
-                "name": "DailyQuotes",
+                "name": "Daily Quotes",
                 "author": "Bunz",
                 "author_link": "https://github.com/66Bunz",
                 "desc": "Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.",
