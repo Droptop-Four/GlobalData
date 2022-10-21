@@ -156,6 +156,21 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "website",
+            "content": [
+                {
+                    "name": "Generic",
+                    "fields": [
+                        {
+                            "name": "Website link",
+                            "content": "[www.droptopfour.com](https://droptopfour.com)",
+                            "inline": "False"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "faq": [
