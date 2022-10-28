@@ -41,8 +41,6 @@
         },
         {
             "app": {
-<<<<<<< Updated upstream
-=======
                 "id": 13,
                 "name": "Shortcut",
                 "author": "Phan",
@@ -56,7 +54,6 @@
         },
         {
             "app": {
->>>>>>> Stashed changes
                 "id": 12,
                 "name": "Search Bar",
                 "author": "Mike Boynton",
