@@ -10,7 +10,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Feeder-Cariboudjan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Feeder-Cariboudjan/Feeder%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Feeder-Cariboudjan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Feeder-Cariboudjan.webp"
             }
         },
         {
@@ -23,7 +23,7 @@
                 "official_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton",
                 "direct_download_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton/releases/download/latest/Random.Theme.Changer.-.Mike.Boynton.Droptop.App.rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Random_Theme_Changer-Mike_Boynton.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Random_Theme_Changer-Mike_Boynton.webp"
             }
         },
         {
@@ -36,11 +36,27 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Game_Hub-Phan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game_Hub-Phan/Game%20Hub%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game_Hub-Phan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game_Hub-Phan.webp"
             }
         },
         {
             "app": {
+<<<<<<< Updated upstream
+=======
+                "id": 13,
+                "name": "Shortcut",
+                "author": "Phan",
+                "author_link": "#",
+                "desc": "This is a community app that allwos you to add a shortcut of any program or file in your Droptop bar.",
+                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Shortcut-Phan",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Shortcut-Phan/Shortcut%20-%Phan%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Shortcut-Phan.webp"
+            }
+        },
+        {
+            "app": {
+>>>>>>> Stashed changes
                 "id": 12,
                 "name": "Search Bar",
                 "author": "Mike Boynton",
@@ -49,7 +65,7 @@
                 "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
                 "direct_download_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton/releases/download/Latest/SearchBar.-.Mike.Boynton.Droptop.App.rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Search_Bar-Mike_Boynton.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Search_Bar-Mike_Boynton.webp"
             }
         },
         {
@@ -62,7 +78,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Gradient_Bar-Phan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Gradient_Bar-Phan/Gradient%20Bar%20-%Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Gradient_Bar-Phan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Gradient_Bar-Phan.webp"
             }
         },
         {
@@ -75,7 +91,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Color_Mode_Toggle-Cariboudjan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color_Mode_Toggle-Cariboudjan/Color%20Mode%20Toggle%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Color_Mode_Toggle-Cariboudjan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Color_Mode_Toggle-Cariboudjan.webp"
             }
         },
         {
@@ -88,7 +104,7 @@
                 "official_link": "https://github.com/Yaron2334/Media-Control",
                 "direct_download_link": "https://github.com/Yaron2334/Media-Control/raw/main/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Media_Control-Yaron.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Media_Control-Yaron.webp"
             }
         },
         {
@@ -101,7 +117,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/JaxCore",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/JaxCore/JaxCore%20-%20JaxCore%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/JaxCore-Jax.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/JaxCore-Jax.webp"
             }
         },
         {
@@ -114,7 +130,7 @@
                 "official_link": "https://github.com/LoadingName1386/Fluent-ControlCenter",
                 "direct_download_link": "https://github.com/LoadingName1386/Fluent-ControlCenter/releases/download/Droptop/FluentControl.Center_1.0.rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Fluent_Control_Center-LoadingName.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Fluent_Control_Center-LoadingName.webp"
             }
         },
         {
@@ -127,7 +143,7 @@
                 "official_link": "https://github.com/Yaron2334/SystemMonitor",
                 "direct_download_link": "https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/System_Monitor-Yaron.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/System_Monitor-Yaron.webp"
             }
         },
         {
@@ -140,7 +156,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Quick_Settings-Cariboudjan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Quick_Settings-Cariboudjan/Quick%20Settings%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Quick_Settings-Cariboudjan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Quick_Settings-Cariboudjan.webp"
             }
         },
         {
@@ -153,7 +169,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Disks-Phan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Disks-Phan/Disks%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Disks-Phan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Disks-Phan.webp"
             }
         },
         {
@@ -166,7 +182,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Recycle_Bin-Phan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle_Bin-Phan/Recycle%20Bin%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Recycle_Bin-Phan.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Recycle_Bin-Phan.webp"
             }
         },
         {
@@ -179,7 +195,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Location-notAperson",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Location-notAperson/Location%20-%20notAperson%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Location-notAperson.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Location-notAperson.webp"
             }
         },
         {
@@ -192,7 +208,7 @@
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Daily_Quotes-Bunz",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily_Quotes-Bunz/Daily%20Quotes%20-%20Bunz%20(Droptop%20App).rmskin",
                 "secondary_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daily_Quotes-Bunz.png"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daily_Quotes-Bunz.webp"
             }
         }
     ]

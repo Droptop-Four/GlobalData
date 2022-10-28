@@ -1,15 +1,136 @@
 {
     "themes": [
         {
-            "id": 1,
-            "name": "",
-            "author": "",
-            "author_link": "",
+            "id": 13,
+            "name": "System",
+            "author": "Myke Boynton",
+            "author_link": "https://github.com/papa-boynton",
             "desc": "",
             "official_link": "",
-            "direct_download_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/System%20-%20Mike%20Boynton%20(Droptop%20Theme).rmskin",
             "secondary_link": "#",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/System-Mike_Boynton.webp"
+        },
+        {
+            "id": 12,
+            "name": "Catppuccin",
+            "author": "PyBash",
+            "author_link": "#",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%20-%20PyBash%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Catppuccin-PyBash.webp"
+        },
+        {
+            "id": 11,
+            "name": "Code",
+            "author": "Phan",
+            "author_link": "#",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Code%20-%20Phan%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Code-Phan.webp"
+        },
+        {
+            "id": 10,
+            "name": "Ice Cream",
+            "author": "Phan",
+            "author_link": "#",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Ice%20Cream%20-%20Phan%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Ice_Cream-Phan.webp"
+        },
+        {
+            "id": 9,
+            "name": "Cyberpunk 2077",
+            "author": "Phan",
+            "author_link": "#",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cyberpunk%202077%20-%20Phan%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cyberpunk_2077-Phan.webp"
+        },
+        {
+            "id": 8,
+            "name": "Tranquil Purple",
+            "author": "Bunz",
+            "author_link": "https://github.com/66Bunz",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Tranquil%20Purple%20-%20Bunz%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Tranquil_Purple-Bunz.webp"
+        },
+        {
+            "id": 7,
+            "name": "Dracula",
+            "author": "Bunz",
+            "author_link": "https://github.com/66Bunz",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Dracula%20-%20Bunz%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Dracula-Bunz.webp"
+        },
+        {
+            "id": 6,
+            "name": "Nord",
+            "author": "Bunz",
+            "author_link": "https://github.com/66Bunz",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Nord%20-%20Bunz%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Nord-Bunz.webp"
+        },
+        {
+            "id": 5,
+            "name": "Midnight",
+            "author": "smokepasta",
+            "author_link": "#",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Midnight%20-%20smokepasta%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Midnight-smokepasta.webp"
+        },
+        {
+            "id": 3,
+            "name": "Spiderman Miles Morales",
+            "author": "Phan",
+            "author_link": "#",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Spiderman%20Miles%20Morales%20-%20Phan%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Spiderman_Miles_Morales-Phan.webp"
+        },
+        {
+            "id": 2,
+            "name": "Big Sur Dark",
+            "author": "Yaron",
+            "author_link": "https://github.com/Yaron2334",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Big%20Sur%20Dark%20-%20Yaron%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Big_Sur_Dark-Yaron.webp"
+        },
+        {
+            "id": 1,
+            "name": "Default sample theme",
+            "author": "Cariboudjan",
+            "author_link": "https://github.com/Cariboudjan",
+            "desc": "",
+            "official_link": "",
+            "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Default%20sample%20theme%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
+            "secondary_link": "#",
+            "image": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Default_sample_theme-Cariboudjan.webp"
         }
     ]
 }
