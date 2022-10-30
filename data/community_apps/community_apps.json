@@ -21,8 +21,8 @@
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Selects a random theme with a click.",
                 "official_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton",
-                "direct_download_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton/releases/download/latest/Random.Theme.Changer.-.Mike.Boynton.Droptop.App.rmskin",
-                "secondary_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Random_Theme_Changer-Mike_Boynton/Random%20Theme%20Changer%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
+                "secondary_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Random_Theme_Changer-Mike_Boynton",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Random_Theme_Changer-Mike_Boynton.webp"
             }
         },
@@ -60,8 +60,8 @@
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Search the Internet with your choice of five search sites. Based on original code by JSMorley.",
                 "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
-                "direct_download_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton/releases/download/Latest/SearchBar.-.Mike.Boynton.Droptop.App.rmskin",
-                "secondary_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar-Mike_Boynton/SearchBar%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
+                "secondary_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/SearchBar-Mike_Boynton",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Search_Bar-Mike_Boynton.webp"
             }
         },
@@ -125,7 +125,7 @@
                 "author_link": "https://github.com/Yaron2334",
                 "desc": "Displays CPU, GPU, RAM, Voltage, and other system resources within the app and on the top bar.",
                 "official_link": "https://github.com/Yaron2334/SystemMonitor",
-                "direct_download_link": "https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/System_Monitor-Yaron/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/System_Monitor-Yaron.webp"
             }
@@ -189,9 +189,9 @@
                 "author": "Bunz",
                 "author_link": "https://github.com/66Bunz",
                 "desc": "Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.",
-                "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Daily_Quotes-Bunz",
+                "official_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily_Quotes-Bunz/Daily%20Quotes%20-%20Bunz%20(Droptop%20App).rmskin",
-                "secondary_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
+                "secondary_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Daily_Quotes-Bunz",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daily_Quotes-Bunz.webp"
             }
         },
@@ -201,7 +201,7 @@
                 "name": "Sample App",
                 "author": "Cariboudjan",
                 "author_link": "https://github.com/Cariboudjan",
-                "desc": "Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.",
+                "desc": "Default Sample App that shows what you can achieve by creating your own custom app.",
                 "official_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/tree/main/Apps/Sample_App-Cariboudjan",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Sample_App-Cariboudjan/Sample%20App%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
