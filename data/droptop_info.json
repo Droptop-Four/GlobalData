@@ -22,7 +22,7 @@
                             "inline": "True"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter` or click the buttons below"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 },
                 {
                     "name": "Basic",
@@ -43,7 +43,7 @@
                             "inline": "True"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter` or click the buttons below"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 },
                 {
                     "name": "Supporter",
@@ -64,7 +64,7 @@
                             "inline": "True"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter` or click the buttons below"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 }
             ]
         },
@@ -90,7 +90,7 @@
                             "inline": "True"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter` or click the buttons below"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 },
                 {
                     "name": "Basic",
@@ -106,7 +106,7 @@
                             "inline": "True"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter` or click the buttons below"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 },
                 {
                     "name": "Supporter",
@@ -122,7 +122,7 @@
                             "inline": "True"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter` or click the buttons below"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 }
             ]
         },
@@ -138,7 +138,7 @@
                             "inline": "False"
                         }
                     ],
-                    "footer": "To see further infos on one of the two variants type `/info Basic` or `/info Supporter`"
+                    "footer": "To see further infos on one of the two variants type `/info droptop Basic` or `/info droptop Supporter`"
                 }
             ]
         },
@@ -165,7 +165,7 @@
                     "fields": [
                         {
                             "name": "Website link",
-                            "content": "[www.droptopfour.com](https://droptopfour.com)",
+                            "content": "[www.droptopfour.com](https://droptop-four.github.io)",
                             "inline": "False"
                         }
                     ]
