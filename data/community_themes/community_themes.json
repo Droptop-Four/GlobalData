@@ -2,19 +2,6 @@
     "themes": [
         {
             "theme": {
-                "id": 14,
-                "name": "Tranquil Purlple",
-                "author": "Bunz",
-                "author_link": "#",
-                "desc": "#",
-                "official_link": "#",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Tranquil%20Purlple%20-%20Bunz%20(Droptop%20Theme).rmskin",
-                "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Tranquil_Purlple-Bunz.webp"
-            }
-        },
-        {
-            "theme": {
                 "id": 13,
                 "name": "System",
                 "author": "Myke Boynton",
@@ -73,7 +60,7 @@
                 "author_link": "#",
                 "desc": "",
                 "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cyberpunk%202077%20-%20Phan%20(Droptop%20Theme).zip",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cyberpunk%202077%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cyberpunk_2077-Phan.webp"
             }
