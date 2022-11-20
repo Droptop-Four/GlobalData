@@ -2,6 +2,19 @@
     "themes": [
         {
             "theme": {
+                "id": 14,
+                "name": "My custom theme",
+                "author": "Cari",
+                "author_link": "#",
+                "desc": "Sample theme used for creating new themes of your own.",
+                "official_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/My%20custom%20theme%20-%20Cari%20(Droptop%20Theme).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/My_custom_theme-Cari.webp"
+            }
+        },
+        {
+            "theme": {
                 "id": 13,
                 "name": "System",
                 "author": "Mike Boynton",
