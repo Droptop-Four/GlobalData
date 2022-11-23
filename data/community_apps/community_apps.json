@@ -2,20 +2,6 @@
     "apps": [
         {
             "app": {
-                "id": 19,
-                "name": "SearchBar",
-                "author": "Mike Boynton",
-                "author_link": "#",
-                "desc": "Search from a variety of search engines & stores in just a few clicks",
-                "version": "22.1122",
-                "official_link": "#",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
-                "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/SearchBar-Mike_Boynton.webp"
-            }
-        },
-        {
-            "app": {
                 "id": 18,
                 "name": "Theme Me",
                 "author": "TheyCallMePapa and Cariboudjan",
@@ -87,15 +73,15 @@
         {
             "app": {
                 "id": 12,
-                "name": "Search Bar",
+                "name": "SearchBar",
                 "author": "Mike Boynton",
-                "author_link": "https://github.com/papa-boynton",
-                "desc": "Search the Internet with your choice of five search sites. Based on original code by JSMorley.",
-                "version": "2.1",
-                "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
+                "author_link": "#",
+                "desc": "Search from a variety of search engines & stores in just a few clicks",
+                "version": "22.1122",
+                "official_link": "#",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Search_Bar-Mike_Boynton.webp"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/SearchBar-Mike_Boynton.webp"
             }
         },
         {
