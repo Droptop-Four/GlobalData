@@ -2,20 +2,6 @@
     "apps": [
         {
             "app": {
-                "id": 19,
-                "name": "SEARCHBAR",
-                "author": "Mike Boynton",
-                "author_link": "#",
-                "desc": "Search from a variety of search engines & stores in just a few clicks",
-                "version": "2.1",
-                "official_link": "#",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar_-_Mike_Boynton_Droptop_App.rmskin.rmskin",
-                "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/SEARCHBAR-Mike_Boynton.webp"
-            }
-        },
-        {
-            "app": {
                 "id": 18,
                 "name": "Theme Me",
                 "author": "Mike Boynton",
