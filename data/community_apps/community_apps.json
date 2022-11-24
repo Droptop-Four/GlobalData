@@ -2,20 +2,6 @@
     "apps": [
         {
             "app": {
-                "id": 19,
-                "name": "Daily Test",
-                "author": "Bunz",
-                "author_link": "#",
-                "desc": "Test test test\n",
-                "version": "654.2365",
-                "official_link": "#",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily%20Test%20-%20Bunz%20(Droptop%20App).rmskin",
-                "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daily_Test-Bunz.webp"
-            }
-        },
-        {
-            "app": {
                 "id": 18,
                 "name": "Theme Me",
                 "author": "Mike Boynton",
