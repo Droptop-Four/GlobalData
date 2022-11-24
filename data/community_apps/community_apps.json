@@ -30,20 +30,6 @@
         },
         {
             "app": {
-                "id": 15,
-                "name": "Random Theme Changer",
-                "author": "Mike Boynton",
-                "author_link": "https://github.com/papa-boynton",
-                "desc": "Selects a random theme with a click.",
-                "version": "1.1",
-                "official_link": "https://github.com/papa-boynton/Random_Theme_Changer-Mike_Boynton",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Random%20Theme%20Changer%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
-                "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Random_Theme_Changer-Mike_Boynton.webp"
-            }
-        },
-        {
-            "app": {
                 "id": 14,
                 "name": "Game Hub",
                 "author": "Phan",
