@@ -3,6 +3,7 @@
         {
             "app": {
                 "id": 18,
+                "uuid": "125338ea-c1b7-492b-9aa1-2e55432f7c13",
                 "name": "Theme Me",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -19,6 +20,7 @@
         {
             "app": {
                 "id": 16,
+                "uuid": "27aeb9cd-be20-400d-857c-4b199aeadae1",
                 "name": "Feeder",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -35,6 +37,7 @@
         {
             "app": {
                 "id": 14,
+                "uuid": "c6bfeed4-6179-41cd-9ac9-322652111cf9",
                 "name": "Game Hub",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -51,6 +54,7 @@
         {
             "app": {
                 "id": 13,
+                "uuid": "b9451f72-c9cc-4d36-b012-99031e842b1d",
                 "name": "Shortcut",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -67,6 +71,7 @@
         {
             "app": {
                 "id": 12,
+                "uuid": "216f917f-0f37-42f5-b218-06feddc574da",
                 "name": "SearchBar",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -83,6 +88,7 @@
         {
             "app": {
                 "id": 11,
+                "uuid": "77b82067-a549-47f9-89ae-756165ae3bd0",
                 "name": "Gradient Bar",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -99,6 +105,7 @@
         {
             "app": {
                 "id": 10,
+                "uuid": "671e8670-e582-4269-9820-3dcf508abf4d",
                 "name": "Color Mode Toggle",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -115,6 +122,7 @@
         {
             "app": {
                 "id": 9,
+                "uuid": "b070cf99-c013-4744-932d-cb4e9102ae2a",
                 "name": "Media Control",
                 "author": "Yaron",
                 "author_id": 709053559836246137,
@@ -131,6 +139,7 @@
         {
             "app": {
                 "id": 8,
+                "uuid": "bded0a8f-4df2-4b85-aac5-a4a97ce2e8db",
                 "name": "JaxCore",
                 "author": "Jax",
                 "author_id": 341522422836625408,
@@ -147,6 +156,7 @@
         {
             "app": {
                 "id": 7,
+                "uuid": "e4e90147-d711-46a7-93c7-2455b7975691",
                 "name": "System Monitor",
                 "author": "Yaron",
                 "author_id": 709053559836246137,
@@ -163,6 +173,7 @@
         {
             "app": {
                 "id": 6,
+                "uuid": "55b4b06d-85bd-424c-8150-4fbf0daf8cd5",
                 "name": "Quick Settings",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -179,6 +190,7 @@
         {
             "app": {
                 "id": 5,
+                "uuid": "f98385fd-2a99-4cde-a0b4-5aaa84289497",
                 "name": "Disks",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -195,6 +207,7 @@
         {
             "app": {
                 "id": 4,
+                "uuid": "73e48dae-9039-44d7-aedc-f8cbe8405c2f",
                 "name": "Recycle Bin",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -211,6 +224,7 @@
         {
             "app": {
                 "id": 3,
+                "uuid": "0a4e9e6d-8e0c-4c7a-bdbd-a9a1adf8e711",
                 "name": "Location",
                 "author": "notAperson",
                 "author_id": 736395826670207088,
@@ -227,6 +241,7 @@
         {
             "app": {
                 "id": 2,
+                "uuid": "b7a7627e-96c7-4c42-a6ac-6d199f7ba378",
                 "name": "Daily Quotes",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -243,6 +258,7 @@
         {
             "app": {
                 "id": 1,
+                "uuid": "ed3f7b7a-04fa-4531-9d75-0ea2d43e408c",
                 "name": "Sample App",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
