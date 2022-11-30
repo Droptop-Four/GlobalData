@@ -5,13 +5,15 @@
                 "id": 13,
                 "name": "System",
                 "author": "Mike Boynton",
+                "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/System%20-%20Mike%20Boynton%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/System-Mike_Boynton.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 392012772189274112]
             }
         },
         {
@@ -19,13 +21,15 @@
                 "id": 12,
                 "name": "Catppuccin",
                 "author": "PyBash",
+                "author_id": 626461325744275464,
                 "author_link": "#",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%20-%20PyBash%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Catppuccin-PyBash.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 626461325744275464]
             }
         },
         {
@@ -33,13 +37,15 @@
                 "id": 11,
                 "name": "Code",
                 "author": "Phan",
+                "author_id": 561681705782607882,
                 "author_link": "#",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Code%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Code-Phan.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 561681705782607882]
             }
         },
         {
@@ -47,13 +53,15 @@
                 "id": 10,
                 "name": "Ice Cream",
                 "author": "Phan",
+                "author_id": 561681705782607882,
                 "author_link": "#",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Ice%20Cream%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Ice_Cream-Phan.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 561681705782607882]
             }
         },
         {
@@ -61,13 +69,15 @@
                 "id": 9,
                 "name": "Cyberpunk",
                 "author": "Phan",
+                "author_id": 561681705782607882,
                 "author_link": "#",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cyberpunk%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cyberpunk-Phan.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 561681705782607882]
             }
         },
         {
@@ -75,13 +85,15 @@
                 "id": 8,
                 "name": "Tranquil Purple",
                 "author": "Bunz",
+                "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Tranquil%20Purple%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Tranquil_Purple-Bunz.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 330345930198876161]
             }
         },
         {
@@ -89,13 +101,15 @@
                 "id": 7,
                 "name": "Dracula",
                 "author": "Bunz",
+                "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Dracula%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Dracula-Bunz.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 330345930198876161]
             }
         },
         {
@@ -103,13 +117,15 @@
                 "id": 6,
                 "name": "Nord",
                 "author": "Bunz",
+                "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Nord%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Nord-Bunz.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 330345930198876161]
             }
         },
         {
@@ -117,13 +133,15 @@
                 "id": 5,
                 "name": "Midnight",
                 "author": "smokepasta",
+                "author_id": 226134257616158720,
                 "author_link": "#",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Midnight%20-%20smokepasta%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Midnight-smokepasta.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 226134257616158720]
             }
         },
         {
@@ -131,13 +149,15 @@
                 "id": 3,
                 "name": "Spiderman Miles Morales",
                 "author": "Phan",
+                "author_id": 561681705782607882,
                 "author_link": "#",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Spiderman%20Miles%20Morales%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Spiderman_Miles_Morales-Phan.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 561681705782607882]
             }
         },
         {
@@ -145,13 +165,15 @@
                 "id": 2,
                 "name": "Big Sur Dark",
                 "author": "Yaron",
+                "author_id": 709053559836246137,
                 "author_link": "https://github.com/Yaron2334",
                 "desc": "",
+                "version": null,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Big%20Sur%20Dark%20-%20Yaron%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Big_Sur_Dark-Yaron.webp",
-                "version": null
+                "authorised_members": [584542239900827665, 330345930198876161, 709053559836246137]
             }
         },
         {
@@ -159,12 +181,15 @@
                 "id": 1,
                 "name": "Sample Template",
                 "author": "Cari",
+                "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Use as a starting template for creating your own themes.",
+                "version": null,
                 "official_link": "#",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Sample%20Template%20-%20Cari%20(Droptop%20Theme).rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Sample_Template-Cari.webp"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Sample_Template-Cari.webp",
+                "authorised_members": [584542239900827665, 330345930198876161, 584542239900827665]
             }
         }
     ]
