@@ -3,6 +3,7 @@
         {
             "theme": {
                 "id": 13,
+                "uuid": "13ed5a07-a2cd-41fa-94ba-b8a43938048d",
                 "name": "System",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -19,6 +20,7 @@
         {
             "theme": {
                 "id": 12,
+                "uuid": "6b4af543-23cd-4744-9fab-544adcb70d5a",
                 "name": "Catppuccin",
                 "author": "PyBash",
                 "author_id": 626461325744275464,
@@ -35,6 +37,7 @@
         {
             "theme": {
                 "id": 11,
+                "uuid": "4a2fd7ee-60c4-43f9-bf7c-a94e0e250430",
                 "name": "Code",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -51,6 +54,7 @@
         {
             "theme": {
                 "id": 10,
+                "uuid": "8dd9fe26-1e87-4133-9784-d498c216ba2b",
                 "name": "Ice Cream",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -67,6 +71,7 @@
         {
             "theme": {
                 "id": 9,
+                "uuid": "2f5538da-8757-4bd6-97d0-303daf23ea98",
                 "name": "Cyberpunk",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -83,6 +88,7 @@
         {
             "theme": {
                 "id": 8,
+                "uuid": "958a62ef-c02b-4c17-803a-216e01f067d2",
                 "name": "Tranquil Purple",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -99,6 +105,7 @@
         {
             "theme": {
                 "id": 7,
+                "uuid": "7dcdbc32-7218-4f73-98b6-ffd9147858cb",
                 "name": "Dracula",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -115,6 +122,7 @@
         {
             "theme": {
                 "id": 6,
+                "uuid": "60ae4386-1343-495e-9c46-b67f4777e2a4",
                 "name": "Nord",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -131,6 +139,7 @@
         {
             "theme": {
                 "id": 5,
+                "uuid": "5c304362-4873-4aed-934e-66ec79ae4904",
                 "name": "Midnight",
                 "author": "smokepasta",
                 "author_id": 226134257616158720,
@@ -147,6 +156,7 @@
         {
             "theme": {
                 "id": 3,
+                "uuid": "2ec4843c-1bb2-4054-8a40-fb9560a44160",
                 "name": "Spiderman Miles Morales",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -163,6 +173,7 @@
         {
             "theme": {
                 "id": 2,
+                "uuid": "8b43597d-8a12-42d5-8d3b-6d070a250326",
                 "name": "Big Sur Dark",
                 "author": "Yaron",
                 "author_id": 709053559836246137,
@@ -179,6 +190,7 @@
         {
             "theme": {
                 "id": 1,
+                "uuid": "6c1db67a-4d43-447b-872f-1890b22c9a4c",
                 "name": "Sample Template",
                 "author": "Cari",
                 "author_id": 584542239900827665,
