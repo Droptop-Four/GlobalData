@@ -2,28 +2,6 @@
     "themes": [
         {
             "theme": {
-                "id": 14,
-                "uuid": "d93c1e34-4df2-4211-b3e9-2eccbeb0400b",
-                "name": "TestTheme",
-                "author": "ThisIsATest",
-                "author_id": 330345930198876161,
-                "author_link": "https://github.com/66Bunz",
-                "desc": "description test from different account",
-                "version": "",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/TestTheme%20-%20ThisIsATest%20(Droptop%20Theme).rmskin.rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/TestTheme-ThisIsATest.webp",
-                "authorised_members": [
-                    330345930198876161,
-                    584542239900827665,
-                    330345930198876161,
-                    709428224165281935
-                ]
-            }
-        },
-        {
-            "theme": {
                 "id": 13,
                 "uuid": "13ed5a07-a2cd-41fa-94ba-b8a43938048d",
                 "name": "System",
