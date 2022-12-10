@@ -2,6 +2,27 @@
     "themes": [
         {
             "theme": {
+                "id": 14,
+                "uuid": "e04e4719-6148-46d4-a009-cd0fa7aeed34",
+                "name": "Droptop 3",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "How Droptop use to look (Before users had any theme or color options at all, pre-2018)",
+                "version": "",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Droptop%203%20-%20Cariboudjan%20(Droptop%20Theme).rmskin.rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Droptop_3-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ]
+            }
+        },
+        {
+            "theme": {
                 "id": 13,
                 "uuid": "13ed5a07-a2cd-41fa-94ba-b8a43938048d",
                 "name": "System",
