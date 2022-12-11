@@ -2,27 +2,6 @@
     "themes": [
         {
             "theme": {
-                "id": 13,
-                "uuid": "13ed5a07-a2cd-41fa-94ba-b8a43938048d",
-                "name": "System",
-                "author": "Mike Boynton",
-                "author_id": 392012772189274112,
-                "author_link": "https://github.com/papa-boynton",
-                "desc": "",
-                "version": "",
-                "official_link": "https://github.com/papa-boynton/System-Theme",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/System%20-%20Mike%20Boynton%20(Droptop%20Theme).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/System-Mike_Boynton.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    392012772189274112
-                ]
-            }
-        },
-        {
-            "theme": {
                 "id": 12,
                 "uuid": "6b4af543-23cd-4744-9fab-544adcb70d5a",
                 "name": "Catppuccin",
