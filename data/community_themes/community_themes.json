@@ -244,28 +244,6 @@
         },
         {
             "theme": {
-                "id": 5,
-                "uuid": "5c304362-4873-4aed-934e-66ec79ae4904",
-                "name": "Midnight",
-                "author": "smokepasta",
-                "author_id": 226134257616158720,
-                "author_link": "",
-                "desc": "",
-                "version": "",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Midnight%20-%20smokepasta%20(Droptop%20Theme).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Midnight-smokepasta.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    226134257616158720
-                ],
-                "hidden": 0
-            }
-        },
-        {
-            "theme": {
                 "id": 2,
                 "uuid": "8b43597d-8a12-42d5-8d3b-6d070a250326",
                 "name": "Big Sur Dark",
