@@ -156,28 +156,6 @@
         },
         {
             "theme": {
-                "id": 9,
-                "uuid": "2f5538da-8757-4bd6-97d0-303daf23ea98",
-                "name": "Cyberpunk",
-                "author": "Phan",
-                "author_id": 561681705782607882,
-                "author_link": "",
-                "desc": "",
-                "version": "",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cyberpunk%20-%20Phan%20(Droptop%20Theme).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cyberpunk-Phan.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    561681705782607882
-                ],
-                "hidden": 0
-            }
-        },
-        {
-            "theme": {
                 "id": 8,
                 "uuid": "958a62ef-c02b-4c17-803a-216e01f067d2",
                 "name": "Tranquil Purple",
