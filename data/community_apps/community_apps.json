@@ -24,28 +24,6 @@
         },
         {
             "app": {
-                "id": 19,
-                "uuid": "2e35d540-6600-4566-aa7b-1153064811fc",
-                "name": "VPN Status",
-                "author": "Mike Boynton",
-                "author_id": 392012772189274112,
-                "author_link": "https://github.com/papa-boynton",
-                "desc": "Version 0.91\n\n    Shows status of your VPN (connected/not connected)\n    Displays status of vpn, location, local ip address and map with approximate location\n    Droptop icon changes from red when disconnected to green when connected\n\nVersion 1.0\n\n    Fixed issue with dot not scaling properly, many thanks to @Cariboudjan for all his help with this.\n\nVersion 1.01\n\n    Small bug fix, cosmetic changes.",
-                "version": "1.01",
-                "official_link": "https://github.com/papa-boynton/VPN_Status/releases/tag/Latest",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/VPN%20Status%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/VPN_Status-Mike_Boynton.webp",
-                "authorised_members": [
-                    330345930198876161,
-                    584542239900827665,
-                    392012772189274112
-                ],
-                "hidden": 0
-            }
-        },
-        {
-            "app": {
                 "id": 18,
                 "uuid": "125338ea-c1b7-492b-9aa1-2e55432f7c13",
                 "name": "Theme Me",
