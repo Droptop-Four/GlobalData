@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 17,
+                "uuid": "daeb3ce3-e58e-46c2-852a-152446bd1e17",
+                "name": "Vaporwave",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Vaporwave theme",
+                "version": "23.0219",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Vaporwave%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Vaporwave-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 16,
                 "uuid": "b3d104b4-cde8-42f3-bc78-810f53832ac9",
                 "name": "Everblush",
