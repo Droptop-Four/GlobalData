@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 18,
+                "uuid": "05b6b004-f630-4d3f-b336-69f7ed6ccbdc",
+                "name": "Undertale Red",
+                "author": "SixSiege",
+                "author_id": 493346676166361091,
+                "author_link": "https://github.com/SixSiege",
+                "desc": "Undertale-themed Droptop for Undertale fans :D\n\nFont: Determination Sans by Harry Wakamatsu\nWallpaper: Undertale Ruins - PS4 Dynamic Theme (Wallpaper Engine)",
+                "version": "23.0220",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Undertale%20Red%20-%20SixSiege%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Undertale_Red-SixSiege.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    493346676166361091
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 17,
                 "uuid": "daeb3ce3-e58e-46c2-852a-152446bd1e17",
                 "name": "Vaporwave",
