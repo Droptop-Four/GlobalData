@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 19,
+                "uuid": "2882664e-460e-4e01-8c61-e41a3402f0ba",
+                "name": "Odin",
+                "author": "Chloe S",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Odin theme by Chloe S.",
+                "version": "23.0301",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Odin%20-%20Chloe%20S%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Odin-Chloe_S.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 18,
                 "uuid": "05b6b004-f630-4d3f-b336-69f7ed6ccbdc",
                 "name": "Undertale Red",
