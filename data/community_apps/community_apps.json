@@ -2,6 +2,28 @@
     "apps": [
         {
             "app": {
+                "id": 22,
+                "uuid": "4ecb4989-6331-4e27-ab86-3fdc9de86aea",
+                "name": "Usage Monitor",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "A simple System Monitor for Droptop with official support",
+                "version": "23.0304",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Usage%20Monitor%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Usage_Monitor-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
                 "id": 21,
                 "uuid": "19eb436e-d6b3-47a1-b7e7-ba05841e595d",
                 "name": "VPN Status",
