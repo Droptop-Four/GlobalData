@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 21,
+                "uuid": "47052362-c557-4405-b110-4f1ce9b42fa4",
+                "name": "Odin Dark",
+                "author": "Chloe S",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Made by Chloe S",
+                "version": "23.0304",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Odin%20Dark%20-%20Chloe%20S%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Odin_Dark-Chloe_S.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 20,
                 "uuid": "e3cbceb1-0edf-4f4a-add6-8c1f92f82b1f",
                 "name": "Odin Light",
