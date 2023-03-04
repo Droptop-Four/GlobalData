@@ -244,28 +244,6 @@
         },
         {
             "app": {
-                "id": 7,
-                "uuid": "e4e90147-d711-46a7-93c7-2455b7975691",
-                "name": "System Monitor",
-                "author": "Yaron",
-                "author_id": 709053559836246137,
-                "author_link": "https://github.com/Yaron2334",
-                "desc": "Displays CPU, GPU, RAM, Voltage, and other system resources within the app and on the top bar.",
-                "version": "1.6.0818",
-                "official_link": "https://github.com/Yaron2334/SystemMonitor",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/System_Monitor-Yaron.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    709053559836246137
-                ],
-                "hidden": 1
-            }
-        },
-        {
-            "app": {
                 "id": 6,
                 "uuid": "55b4b06d-85bd-424c-8150-4fbf0daf8cd5",
                 "name": "Quick Settings",
