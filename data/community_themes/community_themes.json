@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 22,
+                "uuid": "dedd55ed-f7d8-4914-b861-176b69f8d500",
+                "name": "Windows XP",
+                "author": "aegiswing",
+                "author_id": 396031926663905312,
+                "author_link": "",
+                "desc": "A Windows XP Droptop Theme.",
+                "version": "23.0324",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Windows%20XP%20-%20aegiswing%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Windows_XP-aegiswing.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    396031926663905312
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 21,
                 "uuid": "47052362-c557-4405-b110-4f1ce9b42fa4",
                 "name": "Odin Dark",
