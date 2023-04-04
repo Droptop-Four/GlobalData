@@ -77,6 +77,11 @@
                 <img src="./Banners/DroptopBanner5.png" alt="Droptop Four Banner" width="250"/>
             </td>
         </tr>
+        <tr>
+            <td>
+                <img src="./Banners/DroptopBanner6.png" alt="Droptop Four Banner" width="250">
+            </td>
+        </tr>
 </table><br>
 
 <p><h2 align="center">Join the Community Now!!</h2></p>
