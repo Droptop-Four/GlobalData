@@ -134,7 +134,7 @@
                     "fields": [
                         {
                             "name": "Where to update?",
-                            "content": "Droptop should automatically detect new updates in the last row of the Droptop home menu. You can also find the Update for Droptop on [Github](https://github.com/Droptop-Four/Update/releases/latest).",
+                            "content": "Droptop should automatically detect new updates, but you can install them also by the button below.",
                             "inline": "False"
                         }
                     ],
