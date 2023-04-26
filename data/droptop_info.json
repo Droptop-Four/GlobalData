@@ -60,7 +60,7 @@
                         },
                         {
                             "name": "Download",
-                            "content": "To install it you have to:\n1) download the Basic variant on the [Droptop Four website](https://droptop-four.github.io/download)\n2) download the Supporter update through [Gumroad](https://gumroad.com/l/droptop) choosing how much you want to pay for it (recommended $6).\nTo see further explanations on download methods type `/download Supporter`",
+                            "content": "To install it you have to:\n1) download the Basic variant on the [Droptop Four website](https://droptopfour.com/download)\n2) download the Supporter update through [Gumroad](https://supporter.droptopfour.com) choosing how much you want to pay for it (recommended $6).\nTo see further explanations on download methods type `/download Supporter`",
                             "inline": "True"
                         }
                     ],
@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "Supporter variant",
-                            "content": "The Droptop **Supporter** variant can be downloaded after paying what you want on [Gumroad](https://gumroad.com/l/droptop). To see further informations about the Supporter variant type `/info Supporter`.",
+                            "content": "The Droptop **Supporter** variant can be downloaded after paying what you want on [Gumroad](https://supporter.droptopfour.com). To see further informations about the Supporter variant type `/info Supporter`.",
                             "inline": "True"
                         }
                     ],
@@ -118,7 +118,7 @@
                         },
                         {
                             "name": "Supporter variant",
-                            "content": "The Droptop **Supporter** variant can be downloaded after paying what you want on [Gumroad](https://gumroad.com/l/droptop). To see further informations about the Supporter variant type `/info Supporter`.",
+                            "content": "The Droptop **Supporter** variant can be downloaded after paying what you want on [Gumroad](https://supporter.droptopfour.com). To see further informations about the Supporter variant type `/info Supporter`.",
                             "inline": "True"
                         }
                     ],
@@ -150,7 +150,22 @@
                     "fields": [
                         {
                             "name": "Where do I find the FAQs?",
-                            "content": "You can find the FAQ at https://droptop-four.github.io/faq/",
+                            "content": "You can find the FAQ at https://droptopfour.com/faq/",
+                            "inline": "False"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "docs",
+            "content": [
+                {
+                    "name": "Generic",
+                    "fields": [
+                        {
+                            "name": "Where do I find the Docs?",
+                            "content": "You can find the Docs at https://docs.droptopfour.com",
                             "inline": "False"
                         }
                     ]
@@ -165,15 +180,12 @@
                     "fields": [
                         {
                             "name": "Website link",
-                            "content": "[www.droptopfour.com](https://droptop-four.github.io)",
+                            "content": "https://droptopfour.com",
                             "inline": "False"
                         }
                     ]
                 }
             ]
         }
-    ],
-    "faq": [
-        
     ]
 }
