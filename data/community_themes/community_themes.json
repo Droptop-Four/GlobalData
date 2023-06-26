@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 26,
+                "uuid": "fce10933-14cc-4e9d-9f8a-7135e30aa513",
+                "name": "Cozy Blue",
+                "author": "Bunz",
+                "author_id": 330345930198876161,
+                "author_link": "https://github.com/66Bunz",
+                "desc": "Recommended wallpaper is Cozy anime street (https://steamcommunity.com/sharedfiles/filedetails/?id=2376307588) for Wallpaper Engine",
+                "version": "23.0626",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/GlobalData/raw/main/Themes/Cozy%20Blue%20-%20Bunz%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cozy_Blue-Bunz.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    330345930198876161
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 25,
                 "uuid": "e6bdd6c9-e079-444f-a36a-44093e3fef75",
                 "name": "Aperture Science",
