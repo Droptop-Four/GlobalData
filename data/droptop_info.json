@@ -81,7 +81,7 @@
                         },
                         {
                             "name": "Basic variant",
-                            "content": "The Droptop **Basic** variant can be downloaded on [GitHub](https://github.com/Droptop-Four/Basic-Version/releases/). To see further informations about the Basic variant type `/info Basic`.",
+                            "content": "The Droptop **Basic** variant can be downloaded on [GitHub](https://github.com/Droptop-Four/Droptop-Four/releases/). To see further informations about the Basic variant type `/info Basic`.",
                             "inline": "True"
                         },
                         {
@@ -102,7 +102,7 @@
                         },
                         {
                             "name": "Basic variant",
-                            "content": "The Droptop **Basic** variant can be downloaded on [GitHub](https://github.com/Droptop-Four/Basic-Version/releases/). To see further informations about the Basic variant type `/info Basic`.",
+                            "content": "The Droptop **Basic** variant can be downloaded on [GitHub](https://github.com/Droptop-Four/Droptop-Four/releases/). To see further informations about the Basic variant type `/info Basic`.",
                             "inline": "True"
                         }
                     ],
@@ -134,7 +134,7 @@
                     "fields": [
                         {
                             "name": "Where to update?",
-                            "content": "Droptop should automatically detect new updates, but you can install them also by the button below.",
+                            "content": "Droptop should automatically detect new updates, but you can install them also with the button below.",
                             "inline": "False"
                         }
                     ],
