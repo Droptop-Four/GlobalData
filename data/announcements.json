@@ -3,5 +3,5 @@
     "expiration": "None",
     "announcement": "Update to the latest 4.321.31 version to fix the weather app!",
     "type": "Warning",
-    "scope": "Website & App"
+    "scope": "website"
 }
