@@ -2,6 +2,28 @@
     "apps": [
         {
             "app": {
+                "id": 25,
+                "uuid": "54ebc50f-990a-4d05-a7c2-b46bd0c6ec80",
+                "name": "Center Infos",
+                "author": "TheyCallMePapa",
+                "author_id": 330345930198876161,
+                "author_link": "https://github.com/papa-boynton",
+                "desc": "This app will center time, song title or current app",
+                "version": "23.0911",
+                "official_link": "https://github.com/papa-boynton/Center-Infos",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Center%20Infos%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Center_Infos-TheyCallMePapa.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    330345930198876161
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
                 "id": 24,
                 "uuid": "0809a0c6-4957-467e-9a08-34b20e8e7bb8",
                 "name": "Translator",
