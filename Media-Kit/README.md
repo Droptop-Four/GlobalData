@@ -44,8 +44,10 @@
                 <img src="./Logos/DroptopFourLogo.png" alt="Droptop Four Logo" width="250"/>
             </td>
             <td>
-                <img src="./Logos/DroptopFourLogo_sq.png" alt="Droptop Four Animated Logo" width="250"/>
+                <img src="./Logos/DroptopFourLogo_sq.png" alt="Droptop Four Logo squared" width="250"/>
             </td>
+            <td>
+                <img src="./Logos/DroptopFourSupporterLogo.png" alt="Droptop Four Supporter Logo" width="250"/>
             </td>
         </tr>
 </table><br>
