@@ -19,7 +19,7 @@
         {
             "theme": {
                 "id": 3,
-                "name": "Big Sur",
+                "name": "MacOS Ventura",
                 "png_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/legacy_themes/img/3.png",
                 "webp_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/legacy_themes/img/3.webp"
             }
@@ -115,7 +115,7 @@
         {
             "theme": {
                 "id": 15,
-                "name": "Windows 11",
+                "name": "Windows 12",
                 "png_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/legacy_themes/img/15.png",
                 "webp_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/legacy_themes/img/15.webp"
             }
