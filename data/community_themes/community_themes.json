@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 28,
+                "uuid": "11fcdb5e-8bd6-48d4-90fd-a859d18f6047",
+                "name": "Ladies Night",
+                "author": "Tuxedo Mask",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "How mysterious...",
+                "version": "23.1010",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Ladies%20Night%20-%20Tuxedo%20Mask%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Ladies_Night-Tuxedo_Mask.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 27,
                 "uuid": "575a53f4-6bc1-4c1b-8abb-d50a9bb7a8c8",
                 "name": "Clean Purple",
