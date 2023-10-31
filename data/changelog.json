@@ -1,6 +1,21 @@
 {
   "changelog": [
     {
+      "version": "4.330.38",
+      "new_features": [
+        "Added new tabs to the Rename Folder menu in Settings; Added additional unicode icons",
+        "Added screenshot option to the Share Community App window when compiling a Community App RMSKIN",
+        "Added input box inside the submenu within Recent app"
+      ],
+      "modifications": [],
+      "bug_fixes": [
+        "Fixed an issue with Application names not truncating over 18 characters - Thank you @KazukiGames82",
+        "Backlight slider will no longer show as 0 when opening the battery app - Thank you @KazukiGames82",
+        "Multiple minor bug fixes found by @KazukiGames82",
+        "Fixed bug that caused Desktop Navigator to stop working if Explorer.exe crashes and restarts; Droptop will now do a full restart instead of a refresh after an Explorer.exe crash @KazukiGames82"
+      ]
+    },
+    {
       "version": "4.330.30",
       "new_features": [],
       "modifications": [],
