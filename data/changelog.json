@@ -1,44 +1,63 @@
 {
-  "changelog": [
-    {
-      "version": "4.330.38",
-      "new_features": [
-        "Added new tabs to the Rename Folder menu in Settings; Added additional unicode icons",
-        "Added screenshot option to the Share Community App window when compiling a Community App RMSKIN",
-        "Added input box inside the submenu within Recent app"
-      ],
-      "modifications": [],
-      "bug_fixes": [
-        "Fixed an issue with Application names not truncating over 18 characters - Thank you @KazukiGames82",
-        "Backlight slider will no longer show as 0 when opening the battery app - Thank you @KazukiGames82",
-        "Multiple minor bug fixes found by @KazukiGames82",
-        "Fixed bug that caused Desktop Navigator to stop working if Explorer.exe crashes and restarts; Droptop will now do a full restart instead of a refresh after an Explorer.exe crash @KazukiGames82"
-      ]
-    },
-    {
-      "version": "4.330.30",
-      "new_features": [],
-      "modifications": [],
-      "bug_fixes": [
-        "Fixed a bug with the Update app not working properly",
-        "Fixed a bug with the Supporter version not installing correctly",
-        "Minor bug fixes"
-      ]
-    },
-    {
-      "version": "4.330.28",
-      "new_features": [
-        "Added new options `Droptop settings >> Options >> Shadows >> Top bar highlight shadow` and `Dropdown highlight shadow`"
-      ],
-      "modifications": [
-        "Bar will no longer flash when refreshing or on startup",
-        "Minor modifications to Windows 12, Tranquil, and Flat & Solid themes",
-        "Double middle clicking on the \"Beta\" icon in the top bar will now remove the icon (Beta version only)"
-      ],
-      "bug_fixes": [
-        "Fixed bug causing lag when scrolling in dropdown menus",
-        "Minor bug fixes"
-      ]
-    }
-  ]
+    "changelog": [
+        {
+            "version": "4.330.53",
+            "new_features": [
+                "Added new option to Time settings to set a custom time format",
+                "Added new option `Droptop settings >> Options >> Advanced >> Disable hover actions`",
+                "Added new option to Battery settings to set percentage when to activate Battery Saver (Windows 11 only)",
+                "Battery meter will now turn Yellow when battery saver is on (Windows 11 only)"
+            ],
+            "modifications": [
+                "Added option to set Battery Saver color for battery meter to Theme Builder",
+                "Improvements to Windows 12 theme"
+            ],
+            "bug_fixes": [
+                "Windows will no longer move when Droptop is refreshed; AppBar will no longer refresh with each Droptop refresh",
+                "Fixed custom time formats not working for center clock",
+                "Battery Saver percentage option will now be disabled on Windows 10",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.330.38",
+            "new_features": [
+                "Added new tabs to the Rename Folder menu in Settings; Added additional unicode icons",
+                "Added screenshot option to the Share Community App window when compiling a Community App RMSKIN",
+                "Added input box inside the submenu within Recent app"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed an issue with Application names not truncating over 18 characters - Thank you @KazukiGames82",
+                "Backlight slider will no longer show as 0 when opening the battery app - Thank you @KazukiGames82",
+                "Multiple minor bug fixes found by @KazukiGames82",
+                "Fixed bug that caused Desktop Navigator to stop working if Explorer.exe crashes and restarts; Droptop will now do a full restart instead of a refresh after an Explorer.exe crash @KazukiGames82"
+            ]
+        },
+        {
+            "version": "4.330.30",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a bug with the Update app not working properly",
+                "Fixed a bug with the Supporter version not installing correctly",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.330.28",
+            "new_features": [
+                "Added new options `Droptop settings >> Options >> Shadows >> Top bar highlight shadow` and `Dropdown highlight shadow`"
+            ],
+            "modifications": [
+                "Bar will no longer flash when refreshing or on startup",
+                "Minor modifications to Windows 12, Tranquil, and Flat & Solid themes",
+                "Double middle clicking on the \"Beta\" icon in the top bar will now remove the icon (Beta version only)"
+            ],
+            "bug_fixes": [
+                "Fixed bug causing lag when scrolling in dropdown menus",
+                "Minor bug fixes"
+            ]
+        }
+    ]
 }
