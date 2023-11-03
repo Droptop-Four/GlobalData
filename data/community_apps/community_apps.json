@@ -66,7 +66,12 @@
                     330345930198876161
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "23.1029",
+                        "changenotes": "Added speaking capabilities"
+                    }
+                ]
             }
         },
         {
@@ -123,7 +128,7 @@
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
-                "desc": "Version 23.0101\n\n    Shows status of your VPN (connected/not connected)\n    Displays status of vpn, location, local ip address and map with approximate location\n    Droptop icon changes from red when disconnected to green when connected\n\nVersion 23.0202\n\n    Fixed issue with dot not scaling properly, many thanks to @Cariboudjan for all his help with this.\n\nVersion 23.0210\n\n    Small bug fix, cosmetic changes.\n\nVersion 23.0214\n\n    Minor bug fix.\n\nVersion 23.0217\n   New improved vpn detection measure.\n   Fixed small bug to convert all funny characters \n   into proper characters.  Thanks to @Cariboudjan \n   for the regex help.\n\nVersion 23.0429\n   Updated app to current standards.",
+                "desc": "Shows status of your VPN (connected/not connected), Displays status of vpn, location, local ip address and map with approximate location, Droptop icon changes from red when disconnected to green when connected.",
                 "version": "23.1026",
                 "official_link": "https://github.com/papa-boynton/VPN_Status",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/VPN%20Status%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
@@ -136,7 +141,32 @@
                     709428224165281935
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "23.0429",
+                        "changenotes": "Updated app to current standards."
+                    },
+                    {
+                        "version": "23.0217",
+                        "changenotes": "New improved vpn detection measure. Fixed small bug to convert all funny characters into proper characters. Thanks to @Cariboudjan for the regex help."
+                    },
+                    {
+                        "version": "23.0214",
+                        "changenotes": "Minor bug fix."
+                    },
+                    {
+                        "version": "23.0210",
+                        "changenotes": "Small bug fix, cosmetic changes."
+                    },
+                    {
+                        "version": "23.0202",
+                        "changenotes": "Fixed issue with dot not scaling properly, many thanks to @Cariboudjan for all his help with this."
+                    },
+                    {
+                        "version": "23.0101",
+                        "changenotes": "Shows status of your VPN (connected/not connected), displays status of vpn, location, local ip address and map with approximate location, droptop icon changes from red when disconnected to green when connected."
+                    },
+                ]
             }
         },
         {
@@ -170,7 +200,7 @@
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
-                "desc": "Allows you to select a random Droptop theme and you can save up to eight custom themes and hot load them.\nNo need to install a custom theme again once it is saved.\n\nFeatures\n\n    Toggle Theme Previews\n    Random theme every 24hrs, 1hr or 1 minute.\n    Toggle random theme feature on/off\n    Shows you the theme you are currently using.\n\nVersion 22.1229\n\nMinor cosmetic changes\nAdded link to Droptop's Theme Builder App\n\nVersion 23.0429\n   Updated app to current standards.",
+                "desc": "Allows you to select a random Droptop theme and you can save up to eight custom themes and hot load them.\nNo need to install a custom theme again once it is saved.",
                 "version": "23.1026",
                 "official_link": "https://github.com/papa-boynton/Theme_Me-Mike_Boynton",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Theme%20Me%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
@@ -182,7 +212,16 @@
                     392012772189274112
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "23.0429",
+                        "changenotes": "Updated app to current standards."
+                    },
+                    {
+                        "version": "22.1229",
+                        "changenotes": "Minor cosmetic changes Added link to Droptop's Theme Builder App."
+                    }
+                ]
             }
         },
         {
@@ -262,7 +301,7 @@
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
-                "desc": "Search from a variety of search engines & stores in just a few clicks\n\nVersion 23.0429 \nUpdated app to current standards.",
+                "desc": "Search from a variety of search engines & stores in just a few clicks.",
                 "version": "23.1026",
                 "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
@@ -274,7 +313,12 @@
                     392012772189274112
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "23.0429",
+                        "changenotes": "Updated app to current standards."
+                    }
+                ]
             }
         },
         {
