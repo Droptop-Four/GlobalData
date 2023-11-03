@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 30,
+                "uuid": "b565ae78-6aa3-47e0-9f09-91f118358fe9",
+                "name": "Catppuccin 2",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "",
+                "version": "23.1103",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%202%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Catppuccin_2-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 29,
                 "uuid": "9ff14135-2e70-4a61-9f65-f260a2955a13",
                 "name": "CATPPUCCIN 2",
