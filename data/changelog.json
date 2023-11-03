@@ -58,6 +58,47 @@
                 "Fixed bug causing lag when scrolling in dropdown menus",
                 "Minor bug fixes"
             ]
+        },
+        {
+            "version": "4.330.12",
+            "new_features": [
+                "In the Update app, clicking the \"Download all updates\" button will now download & install the latest Droptop update, and update all Community Apps in one click",
+                "Added Pomodomo timer function to the Alarm app",
+                "Middle clicking on an app in the Toggle Apps On/Off menu will now activate dividers between apps in the bar",
+                "Added option to toggle Battery Life History in Battery app to settings",
+                "Added Divider Width and Divider Height options to Theme Builder"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.321.84",
+            "new_features": [
+                "New Community Theme included with new installations of Droptop \"Ladies Night\"",
+                "Added new option to select icon pack for the top bar in Theme Builder"
+            ],
+            "modifications": [
+                "Improvements to Windows 12 theme",
+                "Performance improvements when navigating dropdown menus",
+                "Dropdown menu background corner radius will now scale with the PC's DPI setting"
+            ],
+            "bug_fixes": [
+                "Major stability improvements",
+                "Fixed bug where compiling a Community App, Theme, or Commands would not generate a working RMSKIN.",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.321.77",
+            "new_features": [],
+            "modifications": [
+                "Updated all languages to their most up-to-date translation versions"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
         }
     ]
 }
