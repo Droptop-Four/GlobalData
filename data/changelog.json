@@ -1,6 +1,21 @@
 {
     "changelog": [
         {
+            "version": "4.330.62",
+            "new_features": [
+                "Pressing \"Download & install updates\" in the Update app will now open a new window that will show the latest change notes (As they appear on Discord) before downloading the update."
+            ],
+            "modifications": [
+                "Double-right clicking on the home button will now open shortcuts for editing various parts of Droptop",
+                "A green star will now appear in the Droptop Size Setting menu for the recommended option based on display height",
+                "Community Apps will now include a unique GUID when compiled (For Developers only)"
+            ],
+            "bug_fixes": [
+                "Fixed a bug that prevented Droptop from updating properly",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.330.53",
             "new_features": [
                 "Added new option to Time settings to set a custom time format",
