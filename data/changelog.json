@@ -3,7 +3,7 @@
         {
             "version": "4.330.62",
             "new_features": [
-                "Pressing `Download & install updates` in the Update app will now open a new window that will show the latest change notes (As they appear on Discord) before downloading the update."
+                "Pressing `Download & install all updates` in the Update app will now open a new window that will show the latest change notes (As they appear on Discord) before downloading the update."
             ],
             "modifications": [
                 "Double-right clicking on the home button will now open shortcuts for editing various parts of Droptop",
