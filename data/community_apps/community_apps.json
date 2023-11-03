@@ -165,7 +165,7 @@
                     {
                         "version": "23.0101",
                         "changenotes": "Shows status of your VPN (connected/not connected), displays status of vpn, location, local ip address and map with approximate location, droptop icon changes from red when disconnected to green when connected."
-                    },
+                    }
                 ]
             }
         },
