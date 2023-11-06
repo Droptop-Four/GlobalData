@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.330.74",
+            "new_features": [
+                "When using `Show only backlight icon` in Battery settings, the icon will now change to reflect the current backlight percentage"
+            ],
+            "modifications": [
+                ""
+            ],
+            "bug_fixes": [
+                "Fixed battery icon staying yellow (Battery Saver) when device is plugged in",
+                "Fixed bug that would cause incorrect color for the battery meter; Battery meter will now only show as red if the power is below 20%, Battery Saver is not on, and the device is not charging",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.330.62",
             "new_features": [
                 "Pressing `Download & install all updates` in the Update app will now open a new window that will show the latest change notes (As they appear on Discord) before downloading the update."
