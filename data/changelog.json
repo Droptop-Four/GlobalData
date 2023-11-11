@@ -1,6 +1,23 @@
 {
     "changelog": [
         {
+            "version": "4.330.83",
+            "new_features": [
+                "Added new option `Droptop settings >> App settings >> Time >> Change time format >> Show seconds text`",
+                "Added new option `Droptop settings >> App settings >> Time >> Change time format >> Show seconds bar`",
+                "Updated Paperclip app; Clicking the Paperclip app now shows a dropdown menu that includes shortcuts for clipboard, emojis, taking a screenshot, and case modification, as well as the ability to add up to 19 shortcuts."
+            ],
+            "modifications": [
+                "Clicking on the playback device name in the Volume app now triggers the Win+G shortcut",
+                "Voice Assistant now opens Copilot on Windows 11",
+                "Paperclip app will now be active in the bar by default (New installs only)",
+                "`Show seconds bar` will now be enabled by default (New installs only)"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.330.74",
             "new_features": [
                 "When using `Show only backlight icon` in Battery settings, the icon will now change to reflect the current backlight percentage"
