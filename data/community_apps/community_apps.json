@@ -28,6 +28,10 @@
                     {
                         "version": "23.1112",
                         "changenotes": "- Support for 5 mails (Only Gmail).\n- Preview mails updated to 10 (Value can be changed in App Settings)."
+                    },
+                    {
+                        "version": "23.1112",
+                        "changenotes": "- Support for 5 mails (Only Gmail).\n- Preview Mails updated to 10 (Value can be changed in App Settings)."
                     }
                 ]
             }
