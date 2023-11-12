@@ -8,7 +8,7 @@
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames",
-                "desc": "My version of Mail App :D\nAdded new things and now you can add up to 5 mails.",
+                "desc": "My version of Mail App :D\nAdded new things and now you can add up to 5 mails (Only Gmail).",
                 "version": "23.1112",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Multiples%20Mails%20-%20KazukiGames82%20(Droptop%20App).rmskin",
@@ -24,6 +24,10 @@
                     {
                         "version": "23.1112",
                         "changenotes": "- Support for 5 mails (Only Gmail).\n- Preview Mails updated to 10 (Value can be changed in App Settings)."
+                    },
+                    {
+                        "version": "23.1112",
+                        "changenotes": "- Support for 5 mails (Only Gmail).\n- Preview mails updated to 10 (Value can be changed in App Settings)."
                     }
                 ]
             }
