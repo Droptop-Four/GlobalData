@@ -1,6 +1,24 @@
 {
     "changelog": [
         {
+            "version": "4.330.88",
+            "new_features": [
+                ""
+            ],
+            "modifications": [
+                "Meters on Demand will now be accessible when the beta is installed",
+                "New Copilot icon for the Assistant app",
+                "Selecting themes in settings menu now has a more compact format",
+                "Reduced hover time for opening submenus from 300ms to 200ms"
+            ],
+            "bug_fixes": [
+                "Slightly snappier settings menu navigation",
+                "Reduced scrolling lag in dropdown menus",
+                "Stability improvements",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.330.83",
             "new_features": [
                 "Added new option `Droptop settings >> App settings >> Time >> Change time format >> Show seconds text`",
