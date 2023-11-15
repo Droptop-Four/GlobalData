@@ -24,6 +24,10 @@
                     {
                         "version": "23.1115",
                         "changenotes": "None"
+                    },
+                    {
+                        "version": "23.1115",
+                        "changenotes": "Minor bug fixes\nAdded loading text"
                     }
                 ]
             }
