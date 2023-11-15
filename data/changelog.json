@@ -1,6 +1,18 @@
 {
     "changelog": [
         {
+            "version": "4.330.89",
+            "new_features": [
+                ""
+            ],
+            "modifications": [
+                ""
+            ],
+            "bug_fixes": [
+                "Fixed issue with Droptop Updater"
+            ]
+        },
+        {
             "version": "4.330.88",
             "new_features": [
                 ""
