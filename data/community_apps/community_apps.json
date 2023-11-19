@@ -24,6 +24,10 @@
                     {
                         "version": "23.1119",
                         "changenotes": "First release"
+                    },
+                    {
+                        "version": "23.1119",
+                        "changenotes": "Minor bug fixes"
                     }
                 ]
             }
