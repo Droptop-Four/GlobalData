@@ -60,6 +60,10 @@
                     {
                         "version": "23.1119",
                         "changenotes": "First release"
+                    },
+                    {
+                        "version": "23.1119",
+                        "changenotes": "Minor bug fixes, added option to add action buttons to template"
                     }
                 ]
             }
