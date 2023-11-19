@@ -3,19 +3,7 @@
         {
             "version": "4.330.96",
             "new_features": [
-                "Droptop now has support for WebView apps; New option in `Droptop settings >> Community apps >> Create new app` to create a WebView app (Requires the Sample WebView app from the Community Apps store page: ⁠https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Sample%20WebView%20-%20Cariboudjan%20(Droptop%20App).rmskin)"
-            ],
-            "modifications": [
-                ""
-            ],
-            "bug_fixes": [
-                "Minor bug fixes"
-            ]
-        },
-        {
-            "version": "4.330.96",
-            "new_features": [
-                "Droptop now has support for WebView apps; New option in `Droptop settings >> Community apps >> Create new app` to create a WebView app (Requires the Sample WebView app from the Community Apps store page: https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Sample%20WebView%20-%20Cariboudjan%20(Droptop%20App).rmskin )"
+                "Droptop now has support for WebView apps; New option in `Droptop settings >> Community apps >> Create new app` to create a WebView app (Requires the Sample WebView app from the Community Apps store page)"
             ],
             "modifications": [
                 ""
