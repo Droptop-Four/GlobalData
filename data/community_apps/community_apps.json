@@ -28,6 +28,10 @@
                     {
                         "version": "23.1119",
                         "changenotes": "Added Pause/Play button"
+                    },
+                    {
+                        "version": "23.1119",
+                        "changenotes": "Scrolling up/down on Play/Pause button changes volume & middle-clicking on button toggles mute."
                     }
                 ]
             }
