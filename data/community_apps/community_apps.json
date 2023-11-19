@@ -8,7 +8,7 @@
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "",
-                "desc": "YouTube, but in a dropdown menu!",
+                "desc": "YouTube, but in a dropdown menu! Also does YouTube Music!",
                 "version": "23.1119",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/YouTube%20-%20Cariboudjan%20(Droptop%20App).rmskin",
@@ -32,6 +32,10 @@
                     {
                         "version": "23.1119",
                         "changenotes": "Scrolling up/down on Play/Pause button changes volume & middle-clicking on button toggles mute."
+                    },
+                    {
+                        "version": "23.1119",
+                        "changenotes": "Added YouTube Music button"
                     }
                 ]
             }
