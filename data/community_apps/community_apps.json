@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 34,
+                "uuid": "400aede4-cd09-48d0-8f25-96a8c6b36959",
+                "name": "GSuite",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Google Search, Gmail, Maps, Sheets, Docs, Drive, Calendar, and Chat all in one app.",
+                "version": "23.1119",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/GSuite%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/GSuite-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "23.1119",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 33,
                 "uuid": "f2275310-f9c5-4b7f-85c9-a3c7605cfeab",
                 "name": "YouTube",
