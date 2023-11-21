@@ -162,6 +162,20 @@
             ]
         },
         {
+            "version": "4.330.105",
+            "new_features": [
+                ""
+            ],
+            "modifications": [
+                "Minor changes to the Tutorial",
+                "Improvements to the Sample WebView app template"
+            ],
+            "bug_fixes": [
+                "Reduced lag when navigating dropdown and submenus",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.321.84",
             "new_features": [
                 "New Community Theme included with new installations of Droptop \"Ladies Night\"",
