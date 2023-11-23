@@ -3,7 +3,7 @@
         {
             "app": {
                 "id": 34,
-                "uuid": "400aede4-cd09-48d0-8f25-96a8c6b36959",
+                "uuid": "bbbb7ac6-25ba-4059-9a55-c3b879d976a8",
                 "name": "GSuite",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -39,7 +39,7 @@
         {
             "app": {
                 "id": 33,
-                "uuid": "f2275310-f9c5-4b7f-85c9-a3c7605cfeab",
+                "uuid": "fdaf0da1-2399-4235-8dbf-21efbad245e6",
                 "name": "YouTube",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -83,7 +83,7 @@
         {
             "app": {
                 "id": 32,
-                "uuid": "4222442e-26ab-4df3-a321-324edf7d600d",
+                "uuid": "4a372429-e56b-40a1-9ade-43e017824b6e",
                 "name": "Sample WebView",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -119,7 +119,7 @@
         {
             "app": {
                 "id": 31,
-                "uuid": "92be63e4-1719-410a-b2bd-07fa700b5373",
+                "uuid": "1de0c361-6ba7-4ae0-a32b-de53b5f1f6c8",
                 "name": "Headlines",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -159,7 +159,7 @@
         {
             "app": {
                 "id": 30,
-                "uuid": "4a30ffba-4e3c-4bd0-b289-f750855a7238",
+                "uuid": "82518cc7-3e71-412a-a54f-cab9a9c4052d",
                 "name": "Quick Search",
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
@@ -187,7 +187,7 @@
         {
             "app": {
                 "id": 29,
-                "uuid": "17aee8c0-5ec7-46a7-96ea-5b4fdf96aafb",
+                "uuid": "4497d4e3-d6f1-4eb4-86b5-43561f9264d3",
                 "name": "WakaTime",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -215,7 +215,7 @@
         {
             "app": {
                 "id": 28,
-                "uuid": "3c499dba-bf78-434e-a896-69217352e654",
+                "uuid": "e4c9b6f4-9b61-4a6c-a194-64de4b289c8c",
                 "name": "Multiples Mails",
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
@@ -259,7 +259,7 @@
         {
             "app": {
                 "id": 27,
-                "uuid": "1af10439-8fc6-407a-9248-0be585555abe",
+                "uuid": "a55dddd9-e788-4503-a8ff-ca5017465a77",
                 "name": "ToolTipster",
                 "author": "TheyCallMePapa",
                 "author_id": 392012772189274112,
@@ -310,7 +310,7 @@
         {
             "app": {
                 "id": 25,
-                "uuid": "54ebc50f-990a-4d05-a7c2-b46bd0c6ec80",
+                "uuid": "c36164b3-01b3-419e-b893-d21b6016c7df",
                 "name": "Center Infos",
                 "author": "TheyCallMePapa",
                 "author_id": 330345930198876161,
@@ -390,7 +390,7 @@
         {
             "app": {
                 "id": 22,
-                "uuid": "4ecb4989-6331-4e27-ab86-3fdc9de86aea",
+                "uuid": "0bdf33b5-6b67-499b-809b-0b90a0f56dc5",
                 "name": "Usage Monitor",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -568,7 +568,7 @@
         {
             "app": {
                 "id": 13,
-                "uuid": "b9451f72-c9cc-4d36-b012-99031e842b1d",
+                "uuid": "b09aea21-6371-4fbf-a472-0d5edada8967",
                 "name": "Shortcut",
                 "author": "Phan",
                 "author_id": 561681705782607882,
