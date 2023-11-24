@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 35,
+                "uuid": "e994d193-f018-41ef-9ab6-cf9ae9e98cd4",
+                "name": "Dynamic Infos",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames",
+                "desc": "this app can let you move infos into the empty space between last folder and first app\n\nreport me any bug",
+                "version": "23.1124",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Dynamic%20Infos%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Dynamic_Infos-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "23.1124",
+                        "changenotes": "Fixed Clock visibility when Custom Info is enabled and info is \"None\"."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 34,
                 "uuid": "bbbb7ac6-25ba-4059-9a55-c3b879d976a8",
                 "name": "GSuite",
