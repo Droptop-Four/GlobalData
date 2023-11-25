@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 36,
+                "uuid": "c33d3183-9033-4849-b26e-e7f976b6674f",
+                "name": "Droptop Store",
+                "author": "Bunz",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Droptop store! Find all Community Apps and Themes here!",
+                "version": "23.1125",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Droptop%20Store%20-%20Bunz%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Droptop_Store-Bunz.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "23.1125",
+                        "changenotes": "First release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 35,
                 "uuid": "e994d193-f018-41ef-9ab6-cf9ae9e98cd4",
                 "name": "Dynamic Infos",
