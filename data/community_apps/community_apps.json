@@ -153,7 +153,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Get your news in a dropdown menu!",
-                "version": "23.1124",
+                "version": "23.1125",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Headlines%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -165,6 +165,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "23.1125",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "23.1124",
                         "changenotes": "Added buttons to main app for changing sources. Settings menu now only changes the country region. Removed Reuters and Washington Post."
