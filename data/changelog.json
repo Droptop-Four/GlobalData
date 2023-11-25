@@ -148,6 +148,25 @@
             ]
         },
         {
+            "version": "4.330.135",
+            "new_features": [
+                ""
+            ],
+            "modifications": [
+                "Droptop Community Apps that have an update available will now show a green dot next to the app's icon in the top bar. When right-clicking on the app, a new \"Update available\" button will be available to download the latest update.",
+                "Droptop will now direct the user to GitHub to download the latest update; Auto-update script decommissioned due to compatibility issues.",
+                "Updated language files (All languages)"
+            ],
+            "bug_fixes": [
+                "Stability improvements",
+                "Fixed bug that could cause infinite loop crash if a certain part of Droptop were right-clicked on",
+                "All PowerShell scripts will now run with ExecutionPolicy set to Restricted",
+                "Fixed a bug that caused folders not to automatically be renamed when using a non-english language (First installs only)",
+                "Fixed Community App, Theme, and Commands generation",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.330.12",
             "new_features": [
                 "In the Update app, clicking the \"Download all updates\" button will now download & install the latest Droptop update, and update all Community Apps in one click",
