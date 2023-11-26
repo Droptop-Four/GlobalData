@@ -24,6 +24,10 @@
                     {
                         "version": "23.1126",
                         "changenotes": "First release."
+                    },
+                    {
+                        "version": "23.1126",
+                        "changenotes": "Added play/pause button"
                     }
                 ]
             }
