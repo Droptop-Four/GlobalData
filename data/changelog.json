@@ -5,30 +5,22 @@
             "new_features": [
                 "Droptop now has support for WebView apps; New option in `Droptop settings >> Community apps >> Create new app` to create a WebView app (Requires the Sample WebView app from the Community Apps store page)"
             ],
-            "modifications": [
-                ""
-            ],
+            "modifications": [],
             "bug_fixes": [
                 "Minor bug fixes"
             ]
         },
         {
             "version": "4.330.89",
-            "new_features": [
-                ""
-            ],
-            "modifications": [
-                ""
-            ],
+            "new_features": [],
+            "modifications": [],
             "bug_fixes": [
                 "Fixed issue with Droptop Updater"
             ]
         },
         {
             "version": "4.330.88",
-            "new_features": [
-                ""
-            ],
+            "new_features": [],
             "modifications": [
                 "Meters on Demand will now be accessible when the beta is installed",
                 "New Copilot icon for the Assistant app",
@@ -64,9 +56,7 @@
             "new_features": [
                 "When using `Show only backlight icon` in Battery settings, the icon will now change to reflect the current backlight percentage"
             ],
-            "modifications": [
-                ""
-            ],
+            "modifications": [],
             "bug_fixes": [
                 "Fixed battery icon staying yellow (Battery Saver) when device is plugged in",
                 "Fixed bug that would cause incorrect color for the battery meter; Battery meter will now only show as red if the power is below 20%, Battery Saver is not on, and the device is not charging",
@@ -149,9 +139,7 @@
         },
         {
             "version": "4.330.135",
-            "new_features": [
-                ""
-            ],
+            "new_features": [],
             "modifications": [
                 "Droptop Community Apps that have an update available will now show a green dot next to the app's icon in the top bar. When right-clicking on the app, a new \"Update available\" button will be available to download the latest update.",
                 "Droptop will now direct the user to GitHub to download the latest update; Auto-update script decommissioned due to compatibility issues.",
@@ -182,9 +170,7 @@
         },
         {
             "version": "4.330.105",
-            "new_features": [
-                ""
-            ],
+            "new_features": [],
             "modifications": [
                 "Minor changes to the Tutorial",
                 "Improvements to the Sample WebView app template"
