@@ -130,6 +130,10 @@
                         "changenotes": "Minor improvements"
                     },
                     {
+                        "version": "23.1126",
+                        "changenotes": "Bug fix"
+                    },
+                    {
                         "version": "23.1125",
                         "changenotes": "Fixed logical expression error in key \"Disabled\" in Battery Life Time measure"
                     },
