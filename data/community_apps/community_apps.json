@@ -28,6 +28,10 @@
                     {
                         "version": "23.1126",
                         "changenotes": "Added play/pause button"
+                    },
+                    {
+                        "version": "23.1126",
+                        "changenotes": "Scrolling up/down on Spotify button will now change volume up/down."
                     }
                 ]
             }
