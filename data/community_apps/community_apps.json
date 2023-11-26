@@ -54,6 +54,10 @@
                         "changenotes": "Buttons are now clickable to toggle each key. Changed icons to lock images. Minor bug fixes."
                     },
                     {
+                        "version": "23.1126",
+                        "changenotes": "Minor bug fixes."
+                    },
+                    {
                         "version": "23.1125",
                         "changenotes": "First Release"
                     }
