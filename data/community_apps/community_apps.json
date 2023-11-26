@@ -66,6 +66,10 @@
                         "changenotes": "Minor bug fixes."
                     },
                     {
+                        "version": "23.1126",
+                        "changenotes": "Minor improvements"
+                    },
+                    {
                         "version": "23.1125",
                         "changenotes": "First Release"
                     }
