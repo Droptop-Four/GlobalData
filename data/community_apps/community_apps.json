@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 39,
+                "uuid": "9caf8db3-adb7-4db8-9a48-eb6690f22fbd",
+                "name": "Discord",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Discord, but in a dropdown menu!",
+                "version": "23.1128",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Discord%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Discord-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "23.1128",
+                        "changenotes": "First release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 38,
                 "uuid": "98267da2-63a8-4b81-839d-ce5d347e34e5",
                 "name": "Spotify Web Player",
