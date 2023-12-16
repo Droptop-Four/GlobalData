@@ -7,7 +7,7 @@
     },
     "website": {
         "date": null,
-        "expiration": null,
+        "expiration": "None",
         "announcement": "",
         "type": ""
     }
