@@ -543,7 +543,7 @@
         {
             "app": {
                 "id": 26,
-                "uuid": "ab5a527d-10cb-420b-9017-10483353a520",
+                "uuid": "ff58fa91-8d06-4a81-8ede-c778621bd713",
                 "name": "PC Scanner",
                 "author": "TheyCallMePapa",
                 "author_id": 392012772189274112,
@@ -599,7 +599,7 @@
         {
             "app": {
                 "id": 24,
-                "uuid": "0809a0c6-4957-467e-9a08-34b20e8e7bb8",
+                "uuid": "23209eba-3666-4d8a-b5c1-9c0d0cfc98f3",
                 "name": "Translator",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -627,7 +627,7 @@
         {
             "app": {
                 "id": 23,
-                "uuid": "cc805bf4-30aa-42c0-b42f-bc61241d9c0c",
+                "uuid": "c8467315-7a5c-4307-9cfd-d6a5fc70537f",
                 "name": "Hide Settings Menu",
                 "author": "TheyCallMePapa",
                 "author_id": 392012772189274112,
@@ -686,7 +686,7 @@
         {
             "app": {
                 "id": 21,
-                "uuid": "19eb436e-d6b3-47a1-b7e7-ba05841e595d",
+                "uuid": "d70859a7-dcb2-4d25-80e4-cd2dbe0d9fcd",
                 "name": "VPN Status",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -735,7 +735,7 @@
         {
             "app": {
                 "id": 20,
-                "uuid": "c95fe03f-56b3-42a5-9f14-86f371680e13",
+                "uuid": "4f53e714-a2b8-4ef2-9773-234421341ea3",
                 "name": "QRes",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -758,7 +758,7 @@
         {
             "app": {
                 "id": 18,
-                "uuid": "125338ea-c1b7-492b-9aa1-2e55432f7c13",
+                "uuid": "de642008-a7ec-49ed-a0c8-e840eedfeb8b",
                 "name": "Theme Me",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -813,7 +813,7 @@
         {
             "app": {
                 "id": 14,
-                "uuid": "c6bfeed4-6179-41cd-9ac9-322652111cf9",
+                "uuid": "d7a2bf71-bc19-4308-8e3a-a5acb3762ce0",
                 "name": "Game Hub",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -864,7 +864,7 @@
         {
             "app": {
                 "id": 12,
-                "uuid": "216f917f-0f37-42f5-b218-06feddc574da",
+                "uuid": "187ab273-cb4e-4aaa-b49e-a26b869c08c0",
                 "name": "SearchBar",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -892,7 +892,7 @@
         {
             "app": {
                 "id": 10,
-                "uuid": "671e8670-e582-4269-9820-3dcf508abf4d",
+                "uuid": "6fabdc94-1ad4-4f96-b2b0-5226dd14c4b9",
                 "name": "Color Mode Toggle",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -915,7 +915,7 @@
         {
             "app": {
                 "id": 9,
-                "uuid": "b070cf99-c013-4744-932d-cb4e9102ae2a",
+                "uuid": "93d9fd5d-5751-4e0f-91e3-e106bedf972d",
                 "name": "Media Control",
                 "author": "Yaron",
                 "author_id": 709053559836246137,
@@ -938,7 +938,7 @@
         {
             "app": {
                 "id": 8,
-                "uuid": "bded0a8f-4df2-4b85-aac5-a4a97ce2e8db",
+                "uuid": "496df783-165f-48a5-b924-df5422b01fb7",
                 "name": "JaxCore",
                 "author": "Jax",
                 "author_id": 341522422836625408,
@@ -961,7 +961,7 @@
         {
             "app": {
                 "id": 6,
-                "uuid": "55b4b06d-85bd-424c-8150-4fbf0daf8cd5",
+                "uuid": "74c3cbb1-6686-4e57-8efb-bb0e4544407f",
                 "name": "Quick Settings",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -984,7 +984,7 @@
         {
             "app": {
                 "id": 5,
-                "uuid": "f98385fd-2a99-4cde-a0b4-5aaa84289497",
+                "uuid": "11e8fc64-14e8-4791-a994-6590d02a4a3d",
                 "name": "Disks",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -1007,7 +1007,7 @@
         {
             "app": {
                 "id": 4,
-                "uuid": "73e48dae-9039-44d7-aedc-f8cbe8405c2f",
+                "uuid": "a2b832eb-8937-49a2-b4ab-6e8ce6a63396",
                 "name": "Recycle Bin",
                 "author": "Phan",
                 "author_id": 561681705782607882,
@@ -1030,7 +1030,7 @@
         {
             "app": {
                 "id": 3,
-                "uuid": "0a4e9e6d-8e0c-4c7a-bdbd-a9a1adf8e711",
+                "uuid": "0195e174-b277-4271-833d-1d81d83c83b7",
                 "name": "Location",
                 "author": "notAperson",
                 "author_id": 736395826670207088,
@@ -1053,7 +1053,7 @@
         {
             "app": {
                 "id": 2,
-                "uuid": "b7a7627e-96c7-4c42-a6ac-6d199f7ba378",
+                "uuid": "f1d8bc9c-379e-4a53-a509-b049f52d629f",
                 "name": "Daily Quotes",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
