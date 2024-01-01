@@ -217,7 +217,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames",
                 "desc": "this app can let you move infos into the empty space between last folder and first app\n\nreport me any bug",
-                "version": "23.1126",
+                "version": "23.1231",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Dynamic%20Infos%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -229,6 +229,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "23.1231",
+                        "changenotes": "- Updated for compatibility with Droptop 4.340.6\n- Added `Uptime` info as a custom info (Thanks `TheyCallMePapa`).\n- Minor bug fix."
+                    },
                     {
                         "version": "23.1126",
                         "changenotes": "Minor improvements"
