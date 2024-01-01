@@ -32,6 +32,36 @@
             ]
         },
         {
+            "version": "4.340.6",
+            "new_features": [
+                "When right-clicking on an app icon in the Toggle & Rearrange Apps dropdown menu, a new popup menu will appear to toggle app on/off, add dividers, and change the app's icon (If the app has variant icons)",
+                "Droptop now supports up to 10 Community Apps at once; Slots 6 through 10 will be locked to the Supporter Version",
+                "New options when making a Community App `App has a dropdown menu`, `App is just a button`, and `Use full color icon`",
+                "Added new shortcut option `Droptop settings >> App settings >> Toggle & rearrange my apps`",
+                "Added new shortcut option `Droptop settings >> Options >> Font >> Adjust font weight`",
+                "When `Divide bar into sections` is enabled, any dividers in the bar will now show a physical separation between apps",
+                "Added new option `Droptop settings >> Options >> Advanced >> Disable notifications`; Disables all text notifications (Including song info) in the top bar",
+                "Various changes and improvements made by @kazukigames82. Thanks!"
+            ],
+            "modifications": [
+                "Removed Search, Assistant, Input Language, and Action Center apps. Now part of Community App \"Functions\" (Download link below)",
+                "Community Apps now only use a single BarModifier file (Update required for ALL Community Apps, update links to be provided soon below)",
+                "BarModifier no longer permits changes to the [CustomAppX] meter, with the exception of the W parameter",
+                "Changed UI font to Urbanist (New installs only)",
+                "`Droptop settings >> App settings` will now only show apps settings for apps that are currently active in the top bar",
+                "Catalina theme now called `Snow Leopard`; Graident shadows now enabled by default (New installs only)",
+                "Updated translations"
+            ],
+            "bug_fixes": [
+                "Fixed bug that prevented \"Add new font\" from working",
+                "Fixed bug that caused the font not to be automatically set after using the  `Add new font` option in settings",
+                "Reduced loading times when navigating the settings menu",
+                "Generating RMSKINs will now be disabled when there is no internet connection (Scripts require an internet connection to run)",
+                "Stability improvements; fixed a bug that would sometimes cause Droptop to crash when moving the cursor quickly back and forth between two dropdown menus",
+                "Various minor bug fixes"
+            ]
+        },
+        {
             "version": "4.330.135",
             "new_features": [],
             "modifications": [
