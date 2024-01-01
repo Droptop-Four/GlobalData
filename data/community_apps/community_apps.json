@@ -422,6 +422,10 @@
                         "changenotes": "Updated for compatibility with Droptop 4.360"
                     },
                     {
+                        "version": "23.1203",
+                        "changenotes": "Updated for compatibility with Droptop 4.360"
+                    },
+                    {
                         "version": "23.1114",
                         "changenotes": "- New App :D"
                     }
