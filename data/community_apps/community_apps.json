@@ -919,6 +919,10 @@
                         "changenotes": "Minor bug fix"
                     },
                     {
+                        "version": "24.0101",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
                         "version": "23.1231",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
                     }
