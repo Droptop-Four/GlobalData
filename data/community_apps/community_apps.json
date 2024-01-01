@@ -1026,7 +1026,7 @@
                 "author_id": 341522422836625408,
                 "author_link": "https://github.com/EnhancedJax",
                 "desc": "Allows integration of Vallistart 3.0 with the Droptop home button, as well as shortcuts to YourMixer, QuickNotes, and Keylauncher from JaxCore.\n- JaxCore and related modules required\n- Module download links included inside app.",
-                "version": "23.1026",
+                "version": "24.0101",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/JaxCore%20-%20Jax%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1037,7 +1037,12 @@
                     341522422836625408
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "24.0101",
+                        "changenotes": "Updated for compatibility with Droptop 4.360"
+                    }
+                ]
             }
         },
         {
