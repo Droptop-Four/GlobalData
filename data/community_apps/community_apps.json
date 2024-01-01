@@ -779,7 +779,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Select up to three different screen resolutions & refresh rates and with one-click quick swap between multiple display settings",
-                "version": "23.1026",
+                "version": "23.1203",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/QRes%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -790,7 +790,12 @@
                     584542239900827665
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "23.1203",
+                        "changenotes": "Updated for compatibility with Droptop 4.360"
+                    }
+                ]
             }
         },
         {
