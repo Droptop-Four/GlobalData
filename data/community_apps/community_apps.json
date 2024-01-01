@@ -134,6 +134,10 @@
                         "changenotes": "Fixes"
                     },
                     {
+                        "version": "23.1229",
+                        "changenotes": "Updated for compatibility with Droptop 4.360"
+                    },
+                    {
                         "version": "23.1125",
                         "changenotes": "First release."
                     }
