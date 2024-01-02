@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 42,
+                "uuid": "98d857db-d9de-45bd-a048-cfd2d647b8b6",
+                "name": "Microsoft Copilot",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Bing Chat / Copilot in a dropdown",
+                "version": "24.0102",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Microsoft%20Copilot%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Microsoft_Copilot-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0102",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 41,
                 "uuid": "db0b912b-43fd-404d-9f01-bd68066b52bb",
                 "name": "Functions",
