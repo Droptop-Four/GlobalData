@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.340.9",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a bug that caused cosmetic errors when making a new WebView app",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.7",
             "new_features": [
                 "When right-clicking on an app icon in the Toggle & Rearrange Apps dropdown menu, a new popup menu will appear to toggle app on/off, add dividers, and change the app's icon (If the app has variant icons)",
