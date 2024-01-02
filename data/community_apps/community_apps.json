@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 43,
+                "uuid": "71007ec1-43de-49e8-8386-a8c90675664a",
+                "name": "Steam",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Access Steam Chat and Store",
+                "version": "24.0102",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Steam%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Steam-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0102",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 42,
                 "uuid": "98d857db-d9de-45bd-a048-cfd2d647b8b6",
                 "name": "Microsoft Copilot",
