@@ -52,6 +52,10 @@
                     {
                         "version": "24.0102",
                         "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0102",
+                        "changenotes": "Minor bug fix"
                     }
                 ]
             }
