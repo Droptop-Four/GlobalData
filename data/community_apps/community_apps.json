@@ -968,29 +968,6 @@
         },
         {
             "app": {
-                "id": 16,
-                "uuid": "27aeb9cd-be20-400d-857c-4b199aeadae1",
-                "name": "Feeder",
-                "author": "Cariboudjan",
-                "author_id": 584542239900827665,
-                "author_link": "https://github.com/Cariboudjan",
-                "desc": "RSS Feeder for Lifehacker, CBS News, LA Times, CNN Top Stories, Ars Technica, New York Times, and UN News.",
-                "version": "23.1025",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Feeder%20-%20Cariboudjan%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_apps/img/Feeder-Cariboudjan.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    584542239900827665
-                ],
-                "hidden": 1,
-                "changelog": []
-            }
-        },
-        {
-            "app": {
                 "id": 14,
                 "uuid": "d7a2bf71-bc19-4308-8e3a-a5acb3762ce0",
                 "name": "Game Hub",
