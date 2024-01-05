@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 30,
+                "uuid": "74d305b9-edc4-4195-b93f-00d75cb2c853",
+                "name": "Red Warm",
+                "author": "ZEDATAR",
+                "author_id": 788257471726092289,
+                "author_link": "",
+                "desc": "Its a clean, nice theme. It goes well with a wallpaper that is more red then black and has a very tiny hint of blue.",
+                "version": "24.0105",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Red%20Warm%20-%20ZEDATAR%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Red_Warm_-_ZEDATAR_Droptop_Theme.rmskin.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    788257471726092289
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 29,
                 "uuid": "b565ae78-6aa3-47e0-9f09-91f118358fe9",
                 "name": "Catppuccin 2",
