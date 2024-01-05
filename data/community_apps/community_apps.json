@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 45,
+                "uuid": "528ddcf6-2b0a-4ba1-bb45-a98d8147724b",
+                "name": "Karmy",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames",
+                "desc": "Display your reddit karma in the top bar and do showcases with you custom profile card.",
+                "version": "24.0104",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Karmy%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Karmy-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0104",
+                        "changenotes": "- First Release (v4.340)"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 44,
                 "uuid": "4ed28c75-e67d-4516-8d3d-6544ee98c5b1",
                 "name": "Google Translate",
