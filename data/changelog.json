@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.340.21",
+            "new_features": [],
+            "modifications": [
+                "App Drawer now has support for Windows 11 (Thanks @KazukiGames82!)"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.9",
             "new_features": [],
             "modifications": [],
