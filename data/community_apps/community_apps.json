@@ -1287,7 +1287,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.",
-                "version": "23.1203",
+                "version": "24.0108",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle%20Bin%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1299,6 +1299,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0108",
+                        "changenotes": "Minor bug fix"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
