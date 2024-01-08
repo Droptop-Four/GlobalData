@@ -26,6 +26,10 @@
                         "changenotes": "Minor bug fix"
                     },
                     {
+                        "version": "24.0108",
+                        "changenotes": "Minor changes"
+                    },
+                    {
                         "version": "24.0106",
                         "changenotes": "First release"
                     }
