@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.340.22",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed issue with Community Apps not referencing the correct version number when checking for a new update",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.21",
             "new_features": [],
             "modifications": [
