@@ -342,6 +342,10 @@
                         "changenotes": "- Added styles for buttons.\n- Now you can rearrange your buttons.\n- Minor Bug Fixes."
                     },
                     {
+                        "version": "24.0112",
+                        "changenotes": "- Added missing variable :'D."
+                    },
+                    {
                         "version": "23.1231",
                         "changenotes": "- Updated for compatibility with Droptop 4.340.6\n- UIpdated Icons.\n- Minor bug fix."
                     },
