@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 47,
+                "uuid": "5c8c6b28-e342-4561-84e8-da6e8bdcd82e",
+                "name": "Messenger",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Facebook Messenger, but in a dropdown!",
+                "version": "24.0112",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Messenger%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Messenger-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0112",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 46,
                 "uuid": "aab1b0f0-616f-43ea-94aa-4389f1396148",
                 "name": "App Drawer",
