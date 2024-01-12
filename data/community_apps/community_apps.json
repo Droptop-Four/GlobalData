@@ -325,7 +325,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames",
                 "desc": "This app show the current state of {Caps Lock, Num Lock and Scroll Lock}",
-                "version": "23.1231",
+                "version": "24.0112",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/KeysLocks%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -337,6 +337,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0112",
+                        "changenotes": "- Added styles for buttons.\n- Now you can rearrange your buttons.\n- Minor Bug Fixes."
+                    },
                     {
                         "version": "23.1231",
                         "changenotes": "- Updated for compatibility with Droptop 4.340.6\n- UIpdated Icons.\n- Minor bug fix."
