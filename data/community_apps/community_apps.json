@@ -8,8 +8,8 @@
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames",
-                "desc": "This app display the uptime count on your topbar.",
-                "version": "24.0116",
+                "desc": "This app can display your time since you login or time with pc on.",
+                "version": "24.0117",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Uptimer%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -21,6 +21,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0117",
+                        "changenotes": "- Added setting to show time since login.\n- Minor bug fix."
+                    },
                     {
                         "version": "24.0116",
                         "changenotes": "- First Release."
