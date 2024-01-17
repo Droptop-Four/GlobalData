@@ -768,7 +768,7 @@
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames",
-                "desc": "My version of Mail App with support for WebView :D\nAdded new things and now you can add up to 5 mails (Only Gmail).\n\n- New Version with new variables,so reset settings when you install the app.",
+                "desc": "My version of Mail App with support for WebView :D\nAdded new things and now you can add up to 5 mails (Only Gmail).",
                 "version": "24.0116",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Multiples%20Mails%20-%20KazukiGames82%20(Droptop%20App).rmskin",
@@ -788,6 +788,10 @@
                     {
                         "version": "24.0116",
                         "changenotes": "- Minor bug fix.\n> Fixed an error that can't change the name in app when you select other account."
+                    },
+                    {
+                        "version": "24.0116",
+                        "changenotes": "- Minor bug fix.\n> Fixed an error that can't show properly name account in app when `censor name in app` is disabled."
                     },
                     {
                         "version": "23.1231",
