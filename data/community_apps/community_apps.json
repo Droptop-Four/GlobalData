@@ -798,6 +798,10 @@
                         "changenotes": "- Redesigned app settings.\n- Minor bug fix.\n- I want sleep."
                     },
                     {
+                        "version": "24.0117",
+                        "changenotes": "- Added setting to hide the icon app on Top Bar.\n> Setting in `Icon Settings`."
+                    },
+                    {
                         "version": "24.0116",
                         "changenotes": "- Redesigned code of app.\n- Redesigned app settings.\n\n- Added `Censor name in app` setting.\n- Added `Change icons` setting.\n\n- Minor bug fix."
                     },
