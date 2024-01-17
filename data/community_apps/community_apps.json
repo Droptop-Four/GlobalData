@@ -26,6 +26,10 @@
                         "changenotes": "- Added setting to show time since login.\n- Minor bug fix."
                     },
                     {
+                        "version": "24.0117",
+                        "changenotes": "- Added setting to hide the icon app on Top Bar."
+                    },
+                    {
                         "version": "24.0116",
                         "changenotes": "- First Release."
                     }
