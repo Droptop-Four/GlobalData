@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.340.31",
+            "new_features": [
+                "Right-clicking on the album art in the Volume app will now show options for Song lyrics and Search artist on Wikipedia"
+            ],
+            "modifications": [
+                "Community Apps when compiled will now save a variable called MyAppVersion to VariablesData.inc that stores the current version number of the app",
+                "Disks Community App by Phan no longer be included with new installations, will now include Facebook Messenger app"
+            ],
+            "bug_fixes": [
+                "Top bar will no longer turn black when Battery Saver is enabled and Top Bar Blur is off",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.22",
             "new_features": [],
             "modifications": [],
