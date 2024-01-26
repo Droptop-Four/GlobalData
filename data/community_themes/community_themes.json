@@ -2,29 +2,6 @@
     "themes": [
         {
             "theme": {
-                "id": 32,
-                "uuid": "af089d6f-35fd-445b-810a-8dee5d925456",
-                "name": "PixelatedBlue",
-                "author": "rook 1",
-                "author_id": 1021077588455723120,
-                "author_link": "",
-                "desc": "A blue hue of pixelated calm. Perfect for those nights when you're all cozy under your blanket.",
-                "version": "24.0118",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/PixelatedBlue%20-%20rook%201%20(Droptop%20Theme).rmskin.rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/PixelatedBlue_-_rook_1_Droptop_Theme.rmskin.rmskin.webp",
-                "authorised_members": [
-                    330345930198876161,
-                    584542239900827665,
-                    1021077588455723120
-                ],
-                "hidden": 0,
-                "changelog": []
-            }
-        },
-        {
-            "theme": {
                 "id": 31,
                 "uuid": "57e901fa-1ba6-40a0-abc4-a019bc03c994",
                 "name": "BE OS",
