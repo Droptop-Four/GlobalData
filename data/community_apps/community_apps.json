@@ -1198,8 +1198,8 @@
                 "author": "Phan",
                 "author_id": 561681705782607882,
                 "author_link": "",
-                "desc": "This is a community app that allows you to add a shortcut of any program or file in your Droptop bar.",
-                "version": "24.0101",
+                "desc": "Allows you to add up to 10 shortcuts of any program or file to the bar",
+                "version": "24.0127",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Shortcut%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1211,6 +1211,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0127",
+                        "changenotes": "Now uses FileView to add/remove shortcuts. Maximum number of shortcuts increased to 10. Now shows larger, more readable icons."
+                    },
                     {
                         "version": "24.0101",
                         "changenotes": "Minor bug fix"
