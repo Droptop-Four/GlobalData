@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 49,
+                "uuid": "36d5f6cc-8a90-4c56-8f98-f5286705a9eb",
+                "name": "Rainmeter Store",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Get other Rainmeter skins through this handy app",
+                "version": "24.0127",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Rainmeter%20Store%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Rainmeter_Store-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0127",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 48,
                 "uuid": "7723d6e7-799c-4114-a427-9272d503a76c",
                 "name": "Uptimer",
