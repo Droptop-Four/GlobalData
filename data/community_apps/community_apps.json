@@ -1365,6 +1365,10 @@
                         "changenotes": "- Minor Bug Fix.\n> Fixed issues with colors."
                     },
                     {
+                        "version": "24.0128",
+                        "changenotes": "Brain: You uploaded the same version.\nMe: No, I did upload the updated one.\nBrain: No, I don't have a photo here that you have updated it.\nMe: And why didn't you tell me?\n\n- Minor Bug Fix.\n> In theory."
+                    },
+                    {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
                     }
