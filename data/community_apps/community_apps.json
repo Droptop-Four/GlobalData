@@ -1244,6 +1244,10 @@
                         "changenotes": "Bug fixes, added option to set icon size."
                     },
                     {
+                        "version": "24.0128",
+                        "changenotes": "Bug fix"
+                    },
+                    {
                         "version": "24.0127",
                         "changenotes": "Now uses FileView to add/remove shortcuts. Maximum number of shortcuts increased to 10. Now shows larger, more readable icons."
                     },
