@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.340.40",
+            "new_features": [
+                "Added the ability to add preview images to themes. Themes also now write a GUID if a GUID does not exist for the theme."
+            ],
+            "modifications": [
+                "Shortcut community app will now check for changes (Added or removed shortcuts) every 10 seconds (Latest version of app required)",
+                "Added new option for Community Apps Use `Group=` parameters `UpdateMeasure1M`, `UpdateMeasure10S`, `UpdateMeter1M`, `UpdateMeter10S` in any measures/meters in `BarModifier.inc` to trigger that measure/meter to update every 1 Minute (1M) or 10 seconds (10S)."
+            ],
+            "bug_fixes": [
+                "When clicking on a link in a WebView app, and a new window is opened, the window will now appear above the app (instead of below), while keeping the app itself open",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.31",
             "new_features": [
                 "Right-clicking on the album art in the Volume app will now show options for Song lyrics and Search artist on Wikipedia"
