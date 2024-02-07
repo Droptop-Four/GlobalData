@@ -839,10 +839,10 @@
                 "name": "Multiples Mails",
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
-                "author_link": "https://github.com/KazukiGames",
+                "author_link": "https://github.com/KazukiGames82",
                 "desc": "My version of Mail App with support for WebView :D\nAdded new things and now you can add up to 5 mails (Only Gmail).",
-                "version": "24.0117",
-                "official_link": "",
+                "version": "24.0207",
+                "official_link": "https://github.com/KazukiGames82/Multiples_Mails-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Multiples%20Mails%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Multiples_Mails-KazukiGames82.webp",
@@ -853,6 +853,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0207",
+                        "changenotes": "- Minor bug fix."
+                    },
                     {
                         "version": "24.0117",
                         "changenotes": "-  Minor bug fix.\n> Fixed app when variable `Multiples_Mails___Gmail_Status_X` value is 0."
