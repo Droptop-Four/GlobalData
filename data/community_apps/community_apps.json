@@ -161,7 +161,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "Display your reddit karma in the top bar and do showcases with you custom profile card.",
-                "version": "24.0209",
+                "version": "24.0217",
                 "official_link": "https://github.com/KazukiGames82/Karmy-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Karmy%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -173,6 +173,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0217",
+                        "changenotes": "- Improved Performance.\n- Minor Bug Fix."
+                    },
                     {
                         "version": "24.0209",
                         "changenotes": "## New Features\n- Karmy icon now can be hideable.\n\n## Bug Fixes\n- Improved performance.\n- Minor bug fix."
