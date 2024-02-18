@@ -602,6 +602,10 @@
                         "changenotes": "##* Requires Droptop 4.340.55##\n- MInor Bug Fix."
                     },
                     {
+                        "version": "24.0218",
+                        "changenotes": "*** Requires Droptop 4.340.55**\n- Minor Bug Fix."
+                    },
+                    {
                         "version": "24.0217",
                         "changenotes": "- Minor Bug Fix."
                     },
