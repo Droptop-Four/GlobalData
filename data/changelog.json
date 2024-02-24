@@ -1,6 +1,21 @@
 {
     "changelog": [
         {
+            "version": "4.340.62",
+            "new_features": [
+                "Added new option to Theme Builder for Shadow X & Y Positions; Top Bar now displays drawn shadows when Top Bar Blur is off. Rounded corners and Divide Top Bar into Sections will now work with Top Bar Shadows. Thanks @KazukiGames82"
+            ],
+            "modifications": [
+                "Pomodoro Focus Timer will now display remaining minutes in Alarm app",
+                "Removed MOND as built-in app (Will become Community App). App Drawer is now built-in app (Community app will be removed)",
+                "Droptop bar width will now follow screen width instead of work width (Better compatibility on Windows 11 and future versions of Windows). As a result, Droptop will not resize when Taskbar is on the left or right side of screen (Windows 10 only)"
+            ],
+            "bug_fixes": [
+                "Fixed UserAgent error preventing Weather app from parsing data. Thanks @TheyCallMePapa",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.60",
             "new_features": [
                 "Added new option to Theme Builder for Shadow X & Y Positions; Top Bar now displays drawn shadows when Top Bar Blur is off. Rounded corners and Divide Top Bar into Sections will now work with Top Bar Shadows. Thanks @KazukiGames82"
