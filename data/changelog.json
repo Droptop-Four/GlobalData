@@ -1,6 +1,17 @@
 {
     "changelog": [
         {
+            "version": "4.340.65",
+            "new_features": [],
+            "modifications": [
+                "Added latest versions of Community Apps (New installs only)",
+                "Minor changes to WebView app template"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.63",
             "new_features": [
                 "Added new option to Theme Builder for Shadow X & Y Positions; Top Bar now displays drawn shadows when Top Bar Blur is off. Rounded corners and Divide Top Bar into Sections will now work with Top Bar Shadows. Thanks @KazukiGames82"
