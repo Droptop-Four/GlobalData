@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.340.67",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed App Drawer not working on Windows 10",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.65",
             "new_features": [],
             "modifications": [
