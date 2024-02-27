@@ -24,6 +24,10 @@
                     {
                         "version": "24.0227",
                         "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0227",
+                        "changenotes": "Minor changes"
                     }
                 ]
             }
