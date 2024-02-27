@@ -101,7 +101,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "This app can display your time since you login or time with pc on.",
-                "version": "24.0219",
+                "version": "24.0227",
                 "official_link": "https://github.com/KazukiGames82/Uptimer-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Uptimer%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -113,6 +113,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0227",
+                        "changenotes": "¡¡¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
+                    },
                     {
                         "version": "24.0219",
                         "changenotes": "- Added \"User Login History\" into App.\n> Now app registry your login time."
