@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 33,
+                "uuid": "568c98dc-5586-4f6a-95de-7d7fdcafc256",
+                "name": "Kanagawa Mojas84",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "Kanagawa Theme for Droptop Four",
+                "version": "24.0302",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Kanagawa%20Mojas84%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Kanagawa_Mojas84-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 32,
                 "uuid": "0f9a4b60-9493-41ba-938c-cafbfb52cfa2",
                 "name": "PixelatedBlue",
