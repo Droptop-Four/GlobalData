@@ -321,7 +321,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Google Translate, but in a dropdown!",
-                "version": "24.0102",
+                "version": "24.0309",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Google%20Translate%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -333,6 +333,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0309",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "24.0102",
                         "changenotes": "First release"
