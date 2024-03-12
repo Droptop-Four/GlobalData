@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 35,
+                "uuid": "763386e8-58e0-40eb-a339-74306aca4e59",
+                "name": "GIN24",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "GIN24 Theme for DropTop Four",
+                "version": "24.0312",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/GIN24%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/GIN24-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 34,
                 "uuid": "49829b4b-cdda-4afc-aefd-1c9c7f7d66d7",
                 "name": "YARU24 Mojas84",
