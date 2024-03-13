@@ -1569,6 +1569,10 @@
                         "changenotes": "Added:\n- Dynamic Width setting\n- Input to change text when no playing\n\nModified:\n- Refactored Code.\n- Change icon when something is playing\n\nBug Fixes:\n- fixed Issues with bigger fonts.\n- fixed empty space when there's not text for \"Media_Control-Yaron___Music_Info_0\" variable.\n- fixed missing padding when there's nothing playing\n\nTips:\n- Turn off \"Dynamic Width\" to save battery."
                     },
                     {
+                        "version": "24.0313",
+                        "changenotes": "Added:\n- Dynamic Width setting\n- Input to change text when no playing\n\nModified:\n- Refactored Code.\n- Change icon when something is playing\n\nBug Fixes:\n- fixed Issues with bigger fonts.\n- fixed empty space when there's not text for \"Media_Control-Yaron___Music_Info_0\" variable.\n- fixed missing padding when there's nothing playing.\n- fixed extra padding when media controls are enabled.\n\nTips:\n- Turn off \"Dynamic Width\" to save battery."
+                    },
+                    {
                         "version": "24.0217",
                         "changenotes": "- Improved Performance.\n- Minor Bug Fix."
                     },
