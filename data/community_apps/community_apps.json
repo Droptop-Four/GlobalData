@@ -2,6 +2,33 @@
     "apps": [
         {
             "app": {
+                "id": 53,
+                "uuid": "60cba3cf-47b6-4dda-9f1c-85c64aefe68e",
+                "name": "Helldivers Livemap",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Show the livemap of Hell Divers 2 planets, in a quick access dropdown menu",
+                "version": "24.0313",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Helldivers%20Livemap%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Helldivers_Livemap-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0313",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 52,
                 "uuid": "e3f14c62-aa0d-4ce4-9e89-8eae125336ae",
                 "name": "Google Gemini",
