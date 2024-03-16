@@ -1,6 +1,26 @@
 {
     "changelog": [
         {
+            "version": "4.340.91",
+            "new_features": [
+                "Added new right-click menu to folder dropdowns",
+                "Added larger up/down buttons for scrolling dropdown menus, now appearing on the right side of dropdowns instead of the bottom; Better tap-ability for touchscreens.",
+                "Added new battery info to Battery App and new BatterySaver plugin. Added toggle for turning on Battery Saver to Battery App. (Thank you @KazukiGames82)",
+                "Added Mexican Spanish language option (Thank you @KazukiGames82)"
+            ],
+            "modifications": [
+                "Removed option to show buttons at the bottom of dropdowns",
+                "WebView apps will now load on startup (Not requiring the use of the Refresh button)",
+                "Battery History Graph in Battery App is now a bar graph",
+                "Holding down the Up/Down arrows in dropdown menus will now auto-scroll",
+                "New language select screen in Setup"
+            ],
+            "bug_fixes": [
+                "Fixed WebView apps able to draw outside of the monitor left edge",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.340.67",
             "new_features": [],
             "modifications": [],
