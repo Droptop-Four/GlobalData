@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 55,
+                "uuid": "a6d26c99-050e-4e34-8a94-c5b3bcbbe294",
+                "name": "Duolingo",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Duolingo App for Droptop Four.\nEasy access to learn/practice new languages from your desktop.",
+                "version": "24.0317",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Duolingo%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Duolingo-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0317",
+                        "changenotes": "- First Release\n\nSettings:\n- Toggle on/off colored Icon"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 54,
                 "uuid": "a2502f26-aa56-4305-99d4-8f09e432f6e0",
                 "name": "Color Hunt",
