@@ -1,14 +1,1 @@
-{
-    "app": {
-        "date": null,
-        "expiration": null,
-        "announcement": "",
-        "type": ""
-    },
-    "website": {
-        "date": null,
-        "expiration": null,
-        "announcement": "",
-        "type": ""
-    }
-}
+{"app":{"date":null,"expiration":null,"announcement":"test","type":""},"website":{"date":null,"expiration":null,"announcement":"","type":""}}
