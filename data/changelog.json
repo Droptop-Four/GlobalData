@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.340.94",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes from previous release"
+            ]
+        },
+        {
             "version": "4.340.91",
             "new_features": [
                 "Added new right-click menu to folder dropdowns",
