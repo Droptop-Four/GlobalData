@@ -2,6 +2,33 @@
     "apps": [
         {
             "app": {
+                "id": 54,
+                "uuid": "a2502f26-aa56-4305-99d4-8f09e432f6e0",
+                "name": "Color Hunt",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Color swatches from Colorhunt.co",
+                "version": "24.0316",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color%20Hunt%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Color_Hunt-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0316",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 53,
                 "uuid": "60cba3cf-47b6-4dda-9f1c-85c64aefe68e",
                 "name": "Helldivers Livemap",
