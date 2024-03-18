@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 57,
+                "uuid": "0bea4600-e71f-4615-a127-be4773a11be0",
+                "name": "Iconic",
+                "author": "TheyCallMePapa",
+                "author_id": 392012772189274112,
+                "author_link": "",
+                "desc": "An app that has six different sites to find free icons.  You can change sites in the app by clicking one of the six icons in the upper right.",
+                "version": "24.0318",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Iconic%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Iconic-TheyCallMePapa.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    392012772189274112
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0318",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 56,
                 "uuid": "a4e5f320-763b-420d-9f38-e375a9843f73",
                 "name": "Twitch.TV",
