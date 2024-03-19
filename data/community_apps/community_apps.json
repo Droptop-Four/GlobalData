@@ -2,6 +2,33 @@
     "apps": [
         {
             "app": {
+                "id": 58,
+                "uuid": "f1eb2e70-f663-49ea-bb77-cb58dd8f5968",
+                "name": "MiniTools",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Quickly convert files into other filetypes",
+                "version": "24.0318",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/MiniTools%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/MiniTools-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0318",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 57,
                 "uuid": "0bea4600-e71f-4615-a127-be4773a11be0",
                 "name": "Iconic",
