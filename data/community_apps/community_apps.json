@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 59,
+                "uuid": "7cec66fe-e323-4976-bce9-09d61137fc6f",
+                "name": "Speedtest",
+                "author": "EternalTheGod",
+                "author_id": 577013132086607872,
+                "author_link": "https://github.com/EternalTheGod",
+                "desc": "Quickly test your internet connection all within Droptop4!\nUtilizes fast.com by Netflix.",
+                "version": "24.0319",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Speedtest%20-%20EternalTheGod%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Speedtest-EternalTheGod.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    577013132086607872
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0319",
+                        "changenotes": "Initial release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 58,
                 "uuid": "f1eb2e70-f663-49ea-bb77-cb58dd8f5968",
                 "name": "MiniTools",
