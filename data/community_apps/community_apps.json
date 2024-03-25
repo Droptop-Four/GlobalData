@@ -229,7 +229,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Google Gemini, alternative to ChatGPT/Copilot, but in a dropdown!",
-                "version": "24.0228",
+                "version": "24.0322",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Google%20Gemini%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -241,6 +241,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0228",
                         "changenotes": "Added home and screen capture buttons"
