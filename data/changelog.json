@@ -1,6 +1,38 @@
 {
     "changelog": [
         {
+            "version": "4.350.8",
+            "new_features": [
+                "Double middle-clicking on the \"Update\" button for Community Apps will now dismiss the update notification",
+                "Added Hindi language option (Thank you @S Dheeraj)"
+            ],
+            "modifications": [
+                "Removed the Reload button from WebView apps (Newly created apps only)",
+                "Reduced load-time and reduced fail likelihood of WebView apps",
+                "Added #WebViewBackgroundColor# variable for setting the background color of the WebView window (Defaults to white)",
+                "Added optional variable WebViewHideTop=1 to WebView apps",
+                "Added new #NumberOfActionIcons# variable to WebView apps",
+                "Improved speed when changing websites using the ActionIcon buttons in WebView apps",
+                "Improved performance when using the Home button in WebView apps",
+                "Minor changes to WebView sample app",
+                "When Touchscreen Mode is enabled, click-and-hold options will now be disabled",
+                "Community App install dates will now be based on the #MyAppVersion# variable rather than the date the app was installed.",
+                "Dividers are now shapes instead of strings; Improved appearance",
+                "AppBar.ini will now !Refresh when Explorer.exe PID changes, instead of rebooting Rainmeter",
+                "Divider width is now dependent on divider space between apps and not a separate value",
+                "Renamed \"Divider Width\" to \"Divider Space\" in Theme Builder",
+                "Reduced default height of divider in all themes"
+            ],
+            "bug_fixes": [
+                "Fixed clicking off and quickly opening up an app/dropdown in less than 300ms causing the menu to fail to open",
+                "Fixed dropdowns flickering when dismissing the dropdown by clicking on the desktop wallpaper",
+                "Fixed Update app only showing 5 Community Apps instead of 10",
+                "Fixed a crash bug",
+                "Fixed outline color/stroke width issue with Application section with Top Bar Sections enabled",
+                "Fixed unread emails string when updated not immediately changing the length of the Top Bar Sections"
+            ]
+        },
+        {
             "version": "4.340.98",
             "new_features": [
                 "Added new right-click menu to folder dropdowns",
