@@ -273,7 +273,7 @@
                 "author_id": 220522323030179840,
                 "author_link": "https://github.com/HayWeeMe",
                 "desc": "Basic web wrapper for some of the top messaging web apps that I made for myself, most likely won't be updating much. Supported apps: Whatsapp, Meta Messenger, Discord, Telegram, Snapchat, WeChat, TencentQQ, Google Chat, Slack.\n\nAll Icons created by Pixel perfect - Flaticon: https://www.flaticon.com/authors/pixel-perfect",
-                "version": "24.0226",
+                "version": "24.0324",
                 "official_link": "https://github.com/HayWeeMe/DroptopApps",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Instant%20Messengers%20Webview%20-%20Haywee%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -285,6 +285,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0226",
                         "changenotes": "Changed custom icons ImageTint."
