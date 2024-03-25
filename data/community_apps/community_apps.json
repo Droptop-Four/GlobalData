@@ -1810,7 +1810,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "On compatible themes, one-click toggle switching between dark mode and light mode.",
-                "version": "23.1210",
+                "version": "24.0324",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color%20Mode%20Toggle%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1822,6 +1822,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "23.1210",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
