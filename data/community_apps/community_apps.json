@@ -345,7 +345,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Get other Rainmeter skins through this handy app",
-                "version": "24.0127",
+                "version": "24.0322",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Rainmeter%20Store%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -357,6 +357,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0127",
                         "changenotes": "First release"
