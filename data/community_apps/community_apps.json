@@ -2,6 +2,33 @@
     "apps": [
         {
             "app": {
+                "id": 60,
+                "uuid": "fa448931-f505-4414-adc5-dfb59d23b662",
+                "name": "WhatIsMyIP",
+                "author": "notAperson",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Based on the Location app, WhatIsMyIP shows the location and other data about the user based on their IP.",
+                "version": "24.0324",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/WhatIsMyIP%20-%20notAperson%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/WhatIsMyIP-notAperson.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 59,
                 "uuid": "7cec66fe-e323-4976-bce9-09d61137fc6f",
                 "name": "Speedtest",
