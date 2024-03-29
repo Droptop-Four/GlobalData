@@ -116,6 +116,10 @@
                         "changenotes": "Minor bug fixes.  Thanks Carib."
                     },
                     {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
+                    {
                         "version": "24.0319",
                         "changenotes": "Improved icons, url shows in center, small bug fixes"
                     },
