@@ -1870,7 +1870,7 @@
                 "author_id": 709053559836246137,
                 "author_link": "https://github.com/Yaron2334",
                 "desc": "Alternative WebNowPlaying media control center.Requires the WebNowPlaying extension for Chrome, Brave, Firefox, or Edge browsers.",
-                "version": "24.0313",
+                "version": "24.0324",
                 "official_link": "https://github.com/Yaron2334/Media-Control",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1883,6 +1883,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "24.0313",
                         "changenotes": "Added:\n- Dynamic Width setting\n- Input to change text when no playing\n\nModified:\n- Refactored Code.\n- Change icon when something is playing\n\nBug Fixes:\n- fixed Issues with bigger fonts.\n- fixed empty space when there's not text for \"Media_Control-Yaron___Music_Info_0\" variable.\n- fixed missing padding when there's nothing playing\n\nTips:\n- Turn off \"Dynamic Width\" to save battery."
