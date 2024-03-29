@@ -1831,6 +1831,10 @@
                         "changenotes": "Minor update"
                     },
                     {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
+                    {
                         "version": "23.1210",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
                     }
