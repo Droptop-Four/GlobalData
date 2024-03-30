@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 38,
+                "uuid": "1b9839c6-419b-4f22-a6cf-50fff5ca20ec",
+                "name": "Global-in-Nature GIN24",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "GIN24 Theme for Droptop Four {THX Niivu for creating...}",
+                "version": "24.0330",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Global-in-Nature%20GIN24%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Global-in-Nature_GIN24-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 37,
                 "uuid": "82850111-1a40-4b46-bf79-7d03f310ed8d",
                 "name": "Moe Theme",
