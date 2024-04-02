@@ -1495,7 +1495,7 @@
         {
             "app": {
                 "id": 24,
-                "uuid": "23209eba-3666-4d8a-b5c1-9c0d0cfc98f3",
+                "uuid": "ce252def-916d-44a1-8105-d3d0668c2906",
                 "name": "Translator",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
@@ -1599,7 +1599,7 @@
         {
             "app": {
                 "id": 21,
-                "uuid": "d70859a7-dcb2-4d25-80e4-cd2dbe0d9fcd",
+                "uuid": "d304c24e-57bf-4fc9-825e-7393996d513b",
                 "name": "VPN Status",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -1652,7 +1652,7 @@
         {
             "app": {
                 "id": 20,
-                "uuid": "4f53e714-a2b8-4ef2-9773-234421341ea3",
+                "uuid": "867ed320-fe81-42ce-b70c-1ea428435d4b",
                 "name": "QRes",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
@@ -1680,7 +1680,7 @@
         {
             "app": {
                 "id": 18,
-                "uuid": "de642008-a7ec-49ed-a0c8-e840eedfeb8b",
+                "uuid": "2f7af898-de5e-475c-9d63-95a2b61c48ba",
                 "name": "Theme Me",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -1804,7 +1804,7 @@
         {
             "app": {
                 "id": 12,
-                "uuid": "187ab273-cb4e-4aaa-b49e-a26b869c08c0",
+                "uuid": "b26b3e26-8513-43b2-ae21-7ef50668c7ae",
                 "name": "SearchBar",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
@@ -2030,7 +2030,7 @@
         {
             "app": {
                 "id": 4,
-                "uuid": "a2b832eb-8937-49a2-b4ab-6e8ce6a63396",
+                "uuid": "4cdab24f-5a15-45ea-9756-4c425be1f17d",
                 "name": "Recycle Bin",
                 "author": "Phan",
                 "author_id": 561681705782607882,
