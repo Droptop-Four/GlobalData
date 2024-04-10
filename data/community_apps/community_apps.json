@@ -59,6 +59,10 @@
                     {
                         "version": "24.0410",
                         "changenotes": "- First Release"
+                    },
+                    {
+                        "version": "24.0410",
+                        "changenotes": "- Fixed issues when creating / deleting desktop for Windows 10."
                     }
                 ]
             }
