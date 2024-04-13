@@ -1,6 +1,32 @@
 {
     "changelog": [
         {
+            "version": "4.350.29",
+            "new_features": [
+                "Added shortcut to Advanced Network Sharing settings to Wifi app",
+                "Added new TopBarBlurCutout variable for themes"
+            ],
+            "modifications": [
+                "Added credit for Hindi language",
+                "Minor modifications to install window for Community Apps",
+                "Update window is now gets Changelog information from droptopfour.com using WebView",
+                "Language and Plugin credits are now scrollable, removed custom credit icons and links for language credits",
+                "Minor improvements to Chrome OS theme",
+                "Removed SystemTray plugin (No longer used)",
+                "Improved appearance of all themes when using Droptop size Mini 3 (100% scale)",
+                "ExcludeDefender.ps1 will no longer be run",
+                "New splash screen when installing Droptop, reduced need for batch scripts during install",
+                "Temporarily removed the shortcuts option in the Paperclip app, causing a crash for an unknown reason when opened",
+                "Added compatibility with new Pop Out option for WebView Community Apps"
+            ],
+            "bug_fixes": [
+                "Fixed bug that prevented the Update window from appearing when installing a new beta update",
+                "Fixed bug that prevented DropdownBar.ini from deactivating when Update window pops up",
+                "Removed an unused line of code that may have been causing a rare crash when the cursor moves away from a dropdown menu",
+                "Minor bug fixes and cosmetic fixes"
+            ]
+        },
+        {
             "version": "4.350.8",
             "new_features": [
                 "Double middle-clicking on the \"Update\" button for Community Apps will now dismiss the update notification",
