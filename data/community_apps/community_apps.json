@@ -257,7 +257,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Twitch.TV in a dropdown. Listen in the background and be able to pop-in and out of watching through this handy dropdown.",
-                "version": "24.0322",
+                "version": "24.0414",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Twitch.TV%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -268,6 +268,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Added popout function"
+                    },
                     {
                         "version": "24.0322",
                         "changenotes": "Improved WebView performance"
