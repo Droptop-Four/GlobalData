@@ -1211,6 +1211,10 @@
                         "changenotes": "Bug fixes, added minimize option for the popout player"
                     },
                     {
+                        "version": "24.0414",
+                        "changenotes": "Improved popout function and minor bug fixes"
+                    },
+                    {
                         "version": "24.0413",
                         "changenotes": "Added new pop-out (Picture-in-picture) mode for YouTube/YouTube Music."
                     },
