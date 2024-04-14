@@ -1194,7 +1194,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "YouTube, but in a dropdown menu! Also does YouTube Music!",
-                "version": "24.0413",
+                "version": "24.0414",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/YouTube%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1206,6 +1206,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Bug fixes, added minimize option for the popout player"
+                    },
                     {
                         "version": "24.0413",
                         "changenotes": "Added new pop-out (Picture-in-picture) mode for YouTube/YouTube Music."
