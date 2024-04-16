@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.350.32",
+            "new_features": [],
+            "modifications": [
+                "Finalized new popout menu for WebView apps and integrated option into the app creator"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.350.29",
             "new_features": [
                 "Added shortcut to Advanced Network Sharing settings to Wifi app",
