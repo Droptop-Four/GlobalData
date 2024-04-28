@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.350.35",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug where dragging popout window in WebView apps would be slow on Windows 10 devices",
+                "Fixed rmskin generators not closing automatically when finished (Requires testing)",
+                "Other minor bug fixes"
+            ]
+        },
+        {
             "version": "4.350.32",
             "new_features": [],
             "modifications": [
