@@ -23,6 +23,10 @@
                     {
                         "version": "24.0429",
                         "changenotes": "First release."
+                    },
+                    {
+                        "version": "24.0429",
+                        "changenotes": "Minor bug fix"
                     }
                 ]
             }
