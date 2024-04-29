@@ -2,6 +2,33 @@
     "apps": [
         {
             "app": {
+                "id": 65,
+                "uuid": "6c8cf81d-db75-4d17-9e0c-ee30c9535b15",
+                "name": "Pin To Top",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Requires Microsoft PowerToys and \"Always On Top\" toy enabled, using hotkey Ctrl+Win+T. Toggles Always On Top for any focused window.",
+                "version": "24.0429",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Pin%20To%20Top%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Pin_To_Top-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0429",
+                        "changenotes": "First release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 64,
                 "uuid": "d972f238-7a24-42fa-a655-4abce745ef89",
                 "name": "Meta AI",
