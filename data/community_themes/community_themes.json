@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 39,
+                "uuid": "e7550057-2fd1-48aa-bf5c-3fcabf6002c4",
+                "name": "ketro",
+                "author": "killerbeats",
+                "author_id": 557963192043569152,
+                "author_link": "github.com/killerbeats",
+                "desc": "",
+                "version": "24.0501",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/ketro%20-%20killerbeats%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/ketro-killerbeats.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    557963192043569152
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 38,
                 "uuid": "1b9839c6-419b-4f22-a6cf-50fff5ca20ec",
                 "name": "Global-in-Nature GIN24",
