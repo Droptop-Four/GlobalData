@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.350.41",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed Weather App not updating with latest information"
+            ]
+        },
+        {
             "version": "4.350.40",
             "new_features": [],
             "modifications": [],
