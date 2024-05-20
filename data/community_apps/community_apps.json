@@ -507,8 +507,8 @@
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "",
-                "desc": "Google Gemini, alternative to ChatGPT/Copilot, but in a dropdown!",
-                "version": "24.0322",
+                "desc": "Google Gemini, alternative to ChatGPT/Copilot, but in a dropdown! Also includes several other Gsuite apps as an option.",
+                "version": "24.0520",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Google%20Gemini%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -520,6 +520,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0520",
+                        "changenotes": "Added Gmail, Docs, Chat, and other app options to settings. Doubled browser window width."
+                    },
                     {
                         "version": "24.0322",
                         "changenotes": "Improved WebView performance"
