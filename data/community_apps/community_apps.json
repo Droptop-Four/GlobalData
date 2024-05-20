@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 68,
+                "uuid": "e6f650ac-d53d-4c2b-bda7-2482c536b130",
+                "name": "Jisho",
+                "author": "Filete",
+                "author_id": 456113896269545504,
+                "author_link": "",
+                "desc": "Jisho Japanese dictionary for Droptop 4",
+                "version": "24.0520",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Jisho%20-%20Filete%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Jisho-Filete.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    456113896269545504
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0520",
+                        "changenotes": "-"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 67,
                 "uuid": "65ed28af-6f54-4475-8330-7e86cc25a41f",
                 "name": "Lichess",
