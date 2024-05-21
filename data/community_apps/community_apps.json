@@ -1192,7 +1192,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/66bunz",
                 "desc": "Droptop store! Find all Community Apps and Themes here!",
-                "version": "24.0322",
+                "version": "24.0521",
                 "official_link": "https://github.com/66Bunz/DroptopFour-DroptopStore",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Droptop%20Store%20-%20Bunz%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1204,6 +1204,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0521",
+                        "changenotes": "Updated app"
+                    },
                     {
                         "version": "24.0322",
                         "changenotes": "Improved WebView performance"
