@@ -1,7 +1,7 @@
 {
     "app": {
-        "date": null,
-        "expiration": null,
+        "date": "",
+        "expiration": "",
         "announcement": "",
         "type": ""
     },
