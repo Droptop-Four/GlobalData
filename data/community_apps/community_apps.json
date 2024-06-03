@@ -9,7 +9,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "Display your Last.fm data in a Dropdown menu.",
-                "version": "24.0528",
+                "version": "24.0603",
                 "official_link": "https://github.com/KazukiGames82/Last_fm-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Last%20fm%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -21,6 +21,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0603",
+                        "changenotes": "- New features\n> Added dropdown menu to \"Top Tracks/Artists/Albums\" to set the data recollection (Last 7/30/180... Days).\n> Added prices in \"Support me\" button.\n- Modifications\n> Removed \"Data Collection Time\" section from App Settings\n> Removed \"Paypal\" as Support link.\n- Bug fixes \n> Fixed issue when app load the \"Automatic Update\" for \"Recent & Top Tracks/Artist/Albums\" and changed the home page.\n> Fixed wrong link in Ko-Fi Button.\n> Fixed wrong link in Update Button.\n> Fixed wrong cover art for \"Top Artist/Albums\"."
+                    },
                     {
                         "version": "24.0528",
                         "changenotes": "- First Release"
