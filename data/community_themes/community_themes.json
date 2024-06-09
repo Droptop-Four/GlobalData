@@ -24,6 +24,10 @@
                     {
                         "version": "24.0609",
                         "changenotes": "Documents/Rainmeter/Skins/Droptop/DropdownBar/DropdownBar.ini In the text editor must change this row on emty : SkinHeight="
+                    },
+                    {
+                        "version": "24.0609",
+                        "changenotes": "Now is better darker main color...."
                     }
                 ]
             }
