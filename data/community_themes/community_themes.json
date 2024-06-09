@@ -2,6 +2,34 @@
     "themes": [
         {
             "theme": {
+                "id": 41,
+                "uuid": "f58b117c-ad9b-4312-868c-3719aa6e84dc",
+                "name": "Midnight Catppuccin",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "Concept of theme by KakuziGames82 thank you very much for creating.... Catppuccin modified colors for darker theme.",
+                "version": "24.0609",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Midnight%20Catppuccin%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Midnight_Catppuccin-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0609",
+                        "changenotes": "Documents/Rainmeter/Skins/Droptop/DropdownBar/DropdownBar.ini In the text editor must change this row on emty : SkinHeight="
+                    }
+                ]
+            }
+        },
+        {
+            "theme": {
                 "id": 40,
                 "uuid": "f74cbe0a-795f-42de-9c56-4eed2555d870",
                 "name": "Mocha",
