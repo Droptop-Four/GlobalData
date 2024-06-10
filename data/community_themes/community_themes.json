@@ -8,8 +8,8 @@
                 "author": "Mojas84",
                 "author_id": 715229395094208573,
                 "author_link": "",
-                "desc": "Concept of theme by KakuziGames82 thank you very much for creating.... Catppuccin modified colors for darker theme. In dropdownbar.ini this row must look like this : SkinHeight=",
-                "version": "24.0609",
+                "desc": "Concept of theme by KakuziGames82 thank you very much for creating.... Catppuccin modified colors for darker theme. \nIn dropdownbar.ini this row must look like this : SkinHeight=",
+                "version": "24.0610",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Midnight%20Catppuccin%20-%20Mojas84%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
@@ -21,6 +21,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0610",
+                        "changenotes": "Add transparency effect THX KakuziGames82 for idea..."
+                    },
                     {
                         "version": "24.0609",
                         "changenotes": "Documents/Rainmeter/Skins/Droptop/DropdownBar/DropdownBar.ini In the text editor must change this row on emty : SkinHeight="
