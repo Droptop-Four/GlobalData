@@ -817,29 +817,6 @@
                 "hidden": 0,
                 "changelog": []
             }
-        },
-        {
-            "theme": {
-                "id": 1,
-                "uuid": "6c1db67a-4d43-447b-872f-1890b22c9a4c",
-                "name": "Sample Template",
-                "author": "Cariboudjan",
-                "author_id": 584542239900827665,
-                "author_link": "https://github.com/Cariboudjan",
-                "desc": "Use as a starting template for creating your own themes.",
-                "version": "",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Sample%20Template%20-%20Cari%20(Droptop%20Theme).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Sample_Template-Cari.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    584542239900827665
-                ],
-                "hidden": 0,
-                "changelog": []
-            }
         }
     ]
 }
