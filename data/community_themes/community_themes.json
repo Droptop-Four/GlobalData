@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 42,
+                "uuid": "04027b43-4cd7-492e-a785-6437ee9d9a6f",
+                "name": "Rose Pine",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "Concept of theme by KazukiGames82 thank you very much for creating.... In dropdownbar.ini this row must look like this : SkinHeight=",
+                "version": "24.0615",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Rose%20Pine%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Rose_Pine-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 41,
                 "uuid": "f58b117c-ad9b-4312-868c-3719aa6e84dc",
                 "name": "Midnight Catppuccin",
