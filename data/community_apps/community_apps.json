@@ -9,7 +9,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "Display your Last.fm data in a Dropdown menu.",
-                "version": "24.0611",
+                "version": "24.0619",
                 "official_link": "https://github.com/KazukiGames82/Last_fm-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Last%20fm%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -21,6 +21,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0619",
+                        "changenotes": "- NOTICE:\n> Next Update `Pixel` Icon Style will be added into the app, also, every icon style will have their own icon for top bar.\n- Bug fixes\n> Fixed Draggable Dropdown Menus.\n> Fixed Dropdown Menus not appyling `DropdownMenuFlatTop` variable.\n> Fixed Font issues not showing certain elements or text into dropdown menus.\n> Fixed shadow icon of app in Dropdown menus. \n- Performance\n> Improved Performance for Dropdown menu."
+                    },
                     {
                         "version": "24.0611",
                         "changenotes": "- NOTICE:\n> This may be the last update of the app, everything is now stable and works as I like.\n\n- Modifications\n> Updated Icon app for TopBar view.\n- Bug fixes\n> Fixed issue where the app uses more memory and CPU usage more than usual.\n- Performance\n> Less load of elements for the top bar.\n> Less memory and cpu usage for rainmeter."
