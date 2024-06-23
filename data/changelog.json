@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.352.63",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fix for issues with Nominatim location service and the Weather app"
+            ]
+        },
+        {
             "version": "4.351.62",
             "new_features": [],
             "modifications": [],
