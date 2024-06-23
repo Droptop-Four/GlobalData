@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.351.62",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Update to resolve issues with Nominatim servers and the weather app"
+            ]
+        },
+        {
             "version": "4.350.41",
             "new_features": [],
             "modifications": [],
