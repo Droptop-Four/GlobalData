@@ -761,6 +761,10 @@
                         "changenotes": "- New features\n> New Setup window (Only for new installs).\n> New Dropdown animations. (This can be disabled if someone feel like it's too slow).\n- Modifications\n> Improved interface.\n> Modified Icon Styles to match in chekboxs and radio buttons."
                     },
                     {
+                        "version": "24.0625",
+                        "changenotes": "- **v24.0625.1**\n- Modifications:\n> Smoother animations.\n> Reduced time for animations.\n> Removed \"test.inc\" file from app."
+                    },
+                    {
                         "version": "24.0618",
                         "changenotes": "- NOTICE:\n> The application was completely refactored, this includes new variables, new functions and other things, this means that your old data will be replaced.\n- New features\n> App is now able to save and display the logged time during the day into dropdown menu.\n> Added 7 Icon Styles in App Settings, this styles can modify every icon in the app and topbar.\n- Modifications\n> Improved interface.\n> Increased data logging.\n> Removed option to show PC time in the top bar, it will only show the time since login.\n> Removed option for smart time, it is now built-in in the app.\n> Removed option for manual time.\n> Removed option to add leading zeros.\n> Moved Donations buttons in Support me button.\n- Bug fixes\n> Fixed issue where the app uses more memory and CPU usage more than usual.\n- Performance\n> Less load of measures for background processes.\n> Less load of elements for the top bar.\n> Less memory and cpu usage for rainmeter."
                     },
