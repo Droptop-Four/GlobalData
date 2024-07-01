@@ -1,6 +1,29 @@
 {
     "changelog": [
         {
+            "version": "4.360.13",
+            "new_features": [
+                "Added fade-in animation to all highlight shapes",
+                "Added slide-out animations for submenus",
+                "Added Norwegian language (Thank you @Moball)",
+                "Added weather bar feature for Weather app; Option to toggle on/off",
+                "New notification system"
+            ],
+            "modifications": [
+                "Reduced load time for folder submenus",
+                "Minor changes to Chrome OS, Senja, and Windows 12 themes",
+                "\"Picture in picture\" will now work with YouTube & Droptop",
+                "Removed RTL meter positioning (All languages will now be LTR)",
+                "Settings a folder location for the Downloads app or Folders will now open an Explorer navigation window"
+            ],
+            "bug_fixes": [
+                "Increased stability when navigating menus and the top bar",
+                "Fixed issues with the weather and location data not updating",
+                "Fixed add custom font option",
+                "Many minor bug fixes"
+            ]
+        },
+        {
             "version": "4.352.63",
             "new_features": [],
             "modifications": [],
