@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 70,
+                "uuid": "62df59eb-170e-4c6b-b49b-02b2fae3696c",
+                "name": "ChatGPT",
+                "author": "xxoommd",
+                "author_id": 1257272978048286821,
+                "author_link": "",
+                "desc": "ChatGPT entrance for droptop",
+                "version": "24.0702",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/ChatGPT%20-%20xxoommd%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/ChatGPT-xxoommd.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    1257272978048286821
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0702",
+                        "changenotes": "Just add ChatGPT main site"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 69,
                 "uuid": "73147b29-9d72-4c73-9fa1-485d405c22a6",
                 "name": "Last fm",
