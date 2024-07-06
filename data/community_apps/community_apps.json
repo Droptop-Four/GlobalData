@@ -689,6 +689,10 @@
                 "hidden": 0,
                 "changelog": [
                     {
+                        "version": "24.0701",
+                        "changenotes": "Fixed left side Droptop bar anomily"
+                    },
+                    {
                         "version": "24.0518",
                         "changenotes": "Fixed display anomoly"
                     },
