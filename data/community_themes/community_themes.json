@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 44,
+                "uuid": "7296486a-ec17-4551-8d39-5071872cf789",
+                "name": "Dracula84",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "Concept of theme by KazukiGames82 thank you very much for creating.... In dropdownbar.ini this row must look like this : SkinHeight=",
+                "version": "24.0707",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Dracula84%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Dracula84-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 43,
                 "uuid": "fc861957-809a-4e20-9186-6c8e45bf397d",
                 "name": "Biscuit Theme",
