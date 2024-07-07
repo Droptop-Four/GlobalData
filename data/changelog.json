@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.360.43",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Additional fixed from previous release"
+            ]
+        },
+        {
             "version": "4.360.42",
             "new_features": [
                 "Users can now select a second color for highlight shapes in Community Themes"
