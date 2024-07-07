@@ -2082,7 +2082,7 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Allows you to select a random Droptop theme and you can save up to eight custom themes and hot load them.\nNo need to install a custom theme again once it is saved.",
-                "version": "24.0704",
+                "version": "24.0707",
                 "official_link": "https://github.com/papa-boynton/Theme_Me-Mike_Boynton",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Theme%20Me%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -2094,6 +2094,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0707",
+                        "changenotes": "Cosmetic changes."
+                    },
                     {
                         "version": "24.0704",
                         "changenotes": "Brought up to new standards"
