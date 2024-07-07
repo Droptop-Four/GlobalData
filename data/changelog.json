@@ -1,6 +1,17 @@
 {
     "changelog": [
         {
+            "version": "4.360.42",
+            "new_features": [
+                "Users can now select a second color for highlight shapes in Community Themes"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed Community App/Theme installer creation tool",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.13",
             "new_features": [
                 "Added fade-in animation to all highlight shapes",
