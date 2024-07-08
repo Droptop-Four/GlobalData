@@ -1051,8 +1051,8 @@
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "",
-                "desc": "Search, Voice, Input Language, and Action Center in one app",
-                "version": "24.0701",
+                "desc": "Search, Voice, Input Language, Widgets, and Action Center in one app",
+                "version": "24.0708",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Functions%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1064,6 +1064,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0708",
+                        "changenotes": "Added Widgets button option"
+                    },
                     {
                         "version": "24.0322",
                         "changenotes": "Minor update"
