@@ -1328,7 +1328,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "this app can let you move infos into the empty space between last folder and first app\n\nreport me any bug",
-                "version": "24.0703",
+                "version": "24.0708",
                 "official_link": "https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Dynamic%20Infos%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1340,6 +1340,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0708",
+                        "changenotes": "- Minor changes."
+                    },
                     {
                         "version": "24.0703",
                         "changenotes": "> The application was completely refactored, this includes new variables, new functions and other things, this means that your old data will be replaced.\n* Requires Droptop 4.360.13 or latest."
