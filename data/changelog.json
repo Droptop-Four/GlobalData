@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.360.47",
+            "new_features": [
+                "Added Chinese language translation"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.46",
             "new_features": [
                 "Added Chinese language translation"
