@@ -756,7 +756,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "Uptimer app for Droptop.<br>Manage your login times and monitor your screen time.",
-                "version": "24.0701",
+                "version": "24.0709",
                 "official_link": "https://github.com/KazukiGames82/Uptimer-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Uptimer%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -768,6 +768,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0709",
+                        "changenotes": "- Modifications\n> Improved interface\n> Removed dropdown animations (added by me).\n- Bug fixes\n> Fixed toggle icon no flipping.\n> Fixed static info in login history."
+                    },
                     {
                         "version": "24.0625",
                         "changenotes": "- New features\n> New Setup window (Only for new installs).\n> New Dropdown animations. (This can be disabled if someone feel like it's too slow).\n- Modifications\n> Improved interface.\n> Modified Icon Styles to match in chekboxs and radio buttons."
