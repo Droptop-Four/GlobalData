@@ -2,6 +2,33 @@
     "apps": [
         {
             "app": {
+                "id": 70,
+                "uuid": "c936f392-06b0-4bb9-8973-38f914970185",
+                "name": "QuickConnect",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Access your Synology NAS through Droptop",
+                "version": "24.0709",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/QuickConnect%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/QuickConnect-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0709",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 69,
                 "uuid": "73147b29-9d72-4c73-9fa1-485d405c22a6",
                 "name": "Last fm",
