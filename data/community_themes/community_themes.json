@@ -2,6 +2,34 @@
     "themes": [
         {
             "theme": {
+                "id": 46,
+                "uuid": "e3d2f657-b48d-4038-8a6a-f39888ce2bdc",
+                "name": "Catppuccin Latte",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Catppuccin Latte Theme for Droptop.",
+                "version": "24.0711",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%20Latte%20-%20KazukiGames82%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Catppuccin_Latte-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0711",
+                        "changenotes": "- First Release"
+                    }
+                ]
+            }
+        },
+        {
+            "theme": {
                 "id": 45,
                 "uuid": "8aec074d-f020-4bda-8778-0352739cb477",
                 "name": "MacOS Bar",
