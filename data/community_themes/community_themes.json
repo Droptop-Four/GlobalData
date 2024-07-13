@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 50,
+                "uuid": "3d79d91c-5eb9-45f8-b29f-9123af1c8a14",
+                "name": "Cozytile Bar",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "Concept of theme by KazukiGames82 thank you very much for creating.... In dropdownbar.ini this row must look like this : SkinHeight=",
+                "version": "24.0713",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cozytile%20Bar%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cozytile_Bar-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 49,
                 "uuid": "014e62b8-299d-4b78-a556-fd0cb3d96963",
                 "name": "Catppuccin Mocha",
