@@ -2474,7 +2474,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Shortcuts for disk drives and displays remaining gigabytes.",
-                "version": "24.0701",
+                "version": "24.0714",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Disks%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -2487,6 +2487,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0714",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "24.0322",
                         "changenotes": "- Limit of 5 simultaneous disks removed.\n- Added auto detection."
