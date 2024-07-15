@@ -24,6 +24,10 @@
                     {
                         "version": "24.0715",
                         "changenotes": "- First Release."
+                    },
+                    {
+                        "version": "24.0715",
+                        "changenotes": "- Fixed \"Font Weight\" issues."
                     }
                 ]
             }
