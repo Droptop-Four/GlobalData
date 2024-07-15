@@ -2367,6 +2367,10 @@
                         "changenotes": "- Modifications\n> Modified App Settings.\n> Removed \"Show media control in topbar\" setting.\n> Minor changes.\n- Bug Fix\n> Fixed dropdown menu to set \"Skip X Seconds\".\n> Minor changes."
                     },
                     {
+                        "version": "24.0715",
+                        "changenotes": "- Bug Fix:\n> Fixed gap for dropdown in \"Text when no playing\" setting."
+                    },
+                    {
                         "version": "24.0324",
                         "changenotes": "Minor update"
                     },
