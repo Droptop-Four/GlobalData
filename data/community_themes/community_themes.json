@@ -2,6 +2,34 @@
     "themes": [
         {
             "theme": {
+                "id": 51,
+                "uuid": "04e0cbfc-e753-47df-83c5-4d177243d5f9",
+                "name": "Twitch Dark",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Twitch Dark Mode Theme for Droptop.",
+                "version": "24.0715",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Twitch%20Dark%20-%20KazukiGames82%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Twitch_Dark-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0715",
+                        "changenotes": "- First Release."
+                    }
+                ]
+            }
+        },
+        {
+            "theme": {
                 "id": 50,
                 "uuid": "3d79d91c-5eb9-45f8-b29f-9123af1c8a14",
                 "name": "Cozytile Bar",
