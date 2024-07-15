@@ -2349,7 +2349,7 @@
                 "author_id": 709053559836246137,
                 "author_link": "https://github.com/Yaron2334",
                 "desc": "Alternative WebNowPlaying media control center.Requires the WebNowPlaying extension for Chrome, Brave, Firefox, or Edge browsers.",
-                "version": "24.0701",
+                "version": "24.0715",
                 "official_link": "https://github.com/Yaron2334/Media-Control",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -2362,6 +2362,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0715",
+                        "changenotes": "- Modifications\n> Modified App Settings.\n> Removed \"Show media control in topbar\" setting.\n> Minor changes.\n- Bug Fix\n> Fixed dropdown menu to set \"Skip X Seconds\".\n> Minor changes."
+                    },
                     {
                         "version": "24.0324",
                         "changenotes": "Minor update"
