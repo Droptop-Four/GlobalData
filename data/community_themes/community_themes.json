@@ -2,6 +2,29 @@
     "themes": [
         {
             "theme": {
+                "id": 53,
+                "uuid": "6487485e-d022-473d-a90d-241e862329f5",
+                "name": "Catppuccin Mocha Droptop4 Bar",
+                "author": "Mojas84",
+                "author_id": 715229395094208573,
+                "author_link": "",
+                "desc": "Concept of theme by KazukiGames82 thank you very much for creating.... In dropdownbar.ini this row must look like this : SkinHeight=",
+                "version": "24.0719",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%20Mocha%20Droptop4%20Bar%20-%20Mojas84%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Catppuccin_Mocha_Droptop4_Bar-Mojas84.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    715229395094208573
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
                 "id": 52,
                 "uuid": "215174cf-0f0c-440f-9c77-33e90a193193",
                 "name": "Twitch Light",
