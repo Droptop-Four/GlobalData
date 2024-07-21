@@ -1881,7 +1881,7 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Can show tooltips for all the built in apps and the icons at the top of the home menu.",
-                "version": "24.0720",
+                "version": "24.0721",
                 "downloads": 45,
                 "official_link": "https://github.com/papa-boynton/ToolTipster",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/ToolTipster%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
@@ -1894,6 +1894,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0721",
+                        "changenotes": "Notification popup is now centered left to right and just below the Droptop bar."
+                    },
                     {
                         "version": "24.0720",
                         "changenotes": "Converted to use Notification Popup instead of Droptop bar"
