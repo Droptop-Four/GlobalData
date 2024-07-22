@@ -2253,6 +2253,10 @@
                         "changenotes": "Cosmetic changes."
                     },
                     {
+                        "version": "24.0707",
+                        "changenotes": "minor bug fixes"
+                    },
+                    {
                         "version": "24.0704",
                         "changenotes": "Brought up to new standards"
                     },
