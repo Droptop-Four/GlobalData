@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 73,
+                "uuid": "667f8f51-68d4-4af9-a681-741c5281906f",
+                "name": "Facebook Marketplace",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Facebook Marketplace, but in a dropdown.",
+                "version": "24.0723",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Facebook%20Marketplace%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Facebook_Marketplace-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0723",
+                        "changenotes": "First release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 72,
                 "uuid": "1356006d-f8a1-47f5-a0fa-a72f222c4047",
                 "name": "Time",
