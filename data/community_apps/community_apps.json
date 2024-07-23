@@ -2,6 +2,35 @@
     "apps": [
         {
             "app": {
+                "id": 72,
+                "uuid": "1356006d-f8a1-47f5-a0fa-a72f222c4047",
+                "name": "Time",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "See and Manage your calendar events.",
+                "version": "24.0722",
+                "downloads": 0,
+                "official_link": "https://github.com/KazukiGames82/Time-KazukiGames82",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Time%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Time-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0722",
+                        "changenotes": "- First Release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 71,
                 "uuid": "ff569031-6d7f-4b3b-8e83-347d20995193",
                 "name": "Wallpaper Changer",
