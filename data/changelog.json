@@ -1,6 +1,27 @@
 {
     "changelog": [
         {
+            "version": "4.360.64",
+            "new_features": [
+                "Added option `Droptop settings >> Menu options >> Animation speed`",
+                "Added Greek language translation (Thank you @AloneAlexandros)",
+                "Added animated toggle and checkmark buttons",
+                "Added new option in Battery settings `Always show backlight bar`, removed option `Only show backlight icon`",
+                "Scrolling on the battery app icon will now raise/lower brightness settings"
+            ],
+            "modifications": [
+                "Simplified method of adding toggles, checkmarks, and dividers in new Community Apps",
+                "New beta indicator icon",
+                "Removed the ability for Droptop to show notifications in-bar (Retired feature, replaced with Notification Popups)",
+                "When Droptop is refreshing, the home icon will temporarily change to a new hourglass icon",
+                "Updated translations"
+            ],
+            "bug_fixes": [
+                "Fixed Battery app always displaying 0 brightness when opened",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.47",
             "new_features": [
                 "Added Chinese language translation"
