@@ -55,6 +55,10 @@
                         "changenotes": "Added \"Next wallpaper\" button. Minor modifications."
                     },
                     {
+                        "version": "24.0723",
+                        "changenotes": "Bug fixes"
+                    },
+                    {
                         "version": "24.0721",
                         "changenotes": "First release."
                     }
