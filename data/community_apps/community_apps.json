@@ -66,7 +66,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Automatic wallpaper changer, with separate wallpapers for day time (high luminosity) and night time (low luminosity) wallpapers. Change wallpapers based on system settings, sunrise/sunset, or on a 12-hour time shift.",
-                "version": "24.0723",
+                "version": "24.0725",
                 "downloads": 0,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Wallpaper%20Changer%20-%20Cariboudjan%20(Droptop%20App).rmskin",
@@ -78,6 +78,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0725",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "24.0723",
                         "changenotes": "Added \"Next wallpaper\" button. Minor modifications."
