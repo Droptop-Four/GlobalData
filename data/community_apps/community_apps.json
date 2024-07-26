@@ -2114,7 +2114,7 @@
                 "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "Translator that uses the Google Translator API",
-                "version": "24.0701",
+                "version": "24.0726",
                 "downloads": 63,
                 "official_link": "https://github.com/66Bunz/DroptopFour-Translator",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Translator%20-%20Bunz%20(Droptop%20App).rmskin",
@@ -2127,6 +2127,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0726",
+                        "changenotes": "Fix for persistent update notification"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
