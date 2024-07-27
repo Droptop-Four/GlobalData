@@ -2140,6 +2140,10 @@
                         "changenotes": "Minor changes"
                     },
                     {
+                        "version": "24.0727",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
                         "version": "24.0726",
                         "changenotes": "Fix for persistent update notification"
                     },
