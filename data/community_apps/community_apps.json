@@ -2136,6 +2136,10 @@
                         "changenotes": "Added animated checkmark buttons, fixed bugs, simplified UI, added HotInput support"
                     },
                     {
+                        "version": "24.0727",
+                        "changenotes": "Minor changes"
+                    },
+                    {
                         "version": "24.0726",
                         "changenotes": "Fix for persistent update notification"
                     },
