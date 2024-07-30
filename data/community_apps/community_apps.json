@@ -2434,7 +2434,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Allows you to add up to 10 shortcuts of any program or file to the bar",
-                "version": "24.0726",
+                "version": "24.0730",
                 "downloads": 149,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Shortcut%20-%20Phan%20(Droptop%20App).rmskin",
@@ -2447,6 +2447,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0730",
+                        "changenotes": "Fixed app causing Mouse Scroll Up/Down actions to stop working in the Top Bar, minor bug fixes, added animated toggle and checkmark buttons"
+                    },
                     {
                         "version": "24.0726",
                         "changenotes": "Fix for persistent update notification"
