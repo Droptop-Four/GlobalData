@@ -1,6 +1,18 @@
 {
     "changelog": [
         {
+            "version": "4.360.67",
+            "new_features": [],
+            "modifications": [
+                "Alarm app will now show a notification when the alarm is activated"
+            ],
+            "bug_fixes": [
+                "Fixed bug that could cause Droptop to fail to install if the user changed their Windows Username",
+                "Fixed a bug that caused Scroll Up/Down actions to not work if the Shortcut app was in use",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.64",
             "new_features": [
                 "Added option `Droptop settings >> Menu options >> Animation speed`",
