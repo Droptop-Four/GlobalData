@@ -2067,7 +2067,7 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Keeps your PC healthy to help minimize Droptop/Rainmeter crashes.",
-                "version": "24.0717",
+                "version": "24.0803",
                 "downloads": 49,
                 "official_link": "https://github.com/papa-boynton/PC_Scanner",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/PC%20Scanner%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
@@ -2080,6 +2080,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0803",
+                        "changenotes": "Bought up to current standards."
+                    },
                     {
                         "version": "24.0717",
                         "changenotes": "Minor bug fix."
