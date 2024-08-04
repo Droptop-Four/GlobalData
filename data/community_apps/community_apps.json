@@ -2288,6 +2288,10 @@
                         "changenotes": "Brought up to current standards."
                     },
                     {
+                        "version": "24.0804",
+                        "changenotes": "Minor bug fixes."
+                    },
+                    {
                         "version": "24.0422",
                         "changenotes": "Added buy me a coffee"
                     },
