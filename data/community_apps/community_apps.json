@@ -2269,7 +2269,7 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Shows status of your VPN (connected/not connected), Displays status of vpn, location, local ip address and map with approximate location, Droptop icon changes from red when disconnected to green when connected.",
-                "version": "24.0701",
+                "version": "24.0804",
                 "downloads": 80,
                 "official_link": "https://github.com/papa-boynton/VPN_Status",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/VPN%20Status%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
@@ -2283,6 +2283,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0804",
+                        "changenotes": "Brought up to current standards."
+                    },
                     {
                         "version": "24.0422",
                         "changenotes": "Added buy me a coffee"
