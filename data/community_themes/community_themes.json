@@ -2,6 +2,35 @@
     "themes": [
         {
             "theme": {
+                "id": 55,
+                "uuid": "f9ade3fd-5998-407e-9131-40bd8ea6fd6f",
+                "name": "Dark Rose",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Dark Rose theme for Droptop Four<br>Theme inspired by niksingh710",
+                "version": "24.0811",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Dark%20Rose%20-%20KazukiGames82%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Dark_Rose-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0811",
+                        "changenotes": "- First Release"
+                    }
+                ]
+            }
+        },
+        {
+            "theme": {
                 "id": 54,
                 "uuid": "67f9d208-9206-432f-882d-3ca1c9477add",
                 "name": "Catppuccin Macchiato 4Bar",
