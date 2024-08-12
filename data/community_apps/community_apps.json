@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 74,
+                "uuid": "84d927c9-7b87-4512-af74-b489182daf93",
+                "name": "Game Library",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Manage your Game Library through this handy dropdown.",
+                "version": "24.0812",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game%20Library%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game_Library-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0812",
+                        "changenotes": "First release. Future versions will include automatic fetching of game info (eg. its release date, the developer, and the genre) and may even automatically fetch poster art."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 73,
                 "uuid": "667f8f51-68d4-4af9-a681-741c5281906f",
                 "name": "Facebook Marketplace",
