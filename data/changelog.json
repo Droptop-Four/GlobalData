@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.360.69",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixes to errors in the Sample App and Sample WebView app when creating a new Community App.",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.67",
             "new_features": [],
             "modifications": [
