@@ -30,6 +30,10 @@
                         "changenotes": "Added additional size option. Minor bug fixes."
                     },
                     {
+                        "version": "24.0813",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
                         "version": "24.0812",
                         "changenotes": "First release. Future versions will include automatic fetching of game info (eg. its release date, the developer, and the genre) and may even automatically fetch poster art."
                     }
