@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.360.70",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing measures in Folders #7 through #12",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.69",
             "new_features": [],
             "modifications": [],
