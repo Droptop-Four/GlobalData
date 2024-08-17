@@ -77,7 +77,7 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "See and Manage your calendar events.",
-                "version": "24.0722",
+                "version": "24.0817",
                 "downloads": 27,
                 "official_link": "https://github.com/KazukiGames82/Time-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Time%20-%20KazukiGames82%20(Droptop%20App).rmskin",
@@ -90,6 +90,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0817",
+                        "changenotes": "- Updated to support animated icons"
+                    },
                     {
                         "version": "24.0722",
                         "changenotes": "- First Release."
