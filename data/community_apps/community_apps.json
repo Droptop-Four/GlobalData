@@ -28,6 +28,10 @@
                     {
                         "version": "24.0818",
                         "changenotes": "Moving the app to either side of the screen will now change the direction the lyrics display"
+                    },
+                    {
+                        "version": "24.0818",
+                        "changenotes": "Clicking on the lyrics will now hide the lyrics for 5 seconds (To allow the user to click behind it)"
                     }
                 ]
             }
