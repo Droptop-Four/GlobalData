@@ -24,6 +24,10 @@
                     {
                         "version": "24.0818",
                         "changenotes": "First release."
+                    },
+                    {
+                        "version": "24.0818",
+                        "changenotes": "Moving the app to either side of the screen will now change the direction the lyrics display"
                     }
                 ]
             }
