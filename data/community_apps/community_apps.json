@@ -26,6 +26,10 @@
                         "changenotes": "- Added option in settings to set Anchor X\n- Minor bug fixes"
                     },
                     {
+                        "version": "24.0819",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
                         "version": "24.0818",
                         "changenotes": "First release."
                     },
