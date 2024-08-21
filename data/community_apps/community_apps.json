@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 76,
+                "uuid": "d2f338cf-5699-4b6e-bf82-f38cbc77f933",
+                "name": "Mouse Recorder",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Based on a script by ArmanDoesStuff. Records mouse movement and left-clicks, and allows you to playback that pattern a set number of times.",
+                "version": "24.0821",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Mouse%20Recorder%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Mouse_Recorder-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0821",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 75,
                 "uuid": "5f2f4035-3aa7-45a5-83f1-8a5a6d9a337e",
                 "name": "Proton Lyrics",
