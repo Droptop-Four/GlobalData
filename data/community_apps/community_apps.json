@@ -24,6 +24,10 @@
                     {
                         "version": "24.0821",
                         "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0821",
+                        "changenotes": "Fixed dialog error"
                     }
                 ]
             }
