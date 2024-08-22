@@ -1,6 +1,33 @@
 {
     "changelog": [
         {
+            "version": "4.360.80",
+            "new_features": [
+                "Added new \"Overflow\" feature for apps. Hide any app from the bar without disabling it. Open the \"Toggle & rearrange\" dropdown, and right-click on any app New option \"Place app in Overflow\". When at least one app is assigned to the Overflow, a new arrow will appear on the bar to show/hide hidden apps.",
+                "Added new \"Set home icon\" menu in Settings",
+                "Added option to randomize home icon once per hour",
+                "Right-clicking on a .png, .jpg, .bmp, .tif, .webp, or .ico image in Folders will now show a preview of that image",
+                "Added option \"Droptop settings >> Support >> Developer tools >> Create 32x32 button images\"; Used to quickly create buttons for Community Apps"
+            ],
+            "modifications": [
+                "Minor changes to some themes",
+                "Home icons are now default 64x64 instead of 32x32",
+                "Removed most home icons, added some new icons",
+                "Uploading a custom home icon now locked on Basic Version",
+                "Added option to set greyscale icons between the top bar and dropdown menus independently",
+                "Greyscale top bar icons will now affect colored Community App buttons",
+                "Removed option \"Hide submenu icons\"",
+                "\"Hide icons\" will now only affect icons in folders",
+                "Removed size selection menu from setup screen, added expanded home icon selection",
+                "Updated language translations",
+                "App command icons will now appear larger in the bar; App command icons in the Application menu will now be hidden if more than 3 characters long (eg. if it is a word)"
+            ],
+            "bug_fixes": [
+                "Fixed input fields not accepting foreign characters -@KazukiGames82 🇲🇽 | 🇪🇦",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.70",
             "new_features": [],
             "modifications": [],
