@@ -13,12 +13,12 @@
                         },
                         {
                             "name": "Basic Variant",
-                            "content": "The `Basic` variant has:\n - 7 home bottons icons\n - 6 fully-customizable toolbars\n - 4 themes to choose from",
+                            "content": "The `Basic` variant has:\n - 100 included home icons\n - 6 fully-customizable folders\n - 4 themes to choose from\n - Up to 5 Community Apps",
                             "inline": "True"
                         },
                         {
                             "name": "Supporter Variant",
-                            "content": "The `Supporter` variant has:\n - 300 home buttons icons\n - 12 fully-customizable toolbars\n - 22 themes to choose from",
+                            "content": "The `Supporter` variant has:\n - Upload your own home icon\n - 12 fully-customizable toolbars\n - 22 themes to choose from\n - Up to 10 Community Apps",
                             "inline": "True"
                         }
                     ],
@@ -34,7 +34,7 @@
                         },
                         {
                             "name": "Perks",
-                            "content": "The `Basic` variant has:\n - 7 home bottons icons\n - 6 fully-customizable toolbars\n - 4 themes to choose from",
+                            "content": "The `Basic` variant has:\n - 100 included home icons\n - 6 fully-customizable folders\n - 4 themes to choose from\n - Up to 5 Community Apps",
                             "inline": "True"
                         },
                         {
@@ -55,7 +55,7 @@
                         },
                         {
                             "name": "Perks",
-                            "content": "The `Supporter` variant has:\n - 300 home buttons icons\n - 12 fully-customizable toolbars\n - 22 themes to choose from",
+                            "content": "The `Supporter` variant has:\n - Upload your own home icon\n - 12 fully-customizable toolbars\n - 22 themes to choose from\n - Up to 10 Community Apps",
                             "inline": "True"
                         },
                         {
@@ -81,7 +81,7 @@
                         },
                         {
                             "name": "Basic variant",
-                            "content": "The Droptop **Basic** variant can be downloaded on [GitHub](https://github.com/Droptop-Four/Droptop-Four/releases/). To see further informations about the Basic variant type `/info Basic`.",
+                            "content": "The Droptop **Basic** variant can be downloaded on the [Website](https://droptopfour.com/download). To see further informations about the Basic variant type `/info Basic`.",
                             "inline": "True"
                         },
                         {
@@ -102,7 +102,7 @@
                         },
                         {
                             "name": "Basic variant",
-                            "content": "The Droptop **Basic** variant can be downloaded on [GitHub](https://github.com/Droptop-Four/Droptop-Four/releases/). To see further informations about the Basic variant type `/info Basic`.",
+                            "content": "The Droptop **Basic** variant can be downloaded on on the [Website](https://droptopfour.com/download). To see further informations about the Basic variant type `/info Basic`.",
                             "inline": "True"
                         }
                     ],
@@ -118,7 +118,7 @@
                         },
                         {
                             "name": "Supporter variant",
-                            "content": "The Droptop **Supporter** variant can be downloaded after paying what you want on [Gumroad](https://supporter.droptopfour.com). To see further informations about the Supporter variant type `/info Supporter`.",
+                            "content": "The Droptop **Supporter** variant can be downloaded after paying what you want starting from 8$ on [Gumroad](https://supporter.droptopfour.com). To see further informations about the Supporter variant type `/info Supporter`.",
                             "inline": "True"
                         }
                     ],
