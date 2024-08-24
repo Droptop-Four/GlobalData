@@ -2150,7 +2150,7 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Can show tooltips for all the built in apps and the icons at the top of the home menu.  Can now make custom tooltips for the folders on the left side of Droptop.",
-                "version": "24.0820",
+                "version": "24.0824",
                 "downloads": 49,
                 "official_link": "https://github.com/papa-boynton/ToolTipster",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/ToolTipster%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
@@ -2163,6 +2163,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0824",
+                        "changenotes": "Minor bug fixes.  Changed default tip for update due to Droptop Changes."
+                    },
                     {
                         "version": "24.0820",
                         "changenotes": "Complete re-write to bring it up to current standards.  Can now make custom tooltips for the folders on the left side of Droptop."
