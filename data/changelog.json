@@ -1,6 +1,84 @@
 {
     "changelog": [
         {
+            "version": "4.360.80",
+            "new_features": [
+                "Added new \"Overflow\" feature for apps. Hide any app from the bar without disabling it. Open the \"Toggle & rearrange\" dropdown, and right-click on any app New option \"Place app in Overflow\". When at least one app is assigned to the Overflow, a new arrow will appear on the bar to show/hide hidden apps.",
+                "Added new \"Set home icon\" menu in Settings",
+                "Added option to randomize home icon once per hour",
+                "Right-clicking on a .png, .jpg, .bmp, .tif, .webp, or .ico image in Folders will now show a preview of that image",
+                "Added option \"Droptop settings >> Support >> Developer tools >> Create 32x32 button images\"; Used to quickly create buttons for Community Apps"
+            ],
+            "modifications": [
+                "Minor changes to some themes",
+                "Home icons are now default 64x64 instead of 32x32",
+                "Removed most home icons, added some new icons",
+                "Uploading a custom home icon now locked on Basic Version",
+                "Added option to set greyscale icons between the top bar and dropdown menus independently",
+                "Greyscale top bar icons will now affect colored Community App buttons",
+                "Removed option \"Hide submenu icons\"",
+                "\"Hide icons\" will now only affect icons in folders",
+                "Removed size selection menu from setup screen, added expanded home icon selection",
+                "Updated language translations",
+                "App command icons will now appear larger in the bar; App command icons in the Application menu will now be hidden if more than 3 characters long (eg. if it is a word)"
+            ],
+            "bug_fixes": [
+                "Fixed input fields not accepting foreign characters -@KazukiGames82 🇲🇽 | 🇪🇦",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.70",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing measures in Folders #7 through #12",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.69",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixes to errors in the Sample App and Sample WebView app when creating a new Community App.",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.67",
+            "new_features": [],
+            "modifications": [
+                "Alarm app will now show a notification when the alarm is activated"
+            ],
+            "bug_fixes": [
+                "Fixed bug that could cause Droptop to fail to install if the user changed their Windows Username",
+                "Fixed a bug that caused Scroll Up/Down actions to not work if the Shortcut app was in use",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.64",
+            "new_features": [
+                "Added option `Droptop settings >> Menu options >> Animation speed`",
+                "Added Greek language translation (Thank you @AloneAlexandros)",
+                "Added animated toggle and checkmark buttons",
+                "Added new option in Battery settings `Always show backlight bar`, removed option `Only show backlight icon`",
+                "Scrolling on the battery app icon will now raise/lower brightness settings"
+            ],
+            "modifications": [
+                "Simplified method of adding toggles, checkmarks, and dividers in new Community Apps",
+                "New beta indicator icon",
+                "Removed the ability for Droptop to show notifications in-bar (Retired feature, replaced with Notification Popups)",
+                "When Droptop is refreshing, the home icon will temporarily change to a new hourglass icon",
+                "Updated translations"
+            ],
+            "bug_fixes": [
+                "Fixed Battery app always displaying 0 brightness when opened",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.47",
             "new_features": [
                 "Added Chinese language translation"
