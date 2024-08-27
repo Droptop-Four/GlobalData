@@ -992,7 +992,7 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Runs a random screensaver after set delay.\nComes with 12 screensavers.\nSet the delay in the settings menu.",
-                "version": "24.0803",
+                "version": "24.0827",
                 "downloads": 58,
                 "official_link": "https://github.com/papa-boynton/IdleScreen-TheyCallMePapa/releases/tag/latest",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/IdleScreen%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
@@ -1005,6 +1005,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0827",
+                        "changenotes": "Fixed bad color setting for 2Icon in Settings.ini"
+                    },
                     {
                         "version": "24.0803",
                         "changenotes": "Bought up to current standards."
