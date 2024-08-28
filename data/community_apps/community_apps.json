@@ -2589,6 +2589,10 @@
                         "changenotes": "Major bug fixes"
                     },
                     {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
                         "version": "24.0707",
                         "changenotes": "Cosmetic changes."
                     },
