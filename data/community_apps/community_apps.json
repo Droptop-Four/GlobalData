@@ -2244,6 +2244,10 @@
                         "changenotes": "Minor improvements"
                     },
                     {
+                        "version": "24.0828",
+                        "changenotes": "Minor improvements"
+                    },
+                    {
                         "version": "24.0824",
                         "changenotes": "Minor bug fixes.  Changed default tip for update due to Droptop Changes."
                     },
