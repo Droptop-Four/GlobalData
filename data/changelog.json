@@ -1,6 +1,25 @@
 {
     "changelog": [
         {
+            "version": "4.360.91",
+            "new_features": [
+                "Added new option \"Droptop Settings >> Options >> Shape >> Rounded monitor corners\" Adds faux rounded corners to your display",
+                "Added option to toggle blur borders for Top Bar and Dropdown Menus",
+                "Added new option \"Droptop settings >> Options >> Autohide settings >> Set autohide trigger style\" Choose between \"Full width\" (Standard) or the new \"Touch tab\" option"
+            ],
+            "modifications": [
+                "Minor theme changes",
+                "When enabling Touchscreen Mode in Advanced settings, Droptop will switch to Autohide mode and change the Autohide Trigger Style to \"Touch tab\"",
+                "Update notification in top bar will no longer be dismissible if the update is an \"emergency update\" required due to fundamental changes to the Windows OS or to Rainmeter",
+                "\"Full Width\" autohide trigger option will now only apply to the width of the top bar when Top Bar Centering is enabled"
+            ],
+            "bug_fixes": [
+                "Stability improvements",
+                "Fixed bug that caused Chameleon to only follow the color of the wallpaper of the primary display",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.80",
             "new_features": [
                 "Added new \"Overflow\" feature for apps. Hide any app from the bar without disabling it. Open the \"Toggle & rearrange\" dropdown, and right-click on any app New option \"Place app in Overflow\". When at least one app is assigned to the Overflow, a new arrow will appear on the bar to show/hide hidden apps.",
