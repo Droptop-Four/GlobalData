@@ -2459,7 +2459,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "A simple System Monitor for Droptop with official support",
-                "version": "24.0901",
+                "version": "24.0907",
                 "downloads": 143,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Usage%20Monitor%20-%20Cariboudjan%20(Droptop%20App).rmskin",
@@ -2472,6 +2472,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0907",
+                        "changenotes": "Added color-coded graphs for CPU, GPU, RAM, HDD, and Network usage."
+                    },
                     {
                         "version": "24.0901",
                         "changenotes": "Added download/upload rates, removed unnecessary !Redraw bangs"
