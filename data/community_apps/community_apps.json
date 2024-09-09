@@ -2489,6 +2489,10 @@
                         "changenotes": "Added color-coded graphs for CPU, GPU, RAM, HDD, and Network usage."
                     },
                     {
+                        "version": "24.0907",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
                         "version": "24.0901",
                         "changenotes": "Added download/upload rates, removed unnecessary !Redraw bangs"
                     },
