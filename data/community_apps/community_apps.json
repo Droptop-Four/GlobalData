@@ -542,7 +542,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Meta AI, but in a dropdown.",
-                "version": "24.0701",
+                "version": "24.0909",
                 "downloads": 38,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Meta%20AI%20-%20Cariboudjan%20(Droptop%20App).rmskin",
@@ -554,6 +554,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
                     {
                         "version": "24.0420",
                         "changenotes": "First release"
