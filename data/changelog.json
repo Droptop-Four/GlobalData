@@ -1,6 +1,23 @@
 {
     "changelog": [
         {
+            "version": "4.360.96",
+            "new_features": [
+                "Added bar underneath Alarm app to display remaining time for Pomodoro",
+                "Added time stamps to files in Recent app"
+            ],
+            "modifications": [
+                "Added sound effect when an rmskin is finished generating",
+                "Minor changes to Transparent and MacOS Ventura themes",
+                "All app settings are now accessible only through right-clicking on the app in the top bar"
+            ],
+            "bug_fixes": [
+                "Performance and stability improvements",
+                "Fixed Overflow apps not hiding automatically",
+                "Many minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.91",
             "new_features": [
                 "Added new option \"Droptop Settings >> Options >> Shape >> Rounded monitor corners\" Adds faux rounded corners to your display",
