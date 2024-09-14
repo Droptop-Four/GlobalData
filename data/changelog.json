@@ -19,6 +19,24 @@
             ]
         },
         {
+            "version": "4.370.1",
+            "new_features": [
+                "Added new Folder Overflow option ( ⋮ ) that will allow quick access to disabled Folders in the top bar",
+                "Added new option \"Droptop settings >> Options >> Menu options >> Show faux MacOS titles\""
+            ],
+            "modifications": [
+                "Minor changes to App Overflow icon",
+                "Added new battery icon option",
+                "Increased the height of the Touch Tab for a larger hitbox",
+                "New animated checkmark for Default theme"
+            ],
+            "bug_fixes": [
+                "Fixed a bug where Droptop would not properly install if the OneDrive folder was not called literally \"OneDrive\"",
+                "Fixed a bug where Blur would not work on Windows 10 devices",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.360.96",
             "new_features": [
                 "Added bar underneath Alarm app to display remaining time for Pomodoro",
