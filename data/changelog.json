@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.2",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing translations"
+            ]
+        },
+        {
             "version": "4.370.01",
             "new_features": [
                 "Added new Folder Overflow option ( ⋮ ) that will allow quick access to disabled Folders in the top bar",
