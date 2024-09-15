@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.5",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fix with the installation screen"
+            ]
+        },
+        {
             "version": "4.370.4",
             "new_features": [],
             "modifications": [],
