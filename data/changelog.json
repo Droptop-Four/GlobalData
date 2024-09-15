@@ -6,7 +6,7 @@
             "modifications": [],
             "bug_fixes": [
                 "Fixed a bug that caused the Touch Tab to be visible when apps were not fullscreen",
-                "Fixed an installation bug that could cause the Droptop slash logo to get stuck on",
+                "Fixed an installation bug that could cause the Droptop splash logo to get stuck on",
                 "Minor bug fixes"
             ]
         },
