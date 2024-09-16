@@ -141,7 +141,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Shows the current line lyrics as you listen to music. Requires the WebNowPlaying extension installed.",
-                "version": "24.0819",
+                "version": "24.0916",
                 "downloads": 21,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Proton%20Lyrics%20-%20Archived%20(Droptop%20App).rmskin",
@@ -153,6 +153,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0916",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "24.0819",
                         "changenotes": "- Added option in settings to set Anchor X\n- Minor bug fixes"
