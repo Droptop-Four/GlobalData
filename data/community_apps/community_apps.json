@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 81,
+                "uuid": "7b419318-3acb-4f68-8ef7-7601de58828d",
+                "name": "MultiCalc",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Calculator, unit conversion, and 2D plot charting",
+                "version": "24.0917",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/MultiCalc%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/MultiCalc-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 80,
                 "uuid": "e4e64a2e-615c-4f84-a69a-3ba0713f5160",
                 "name": "TradingView",
