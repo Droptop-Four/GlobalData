@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 83,
+                "uuid": "a2f5a300-a68d-437b-bc2e-3ab6d5c92e61",
+                "name": "Stopwatch",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Finally, a stopwatch for Droptop.",
+                "version": "24.0917",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Stopwatch%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Stopwatch-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 82,
                 "uuid": "f5025f36-7aae-48a6-a5b1-166c619fd15d",
                 "name": "QR Snapper",
