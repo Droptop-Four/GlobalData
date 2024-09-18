@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.9",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a Container bug with some Community Apps"
+            ]
+        },
+        {
             "version": "4.370.6",
             "new_features": [],
             "modifications": [],
