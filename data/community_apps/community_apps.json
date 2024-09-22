@@ -2,6 +2,34 @@
     "apps": [
         {
             "app": {
+                "id": 88,
+                "uuid": "0e309d41-01a8-427b-a258-3195e51a966f",
+                "name": "Power Controls",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Show power controls in the bar",
+                "version": "24.0922",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Power%20Controls%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Power_Controls-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0922",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
                 "id": 87,
                 "uuid": "6fd8e539-10d2-40f6-8c15-fa897b0319c4",
                 "name": "Minecraft Status",
@@ -1490,7 +1518,7 @@
                     },
                     {
                         "version": "24.0227",
-                        "changenotes": "�\u0083�\u0083�\u0083�\u0083�\u0082�\u0082�\u0083�\u0083�\u0082�\u0083�\u0082�\u0082¡�\u0083�\u0083�\u0083�\u0083�\u0082�\u0082�\u0083�\u0083�\u0082�\u0083�\u0082�\u0082¡�\u0083�\u0083�\u0083�\u0083�\u0082�\u0082�\u0083�\u0083�\u0082�\u0083�\u0082�\u0082¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
+                        "changenotes": "ÃÂÂÃÂÂÃÂÂÃÂÃÂ¡ÃÂÂÃÂÂÃÂÂÃÂÃÂ¡ÃÂÂÃÂÂÃÂÂÃÂÃÂ¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
                     },
                     {
                         "version": "24.0219",
