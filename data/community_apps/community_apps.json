@@ -24,6 +24,10 @@
                     {
                         "version": "24.0922",
                         "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0922",
+                        "changenotes": "Minor bug fix"
                     }
                 ]
             }
@@ -1518,7 +1522,7 @@
                     },
                     {
                         "version": "24.0227",
-                        "changenotes": "�\u0083�\u0083�\u0082�\u0083�\u0082�\u0083�\u0083�\u0083�\u0082�\u0082�\u0082�\u0082�\u0083�\u0083�\u0082�\u0083�\u0082�\u0082�\u0083�\u0083�\u0082�\u0082�\u0083�\u0082�\u0082¡�\u0083�\u0083�\u0082�\u0083�\u0082�\u0083�\u0083�\u0083�\u0082�\u0082�\u0082�\u0082�\u0083�\u0083�\u0082�\u0083�\u0082�\u0082�\u0083�\u0083�\u0082�\u0082�\u0083�\u0082�\u0082¡�\u0083�\u0083�\u0082�\u0083�\u0082�\u0083�\u0083�\u0083�\u0082�\u0082�\u0082�\u0082�\u0083�\u0083�\u0082�\u0083�\u0082�\u0082�\u0083�\u0083�\u0082�\u0082�\u0083�\u0082�\u0082¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
+                        "changenotes": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
                     },
                     {
                         "version": "24.0219",
