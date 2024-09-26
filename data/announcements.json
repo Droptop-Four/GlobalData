@@ -6,9 +6,9 @@
         "type": ""
     },
     "website": {
-        "date": null,
+        "date": 24.0926,
         "expiration": null,
-        "announcement": "",
-        "type": ""
+        "announcement": "We are currently having problems showing community apps & themes, but we are working on it. Thanks for the patience",
+        "type": "warning"
     }
 }
