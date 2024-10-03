@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.370.20",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Temporarily, Droptop Store app and Droptop Store links will directly link to the website",
+                "Fixed bug where clicking in the corner would trigger Hot Corner actions when in a fullscreen app (eg. a game)"
+            ]
+        },
+        {
             "version": "4.370.19",
             "new_features": [],
             "modifications": [],
