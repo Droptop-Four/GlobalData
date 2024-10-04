@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.22",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing animations in setup menu"
+            ]
+        },
+        {
             "version": "4.370.21",
             "new_features": [],
             "modifications": [],
