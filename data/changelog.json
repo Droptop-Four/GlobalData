@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.21",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Hot fix for bug in setup screen"
+            ]
+        },
+        {
             "version": "4.370.20",
             "new_features": [],
             "modifications": [],
