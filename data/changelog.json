@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.23",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing animation in startup menu"
+            ]
+        },
+        {
             "version": "4.370.22",
             "new_features": [],
             "modifications": [],
