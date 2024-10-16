@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.30",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.23",
             "new_features": [],
             "modifications": [],
