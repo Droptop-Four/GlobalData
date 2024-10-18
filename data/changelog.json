@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.31",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed incorrect app positions on new installs"
+            ]
+        },
+        {
             "version": "4.370.30",
             "new_features": [],
             "modifications": [],
