@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.370.34",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes (Hopefully the last update until November)"
+            ]
+        },
+        {
             "version": "4.370.31",
             "new_features": [],
             "modifications": [],
