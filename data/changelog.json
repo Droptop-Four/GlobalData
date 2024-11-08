@@ -1,6 +1,17 @@
 {
     "changelog": [
         {
+            "version": "4.370.36",
+            "new_features": [],
+            "modifications": [
+                "Minor modifications to some themes"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes",
+                "Fixed issues with selecting colors in Theme Builder"
+            ]
+        },
+        {
             "version": "4.370.34",
             "new_features": [],
             "modifications": [],
