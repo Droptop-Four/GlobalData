@@ -1,6 +1,25 @@
 {
     "changelog": [
         {
+            "version": "4.370.57",
+            "new_features": [
+                "Merry Christmas and Happy New Year from Droptop! 🎄❄️🎅",
+                "Added v1.0 of Bluetooth devices dropdown in Wifi app using Bluetooth plugin and lua script by @Bunz {not the actual creator}",
+                "Added Bluetooth button to the Functions community app",
+                "Added Keyboard Layout indicator to Functions community app",
+                "New WebView apps will now have a new navigation button to toggle the width of the WebView app between 100%, 80%, and 60%.",
+                "Added option to show Wifi SSID in the top bar"
+            ],
+            "modifications": [
+                "Now includes new \"Droptop Task Helper\" app that runs in the background, automatically re-opening Rainmeter/Droptop in the event of a fatal crash",
+                "Minor cosmetic changes to the Windows 12 theme",
+                "Added Mica Blur toggle to `Droptop settings >> Options >> Blur`. (Only available on certain themes and on Windows 11)"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.36",
             "new_features": [],
             "modifications": [
