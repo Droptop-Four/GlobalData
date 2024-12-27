@@ -4,7 +4,7 @@
             "version": "4.370.57",
             "new_features": [
                 "Merry Christmas and Happy New Year from Droptop! 🎄❄️🎅",
-                "Added v1.0 of Bluetooth devices dropdown in Wifi app using Bluetooth plugin and lua script by @Bunz {not the actual creator}",
+                "Added v1.0 of Bluetooth devices dropdown in Wifi app using Bluetooth plugin and lua script by @Bunz",
                 "Added Bluetooth button to the Functions community app",
                 "Added Keyboard Layout indicator to Functions community app",
                 "New WebView apps will now have a new navigation button to toggle the width of the WebView app between 100%, 80%, and 60%.",
