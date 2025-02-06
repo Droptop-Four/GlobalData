@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.370.61",
+            "new_features": [],
+            "modifications": [
+                "Temporarily disabled Bluetooth functionality due to conflicts with the latest version of Windows 11"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.57",
             "new_features": [
                 "Merry Christmas and Happy New Year from Droptop! 🎄❄️🎅",
