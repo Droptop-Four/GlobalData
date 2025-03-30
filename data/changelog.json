@@ -1,6 +1,21 @@
 {
     "changelog": [
         {
+            "version": "4.370.81",
+            "new_features": [
+                "Keyboard shortcut Alt+Shift+D will now reveal Droptop in Autohide and Desktop Only modes"
+            ],
+            "modifications": [
+                "Temporarily, Droptop will now default to Always On Top in \"Always Show\" mode, and Top Bar Shadows are disabled as a hotfix for Droptop hiding when using the Show Desktop function in Windows 11 24H2",
+                "Droptop Task Helper (Droptop.exe) will now automatically close when running a fullscreen application, and relaunch when that application is closed. This should alleviate issues with Anticheat software in games and Autohotkey."
+            ],
+            "bug_fixes": [
+                "Fixed issue with automatic color scheming",
+                "Fixed a bug where folder names were not updating in the Folder Overflow",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.61",
             "new_features": [],
             "modifications": [
