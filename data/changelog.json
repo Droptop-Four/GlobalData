@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.370.83",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug where Droptop would hide if Show Desktop or Win+D shortcut were used",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.81",
             "new_features": [
                 "Keyboard shortcut Alt+Shift+D will now reveal Droptop in Autohide and Desktop Only modes"
