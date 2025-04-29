@@ -1,6 +1,21 @@
 {
     "changelog": [
         {
+            "version": "4.370.96",
+            "new_features": [
+                "Added and updated Bluetooth function to the Wifi app"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug where Droptop Task Helper would stay open when Rainmeter exits",
+                "Fixed bug where Droptop would sometimes fail to install because of conflicting background processes",
+                "Droptop will now check for duplicate tasks in the system tray and attempt to terminate them, if they exist",
+                "Fixed Droptop Store app not downloading files (May require updating the Droptop Store app manually)",
+                "Fixed lag caused by Windows Defender on Windows 11",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.83",
             "new_features": [],
             "modifications": [],
