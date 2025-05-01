@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.370.98",
+            "new_features": [],
+            "modifications": [
+                "Windows Defender exclusion script will now run on initial setup"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes to Bluetooth device list"
+            ]
+        },
+        {
             "version": "4.370.96",
             "new_features": [
                 "Added and updated Bluetooth function to the Wifi app"
