@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.370.101",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "WebView apps will no longer be able to draw outside of the screen (under normal conditions)",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.370.98",
             "new_features": [],
             "modifications": [
