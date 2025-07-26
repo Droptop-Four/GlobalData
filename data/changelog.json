@@ -1,6 +1,17 @@
 {
     "changelog": [
         {
+            "version": "4.380.9",
+            "new_features": [],
+            "modifications": [
+                "Removed notification that \"Droptop is up-to-date\" on Droptop start up",
+                "Replaced Snow Leopard theme with MacOS Tahoe theme"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.380.2",
             "new_features": [],
             "modifications": [],
