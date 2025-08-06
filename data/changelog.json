@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.380.16",
+            "new_features": [],
+            "modifications": [
+                "Added option to show your IP address next to the Wifi app icon",
+                "Holding down left-click on the arrow keys in the Calendar will now rotate months automatically",
+                "Other minor cosmetic changes"
+            ],
+            "bug_fixes": [
+                "Submenus near the monitor edge will now be fully drawn inside the current monitor",
+                "Fixed a bug that prevented automatic color changing and weather location from being updated on Droptop startup",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.380.12",
             "new_features": [],
             "modifications": [
