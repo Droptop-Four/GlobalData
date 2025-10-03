@@ -1,14 +1,14 @@
 {
     "app": {
-        "date": null,
+        "date": 25.1002,
         "expiration": null,
-        "announcement": "",
-        "type": ""
+        "announcement": "We are experiencing some problems with the Droptop API, because of this some parts of the website and the app are expected not to work. We are sorry for the inconvenience.",
+        "type": "important"
     },
     "website": {
-        "date": null,
+        "date": 25.1002,
         "expiration": null,
-        "announcement": "",
-        "type": ""
+        "announcement": "We are experiencing some problems with the Droptop API, because of this some parts of the website and the app are expected not to work. We are sorry for the inconvenience.",
+        "type": "important"
     }
 }
