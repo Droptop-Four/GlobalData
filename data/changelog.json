@@ -1,6 +1,30 @@
 {
     "changelog": [
         {
+            "version": "4.380.27",
+            "new_features": [
+                "Dropdown menu highlight effects are now animated and move smoothly with the cursor position",
+                "Added new option \"Show as app grid\" to folder settings. Folders can now display as icons-only in a grid"
+            ],
+            "modifications": [
+                "SSID will no longer display if connected to internet via ethernet",
+                "Droptop will no longer show a command prompt window when restarting",
+                "Droptop will now reopen quicker when the app is restarted",
+                "New high-res icons for Bookmarks & Games folders (New installs only)",
+                "Showing Droptop on top of windows with the keyboard shortcut will now use the Shift+Alt+Plus hotkey",
+                "MacOS Tahoe theme will now be named iPadOS 26",
+                "Apps folder will now default to \"Show as app grid\"",
+                "Removed Bluetooth refresh/toggle buttons from Wifi app (No longer needed)",
+                "Other minor changes and optimizations"
+            ],
+            "bug_fixes": [
+                "Fixed a bug where SSID would not update in the bar",
+                "Fixed bug that would cause an error popup if both Rainmeter and the Skins Folder were installed to the non-default location",
+                "Fixed a bug that would cause the sleep, shutdown, lock, etc buttons to not work on Windows 11",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.380.18",
             "new_features": [],
             "modifications": [],
