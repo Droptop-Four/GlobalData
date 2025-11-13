@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.390.1",
+            "new_features": [
+                "All features from the previous 4.380 version updates"
+            ],
+            "modifications": [
+                "Droptop Task Helper will no longer display as an icon in the system tray",
+                "Droptop Task Helper will now close itself to avoid conflict when the EA Anti-cheat window is opened (For example, when launching Battlefield 6). The Droptop Task Helper will automatically re-launch itself when the game exits."
+            ],
+            "bug_fixes": [
+                "Fixed Bluetooth dropdown not displaying device icons",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.380.27",
             "new_features": [
                 "Dropdown menu highlight effects are now animated and move smoothly with the cursor position",
