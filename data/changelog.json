@@ -1,6 +1,22 @@
 {
     "changelog": [
         {
+            "version": "4.390.9",
+            "new_features": [
+                "Added animations for highlight effects to the Top Bar"
+            ],
+            "modifications": [
+                "Updated ChromeOS theme: Smaller font, and will now follow the desktop wallpaper color",
+                "Improved default sizing for popout window for WebView apps",
+                "Added new style of input fields to the create & share Community App/Community Theme windows",
+                "Added new options in the initial setup window",
+                "Droptop will now only re-check if the keyboard language is correct once every 120 seconds (Previously 15 seconds)"
+            ],
+            "bug_fixes": [
+                "Fixed bug where using Hide Icons would hide icons in the app grid"
+            ]
+        },
+        {
             "version": "4.390.1",
             "new_features": [
                 "All features from the previous 4.380 version updates"
