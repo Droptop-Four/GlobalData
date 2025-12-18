@@ -1,6 +1,23 @@
 {
     "changelog": [
         {
+            "version": "4.400.1",
+            "new_features": [
+                "Added new Easing Window plugin by KazukiGames82 that adds animations to dropdown menus",
+                "Added sliding animation for the top bar in autohide mode"
+            ],
+            "modifications": [
+                "Added option to set autohide delay & animation speed",
+                "Left-clicking on the heart button in the Volume app will now toggle Like or Thumbs Up on/off. Middle-clicking on the heart button will toggle Thumbs Down.",
+                "Games folder will now use App Grid by default (New installs only)",
+                "Removed option to show black corners"
+            ],
+            "bug_fixes": [
+                "Support for Arc Raiders launcher Will require 2 launches to work due to the launcher's limitations.",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.390.20",
             "new_features": [
                 "When a device enters tablet mode, the top bar will now automatically switch to autohide",
