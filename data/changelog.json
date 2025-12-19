@@ -9,6 +9,14 @@
             ]
         },
         {
+            "version": "4.400.9",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a bug where some users were unable to install the previous update"
+            ]
+        },
+        {
             "version": "4.400.1",
             "new_features": [
                 "Added new Easing Window plugin by KazukiGames82 that adds animations to dropdown menus",
