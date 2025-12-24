@@ -26,6 +26,14 @@
             ]
         },
         {
+            "version": "4.390.45",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Revert to 4.390.20 code temporarily to correct a critical bug fix See #preview-updates for the latest beta."
+            ]
+        },
+        {
             "version": "4.390.20",
             "new_features": [
                 "When a device enters tablet mode, the top bar will now automatically switch to autohide",
