@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.400.19",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug preventing installation on some machines",
+                "Droptop no longer officially supports 32-bit machines."
+            ]
+        },
+        {
             "version": "4.400.9",
             "new_features": [],
             "modifications": [],
