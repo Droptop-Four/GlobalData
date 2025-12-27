@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.400.20",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug with Top Bar Sections and using the App Overflow option.",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.400.19",
             "new_features": [],
             "modifications": [],
