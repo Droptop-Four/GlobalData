@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.400.38",
+            "new_features": [
+                "Last update (I promise) until 2026."
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Some minor bug fixes and stability improvements"
+            ]
+        },
+        {
             "version": "4.400.35",
             "new_features": [
                 "When playback controls are enabled in the Volume app settings, the controls will now automatically hide when nothing is playing",
