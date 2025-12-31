@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.400.35",
+            "new_features": [
+                "When playback controls are enabled in the Volume app settings, the controls will now automatically hide when nothing is playing",
+                "Added progress bar under the play/pause button of the Volume app's playback controls"
+            ],
+            "modifications": [
+                "Renamed \"Recent\" app to \"Functions\" app. Now contains the Recent app + all apps from the now-retired Functions community app",
+                "Droptop now comes with VirtualDesktop by KazukiGames82 (new installs only)"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.400.22",
             "new_features": [],
             "modifications": [],
