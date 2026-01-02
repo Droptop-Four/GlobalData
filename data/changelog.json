@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.400.40",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Stability improvements",
+                "Fixed bug where Community App updating notifications weren't appearing",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.400.38",
             "new_features": [
                 "Last update (I promise) until 2026."
