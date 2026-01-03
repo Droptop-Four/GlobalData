@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.400.41",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed center clock not displaying correct info"
+            ]
+        },
+        {
             "version": "4.400.40",
             "new_features": [],
             "modifications": [],
