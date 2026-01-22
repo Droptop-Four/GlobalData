@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.400.66",
+            "new_features": [],
+            "modifications": [
+                "If the setup splash screen (watermelon) doesn't complete within 1 minute, the installer will now say \"Install failed\" and request the user try the .rmskin installer again. (Problem caused by OneDrive)"
+            ],
+            "bug_fixes": [
+                "Fixed bug that caused the setup screen to reset after 30 seconds"
+            ]
+        },
+        {
             "version": "4.400.65",
             "new_features": [
                 "Added new options 'Droptop settings >> Options >> Animations' to set dropdown and top bar animation styles",
