@@ -1,6 +1,27 @@
 {
     "changelog": [
         {
+            "version": "4.400.65",
+            "new_features": [
+                "Added new options 'Droptop settings >> Options >> Animations' to set dropdown and top bar animation styles",
+                "Added `App opens Notification Center` option to Time app settings"
+            ],
+            "modifications": [
+                "Removed option to set autohide fade speed or animation speed (no longer needed)",
+                "Retraction animations for dropdown menus will no longer run when running on battery power",
+                "Removed Alt+Shift+Plus hotkey to show/hide Droptop",
+                "Using `Create 32x32 buttons in Droptop settings >> Support >> Developer tools` will now also create white dropdown item icons for Community Apps",
+                "Added new startup tips skin (New installs only)"
+            ],
+            "bug_fixes": [
+                "Improvements to autohide functionality and animations",
+                "Fixed bug that caused items to sometimes get stuck as their secondary color",
+                "Fixed Droptop not properly moving to a different monitor when its monitor is disconnected",
+                "Fixed bug that caused the top bar to not work properly in Autohide mode if Reset Rainmeter Settings option was used.",
+                "Minor bug fixes, optimizations"
+            ]
+        },
+        {
             "version": "4.400.41",
             "new_features": [],
             "modifications": [],
