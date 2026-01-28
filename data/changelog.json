@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.400.92",
+            "new_features": [
+                "Now using a non-AutoHotkey alternative for Droptop Task Helper. Droptop will no longer cause conflicts with games like Arc Raiders or Battlefield that restrict the use of AutoHotkey"
+            ],
+            "modifications": [
+                "Improved appearance of mail app, added manual update button",
+                "Most hotkeys now run through the new SendKeys plugin instead of AutoHotkey",
+                "Removed App Commands option"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes, optimizations"
+            ]
+        },
+        {
             "version": "4.400.66",
             "new_features": [],
             "modifications": [
