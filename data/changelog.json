@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.400.94",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.400.92",
             "new_features": [
                 "Now using a non-AutoHotkey alternative for Droptop Task Helper. Droptop will no longer cause conflicts with games like Arc Raiders or Battlefield that restrict the use of AutoHotkey"
