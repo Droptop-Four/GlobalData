@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.400.99",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Added progress tracker to the startup splash screen for devs to know at what point in the process the installer fails",
+                "Removed section of startup process that may have caused the installer to be unable to progress"
+            ]
+        },
+        {
             "version": "4.400.97",
             "new_features": [],
             "modifications": [],
