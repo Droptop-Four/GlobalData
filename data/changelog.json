@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.410.3",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes (Stable release)"
+            ]
+        },
+        {
             "version": "4.400.99",
             "new_features": [],
             "modifications": [],
