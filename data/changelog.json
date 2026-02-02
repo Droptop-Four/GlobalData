@@ -1,6 +1,16 @@
 {
     "changelog": [
         {
+            "version": "4.410.8",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Improvements to autohide",
+                "Minor bug fixes",
+                "Fixes for missing folder files"
+            ]
+        },
+        {
             "version": "4.410.3",
             "new_features": [],
             "modifications": [],
