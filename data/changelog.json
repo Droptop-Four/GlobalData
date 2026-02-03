@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.410.11",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed broken measure causing install failure"
+            ]
+        },
+        {
             "version": "4.410.10",
             "new_features": [],
             "modifications": [],
