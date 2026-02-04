@@ -1,6 +1,15 @@
 {
     "changelog": [
         {
+            "version": "4.410.22",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Removed redundant files from previous updates",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.410.21",
             "new_features": [],
             "modifications": [],
