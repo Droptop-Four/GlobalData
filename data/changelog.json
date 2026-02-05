@@ -1,6 +1,20 @@
 {
     "changelog": [
         {
+            "version": "4.410.26",
+            "new_features": [],
+            "modifications": [
+                "Updated language files",
+                "Keyboard Input button will now be enabled by default for non-english languages.",
+                "Hardware Acceleration will now be enabled by default (New installs only)"
+            ],
+            "bug_fixes": [
+                "Fixed broken Keyboard Input button for Functions app",
+                "Fixed Wifi app showing \"Offline\" when Ethernet is plugged in",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.410.22",
             "new_features": [],
             "modifications": [],
