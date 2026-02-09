@@ -1,6 +1,18 @@
 {
     "changelog": [
         {
+            "version": "4.410.34",
+            "new_features": [],
+            "modifications": [
+                "Apps in the left-most slot will no longer be able to add a divider or be placed in overflow",
+                "Removed option to set song title color from Volume app settings"
+            ],
+            "bug_fixes": [
+                "Hotfix for WebNowPlaying causing Rainmeter to crash on Droptop refresh; may still have issues with playback controls and album art until plugin is fixed",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.410.27",
             "new_features": [],
             "modifications": [
