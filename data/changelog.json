@@ -1,6 +1,14 @@
 {
     "changelog": [
         {
+            "version": "4.410.36",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing measures from previous update"
+            ]
+        },
+        {
             "version": "4.410.34",
             "new_features": [],
             "modifications": [
