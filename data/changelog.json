@@ -1,6 +1,17 @@
 {
     "changelog": [
         {
+            "version": "4.410.39",
+            "new_features": [
+                "When on the desktop with autohide mode enabled, the top bar will now unhide itself automatically"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug with initial installer",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.410.36",
             "new_features": [],
             "modifications": [],
