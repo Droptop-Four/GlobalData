@@ -1,6 +1,19 @@
 {
     "changelog": [
         {
+            "version": "4.410.52",
+            "new_features": [
+                "Updated WebView to WebView2 and updated the template for making WebView apps"
+            ],
+            "modifications": [
+                "Updated some WebView apps"
+            ],
+            "bug_fixes": [
+                "Fixed a bug that caused the app/theme generator to crash Rainmeter",
+                "Minor bug fixes and optimizations"
+            ]
+        },
+        {
             "version": "4.410.39",
             "new_features": [
                 "When on the desktop with autohide mode enabled, the top bar will now unhide itself automatically"
