@@ -1,6 +1,19 @@
 {
     "changelog": [
         {
+            "version": "4.410.58",
+            "new_features": [
+                "Updated WebView and WebView apps to WebView 2.0."
+            ],
+            "modifications": [
+                "New WebView apps will now come with all WebView 2.0 features, including dropdown menus and a loading progress bar, improved navigation buttons, and a custom dropdown menu."
+            ],
+            "bug_fixes": [
+                "Minor bug fixes and optimizations",
+                "Fixed a bug that would sometimes cause Rainmeter to crash on community theme/app compilation"
+            ]
+        },
+        {
             "version": "4.410.52",
             "new_features": [
                 "Updated WebView to WebView2 and updated the template for making WebView apps"
