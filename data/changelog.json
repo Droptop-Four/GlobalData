@@ -1,6 +1,19 @@
 {
     "changelog": [
         {
+            "version": "4.420.10",
+            "new_features": [
+                "Finalized WebView2 transition"
+            ],
+            "modifications": [
+                "Clicking on the version number in settings will now do a check update"
+            ],
+            "bug_fixes": [
+                "Fixed checking for update not running on Rainmeter start",
+                "Minor bug fixes and optimizations, stability improvements"
+            ]
+        },
+        {
             "version": "4.410.58",
             "new_features": [
                 "Updated WebView and WebView apps to WebView 2.0."
