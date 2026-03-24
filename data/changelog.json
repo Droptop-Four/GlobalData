@@ -1,6 +1,22 @@
 {
     "changelog": [
         {
+            "version": "4.420.34",
+            "new_features": [
+                "WebView apps (Like the YouTube app) will now show song/video titles in the top bar and all Volume app features (including playback controls and album art) are now fully supported",
+                "Added \"Droptop settings >> My folders >> 📁 >> Shortcut layout\" to control app grid settings and select between app rows of 3, 4, or 5.",
+                "Folder names will now animate to accommodate for the Application name's width (Not active when \"Divide bar into sections\" is enabled)"
+            ],
+            "modifications": [
+                "Added \"Force user settings reset\" checkbox to Community App share window When checked, forces the update to act as a fresh install when pushing an update with significant changes.",
+                "Returned the 22nd app to the right side of the bar",
+                "Cosmetic changes for folder labels"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.420.10",
             "new_features": [
                 "Finalized WebView2 transition"
