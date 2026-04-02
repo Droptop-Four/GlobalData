@@ -1,6 +1,21 @@
 {
     "changelog": [
         {
+            "version": "4.420.51",
+            "new_features": [
+                "You can now right-click on any file/folder in a dropdown menu to pin that file/folder to the top of the list"
+            ],
+            "modifications": [
+                "New easing animations for submenus",
+                "Removed option to disable Show on Desktop for autohide mode",
+                "Folders in app grid mode will now need to be clicked to be opened"
+            ],
+            "bug_fixes": [
+                "Reduced jitter and jank for animations, especially in autohide mode",
+                "Minor bug fixes"
+            ]
+        },
+        {
             "version": "4.420.50",
             "new_features": [
                 "You can now right-click on any file/folder in a dropdown menu to pin that file/folder to the top of the list"
